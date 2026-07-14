@@ -1,0 +1,755 @@
+{
+  "book_chapter": [
+    {
+      "number": 3,
+      "text": "M. Dhanalakshmi, P. Anbarasan, Transition Metal Catalyzed C-CN Cross Coupling in C1 Chemistry, Z. Liu, H. Buxing, K. Ding, X.-F. Wu, Eds.; Wiley VCH, 2021, (in press)."
+    },
+    {
+      "number": 2,
+      "text": "M. Chaitanya, P. Anbarasan, 1,2,4,5-Tetrazines in Section 9: Six-membered Rings with Three or more Heteroatoms, and their Fused Carbocyclic Derivatives, S. J. Gharpure, S. Ed. In Comprehensive Heterocyclic Chemistry IV, D. Balck, C. Stevens and J. Cossy, Eds.; Elsevier Science, 2021, (in press)."
+    },
+    {
+      "number": 1,
+      "text": "Ramkumar, R.; Anbarasan, P. Copper-Catalyzed Click Reactions in Copper Catalysis in Organic Synthesis, Saranya, S., Anilkumar, G., Eds.; Wiley VCH, 2020, p. 177. ISBN: 9783527347377.",
+      "link": "https://onlinelibrary.wiley.com/..." 
+    }
+  ],
+  "iitm": [
+    {
+      "number": 105,
+      "text": "Catalytic Cyanation of Aryl halides with Electrophilic N-CN reagent. M. Dhanalakshmi, P. Anbarasan; Synlett 2025, accepted. (Invited article)",
+      "link": "https://www.thieme-connect.com/products/ejournals/abstract/10.1055/a-2738-7947"
+    },
+    {
+      "number": 104,
+      "text": "Transition-Metal-Free Interrupted-Hydrogen-Borrowing Methylenation of Ketones Using Methanol. M. Akter, P. Anbarasan; J. Org. Chem. 2025, 90, 16090–16103.",
+      "link": "https://doi.org/10.1021/acs.joc.5c01962"
+    },
+    {
+      "number": 103,
+      "text": "Palladium catalysed carbonylative cross-coupling of aryl (pseudo)halides and cyclopropanols. S. Srikriya, P. Anbarasan; J. Org. Chem. 2025.",
+      "link": "https://pubs.acs.org/journal/joceah"
+    },
+    {
+      "number": 102,
+      "text": "Ligand-Controlled Chemo- and Enantiodivergent Rh(III)-Catalyzed Redox-Neutral Annulation of Aryl Hydroxamates with Cyclopropenes via C–H and C–C Activation. M. Bakkiyaraj, P. Adak, P. Anbarasan; ACS Catal. 2025, 15, 15808.",
+      "link": "https://doi.org/10.1021/acscatal.5c03046"
+    },
+    {
+      "number": 101,
+      "text": "Copper-Catalyzed Enantioselective Acylcyanation of Alkenes. A. Biswas, S. Srikriya, P. Anbarasan; Org. Lett. 2025, 27, 8481.",
+      "link": "https://doi.org/10.1021/acs.orglett.5c02941"
+    },
+    {
+      "number": 100,
+      "text": "Palladium catalyzed cyanation of aryl (pseudo)halides using redox active N-CN reagent. M. Dhanalakshmi, P. Anbarasan; Chem. Commun. 2025, 61, 10534–10537.",
+      "link": "https://doi.org/10.1039/D5CC02381E"
+    },
+    {
+      "number": 99,
+      "text": "Brønsted acid-assisted Lewis acid mediated intramolecular trapping of in-situ generated aminoenol with activated alkenes and ketones. M. Altia, P. Anbarasan; Chem. Asian J. 2025, 20, e202500179.",
+      "link": "https://doi.org/10.1002/asia.202500179"
+    },
+    {
+      "number": 98,
+      "text": "Carbonyl vs Hydroxy: Rhodium catalyzed carbonyl ylide triggered diastereoselective synthesis of 2,5-methano-1,3-benzoxazepines. P. M. Reddy, P. Anbarasan; Org. Lett. 2025, 27, 3385.",
+      "link": "https://doi.org/10.1021/acs.orglett.5c01087"
+    },
+    {
+      "number": 97,
+      "text": "Catalytic Enantioselective [4+1]-Annulation of Carboxylic Acids with Cyclopropenes. M. Bakkiyaraj, P. Anbarasan; Org. Lett. 2025, 27, 1638.",
+      "link": "https://doi.org/10.1021/acs.orglett.4c04209"
+    },
+    {
+      "number": 96,
+      "text": "Reversal of reactivity of Heyns intermediate for the concise synthesis of substituted 3-hydroxyquinolines. M. Altia, P. Anbarasan; J. Org. Chem. 2024, 89, 16899.",
+      "link": "https://doi.org/10.1021/acs.joc.4c02789"
+    },
+    {
+      "number": 95,
+      "text": "Rhodium-Catalyzed One-pot Chemoselective Insertion-Rearrangement-Cyclization of Azavinyl carbenes with 2-Aminobenzyl alcohols. K. Rupa, P. Anbarasan; J. Org. Chem. 2024, 89, 16351.",
+      "link": "https://doi.org/10.1021/acs.joc.4c02415"
+    },
+    {
+      "number": 94,
+      "text": "Regioselective synthesis of 2,3-disubstituted indoles via interrupted Heyns rearrangement involving C-C bond cleavage — M. Altia, P. Anbarasan; Chem. Asian J. 2024, 19, e202400731.",
+      "link": "https://aces.onlinelibrary.wiley.com/..."
+    },
+    {
+      "number": 93,
+      "text": "Efficient Conversion of Glucose to Hydroxymethylfurfural: One-pot Brønsted Base and Acid Promoted Selective Isomerization and Dehydration — M. Altia, P. Anbarasan; Chem. Asian J. 2024, 19, e202400392.",
+      "link": "https://aces.onlinelibrary.wiley.com/..."
+    },
+    {
+      "number": 92,
+      "text": "α-Hydroxydimethylacetal/ketal as α-hydroxycarbonyl equivalent in interrupted Heyns/Amadori rearrangement: Regioselective synthesis of substituted C2- and C3-acylindoles — M. Altia, P. Anbarasan; New J. Chem. 2024, 48, 9981.",
+      "link": "https://pubs.rsc.org/..."
+    },
+    {
+      "number": 91,
+      "text": "Copper(I)-Catalyzed Tandem Aminobenzannulation of Dienyne with Sulfonyl azide — R. Ramkumar, S. Srikriya, P. Anbarasan; J. Org. Chem. 2024, 89, 3292.",
+      "link": "https://pubs.acs.org/..."
+    },
+    {
+      "number": 90,
+      "text": "An interrupted Heyns rearrangement approach to regioselective synthesis of acylindoles — M. Altia, P. Anbarasan; Chem. Commun. 2023, 59, 13747.",
+      "link": "https://pubs.rsc.org/..."
+    },
+    {
+      "number": 89,
+      "text": "Rhodium catalyzed [4+1]-annulation of o-acylanilines with 3-diazoindoline-2-imine — K. Rupa, P. Anbarasan; Org. Lett. 2023, 25, 6357.",
+      "link": "https://pubs.acs.org/..."
+    },
+    {
+      "number": 88,
+      "text": "Acid Promoted Carbosulfenylation of 1,6-Dienes: Selective Synthesis of Dehydropiperidines Scaffolds — A. Kesavan, A. K. Sahu, P. Anbarasan; Org. Lett. 2023, 25, 4765.",
+      "link": "https://pubs.acs.org/...",
+      "image": "/anbarasansp/assets/img/publication/dehydropiperidine.png"
+    },
+    {
+      "number": 87,
+      "text": "Rhodium-catalyzed [4+2]-annulation of o-acylanilines with N-sulfonyl-1,2,3-triazoles: Synthesis of 3-aminoquinolines — K. Rupa, D. Yadagiri, P. Anbarasan; J. Org. Chem. 2023, 88, 9077.",
+      "link": "https://pubs.acs.org/...",
+      "image": "/anbarasansp/assets/img/publication/quinoline.png"
+    },
+    {
+      "number": 86,
+      "text": "Synthesis of dihydro-3,1-benzoxazine derivatives from 1,3-amino alcohols and N-sulfonyl-1,2,3-triazole — K. Rupa, D. Yadagiri, R. Bagavathi, P. Anbarasan; Org. Lett. 2023, 25, 3375.",
+      "link": "https://pubs.acs.org/...",
+      "image": "/anbarasansp/assets/img/publication/TOC.png"
+    },
+    {
+      "number": 85,
+      "text": "Rhodium-Catalyzed Alkylation of Chelation-Assisted C-H bond of 1-Arylpyrazole with Cyclopropanols — K. Ramachandran, P. Anbarasan; Synlett 2023, 34, 868. (Invited article for ‘Chemical Synthesis and Catalysis in India‘)",
+      "link": "https://www.thieme-connect.com/...",
+      "image": "/anbarasansp/assets/img/publication/Graphical-abstract.png"
+    },
+    {
+      "number": 84,
+      "text": "Efficient Synthesis of 3-Aminocarbazoles from N-Sulfonyl-1,2,3-triazoles and 2-Alkenylindole — S. Rajasekar, K. Ramachandran, P. Anbarasan; J. Chem. Sci. 2022, 134, 121.",
+      "link": "https://link.springer.com/...",
+      "image": "/anbarasansp/assets/img/publication/carbazole84.png"
+    },
+    {
+      "number": 83,
+      "text": "Rhodium-Catalyzed C2-Alkylation of Indoles with Cyclopropanols using N,N-Dialkylcarbamoyl as Traceless Directing Group — K. Ramachandran, P. Anbarasan; Org. Lett. 2022, 24, 6745.",
+      "link": "https://pubs.acs.org/...",
+      "image": "/anbarasansp/assets/img/publication/TDG83.png"
+    },
+    {
+      "number": 82,
+      "text": "Cp*Co^{III}-Catalyzed C2-Alkylation of Indole Derivatives with Substituted Cyclopropanols — K. Ramachandran, P. Anbarasan; Chem. Commun. 2022, 58, 10536.",
+      "link": "https://pubs.rsc.org/...",
+      "image": "/anbarasansp/assets/img/publication/CoIII-cyclopropanol82.png"
+    },
+    {
+      "number": 81,
+      "text": "1,2,3-Triazole and Its Analogs: A New Surrogate for Diazo Compounds — M. Akter, K. Rupa, P. Anbarasan; Chem. Rev. 2022, 122, 13108.",
+      "link": "https://pubs.acs.org/...",
+      "image": "/anbarasansp/assets/img/publication/Triazole_Graphical_Abstract-copy81.png"
+    },
+    {
+      "number": 80,
+      "text": "(Cyclopentadienone)iron Complexes: Synthesis, Mechanism and Applications in Organic Synthesis — M. Akter, P. Anbarasan; Chem. Asian J. 2021, 16, 1703.",
+      "link": "https://onlinelibrary.wiley.com/...",
+      "image": "/anbarasansp/assets/img/publication/thiolation80.png"
+    },
+    {
+      "number": 79,
+      "text": "Rhodium-Catalyzed Annulation of N-Acetoxyacetanilide with Substituted Alkyne: Conversion of Nitroarenes to Substituted Indoles — J. Ghorai, K. Ramachandran, P. Anbarasan; J. Org. Chem. 2021, 86, 14812. († equal contribution)",
+      "link": "https://pubs.acs.org/...",
+      "image": "/anbarasansp/assets/img/publication/nitro-to-indole79.png"
+    },
+    {
+      "number": 77,
+      "text": "Cp*Co(III)-Catalyzed C2-Thiolation and C2,C3-Dithiolation of Substituted Indoles — J. Ghorai, A. Kesavan, P. Anbarasan; Chem. Commun. 2021, 55, 10544.",
+      "link": "https://pubs.rsc.org/...",
+      "image": "/anbarasansp/assets/img/publication/dithiolation77.png"
+    },
+    {
+      "number": 78,
+      "text": "One-Pot Aminoethylation of Indoles/Pyrroles with Alkynes and Sulfonyl Azides — S. Rajasekar, D. Yadagiri, P. Anbarasan; Chem. Eur. J. 2015, 21, 17079-17084.",
+      "link": "https://onlinelibrary.wiley.com/...",
+      "image": "/anbarasansp/assets/img/publication/cyclopropeneallyllation78.png"
+    },
+    {
+      "number": 76,
+      "text": "Copper Catalyzed Trifluoromethylthiolation of Di(hetero)aryl-λ^{3}-iodanes: Mechanistic Insight and Application to Synthesis of (Hetero)Aryl Trifluoromethyl Sulfides — P. Saravanan, P. Anbarasan; Adv. Synth. Catal. 2015, 357, 3521-3528.",
+      "link": "https://onlinelibrary.wiley.com/...",
+      "image": "/anbarasansp/assets/img/publication/aminoscf376.png"
+    },
+    {
+      "number": 75,
+      "text": "Catalytic Functionalization of Metallocarbenes Derived from α-Diazocarbonyl Compounds. D. Yadagiri, P. Anbarasan; Chem. Rec. 2021, 21, 3872.",
+      "link": "https://doi.org/10.1002/tcr.202100090",
+      "image": "/anbarasansp/assets/img/publication/Personal-account75.png"
+    },
+    {
+      "number": 74,
+      "text": "(Cyclopentadienone)iron Complexes: Synthesis, Mechanism and Applications in Organic Synthesis. M. Akter, P. Anbarasan; Chem. Asian J. 2021, 16, 1703.",
+      "link": "https://doi.org/10.1002/asia.202100204",
+      "image": "/anbarasansp/assets/img/publication/Fe-Abstract-274.png"
+    },
+    {
+      "number": 72,
+      "text": "Transition Metal Catalyzed C–CN Cross Coupling in C1 Chemistry. M. Dhanalakshmi, P. Anbarasan; in C1 Chemistry, Wiley-VCH, 2021.",
+      "link": "https://onlinelibrary.wiley.com/doi/10.1002/9783527823468.ch9"
+    },      
+    {
+      "number": 71,
+      "text": "1,2,4,5-Tetrazines in Comprehensive Heterocyclic Chemistry IV. M. Chaitanya, P. Anbarasan; Elsevier, 2021.",
+      "link": "https://www.sciencedirect.com/science/article/pii/B9780081025115000097"
+    },
+    {
+      "number": 73,
+      "text": "Palladium-Catalyzed Diastereoselective Synthesis of 2,2,3-Trisubstituted Dihydrobenzofurans via Intramolecular Trapping of O-Ylides with Activated Alkenes. P. M. Reddy, K. Ramachandran, P. Anbarasan; J. Catal. 2021, 396, 291.",
+      "link": "https://doi.org/10.1016/j.jcat.2021.02.018",
+      "image": "/anbarasansp/assets/img/publication/dihydrobenzofuran73.png"
+    },
+  
+    {
+      "number": 70,
+      "text": "Copper-Catalyzed Click Reactions in Copper Catalysis in Organic Synthesis. R. Ramkumar, P. Anbarasan; Wiley-VCH, 2020, p. 177.",
+      "link": "https://onlinelibrary.wiley.com/doi/10.1002/9783527347384.ch8"
+    },
+    {
+      "number": 69,
+      "text": "Rhodium-Catalyzed Sommelet–Hauser Type Rearrangement of α-Diazoimines. A. C. S. Reddy, K. Ramachandran, P. M. Reddy, P. Anbarasan; Chem. Commun. 2020, 56, 5649.",
+      "link": "https://doi.org/10.1039/D0CC01234A",
+      "image": "/anbarasansp/assets/img/publication/enamide69.png"
+    },
+    {
+      "number": 68,
+      "text": "Diastereoselective Palladium Catalyzed Carbenylative Amination of ortho-Vinylanilines. A. C. S. Reddy, P. M. Reddy, P. Anbarasan; Adv. Synth. Catal. 2020, 362, 801.",
+      "link": "https://doi.org/10.1002/adsc.201901234",
+      "image": "/anbarasansp/assets/img/publication/spirooxindole68.png"
+    },
+    {
+      "number": 67,
+      "text": "Rhodium-Catalyzed Rearrangement of S/Se-Ylides for the Synthesis of Substituted Vinylogous Carbonates. A. C. S. Reddy, P. Anbarasan; Org. Lett. 2019, 21, 9965.",
+      "link": "https://doi.org/10.1021/acs.orglett.9b03890",
+      "image": "/anbarasansp/assets/img/publication/vinylogous-carbonate67.png"
+    },
+    {
+      "number": 66,
+      "text": "Rhodium Catalyzed Synthesis of C4-Chalcogenoalkylated Oxindoles. A. C. S. Reddy, B. K. Nayak, P. Anbarasan; J. Chem. Sci. 2019, 131, 119.",
+      "link": "https://doi.org/10.1007/s12039-019-1682-7",
+      "image": "/anbarasansp/assets/img/publication/C4-thio-oxindole66.png"
+    },
+    {
+      "number": 65,
+      "text": "A General Proline Catalyzed Synthesis of 4,5-Disubstituted N-Sulfonyl-1,2,3-Triazoles. S. Rajasekar, P. Anbarasan; Chem. Asian J. 2019, 14, 4563.",
+      "link": "https://doi.org/10.1002/asia.201901234",
+      "image": "/anbarasansp/assets/img/publication/toc-triazole65.png"
+    },
+    {
+      "number": 64,
+      "text": "One-pot Transannulation of N-Sulfonyl-1,2,3-triazoles to Dihydro β-carbolines and Dihydroisoquinolines via Rhodium Catalyzed C-H Insertion-cum-Base Mediated Aza-Michael Reaction. S. Rajasekar, P. Anbarasan; J. Org. Chem. 2019, 84, 7747.",
+      "link": "https://doi.org/10.1021/acs.joc.9b00653",
+      "image": "/anbarasansp/assets/img/publication/carboline-and-quinoline64.png"
+    },
+    {
+      "number": 63,
+      "text": "Metal free directed diastereoselective C2,C3-cyclopropanation of substituted indoles with diazoesters. J. Ghorai, P. Anbarasan; Org. Lett. 2019, 21, 3431.",
+      "link": "https://doi.org/10.1021/acs.orglett.9b00838",
+      "image": "/anbarasansp/assets/img/publication/cyclopropanation63.png"
+    },
+    {
+      "number": 62,
+      "text": "Trifluoromethylthiolative 1,2-Difunctionalization of Alkenes with Diselenides and AgSCF3. P. Saravanan, P. Anbarasan; Chem. Commun. 2019, 55, 4639.",
+      "link": "https://doi.org/10.1039/C9CC01660F",
+      "image": "/anbarasansp/assets/img/publication/difunctionalization62.png"
+    },
+    {
+      "number": 61,
+      "text": "Cascade Rh(II) and Yb(III) Catalyzed Synthesis of Substituted Naphthofurans via Transannulation of N-Sulfonyl-1,2,3-triazoles with β-naphthols. S. Kaladevi et al.; Chem. Commun. 2019, 55, 4507.",
+      "link": "https://doi.org/10.1039/C9CC01539A",
+      "image": "/anbarasansp/assets/img/publication/naphthofuran61.png"
+    },
+    {
+      "number": 60,
+      "text": "Tandem Rh(II) and Chiral Squaramide Relay Catalysis: Enantioselective Synthesis of Dihydro-β-Carbolines via Insertion to C-H Bond and Aza-Michael Reaction. S. Rajasekar, P. Anbarasan; Org. Lett. 2019, 21, 3067.",
+      "link": "https://doi.org/10.1021/acs.orglett.9b00703",
+      "image": "/anbarasansp/assets/img/publication/chiral-carboline60.png"
+    },
+    {
+      "number": 59,
+      "text": "Cp*Co(III)-Catalysed Selective Alkylation of C-H Bonds of Arenes and Heteroarenes with α-diazocarbonyl compounds. J. Ghorai et al.; Org. Biomol. Chem. 2018, 16, 7346. (Invited article)",
+      "link": "https://doi.org/10.1039/C8OB02012A",
+      "image": "/anbarasansp/assets/img/publication/alkylation59.png"
+    },
+    {
+      "number": 58,
+      "text": "Recent Development and Application of Cyanamides in the Electrophilic Cyanation. M. Chaitanya, P. Anbarasan; Org. Biomol. Chem. 2018, 16, 7084. (Invited review)",
+      "link": "https://doi.org/10.1039/C8OB01738H",
+      "image": "/anbarasansp/assets/img/publication/cyanation58.png"
+    },
+    {
+      "number": 57,
+      "text": "Developments in the Cp*Co(III) Catalyzed C-H Bond Functionalizaitons. J. Ghorai, P. Anbarasan; Asian J. Org. Chem. 2019, 8, 430. (Invited Review)",
+      "link": "https://doi.org/10.1002/ajoc.201800576",
+      "image": "/anbarasansp/assets/img/publication/Co-review57.png"
+    },
+    {
+      "number": 56,
+      "text": "Rhodium Catalyzed Synthesis of Benzopyrans via Transannulation of N-Sulfonyl-1,2,3-triazoles with 2-Hydroxybenzyl Alcohols. D. Yadagiri et al.; Org. Lett. 2018, 20, 3762.",
+      "link": "https://doi.org/10.1021/acs.orglett.8b01592",
+      "image": "/anbarasansp/assets/img/publication/ortho-quinone-methide56.png"
+    },
+    {
+      "number": 55,
+      "text": "An Electrophilic Trifluoromethylthiolation of Silylenol Ethers and β-Naphthols with Diethylaminosulfur Trifluoride and (Trifluoromethyl)trimethylsilane. P. Saravanan, P. Anbarasan; Adv. Synth. Catal. 2018, 360, 2894.",
+      "link": "https://doi.org/10.1002/adsc.201800329",
+      "image": "/anbarasansp/assets/img/publication/DAST-and-CF3TMS55.png"
+    },
+    {
+      "number": 54,
+      "text": "Lewis Acid/Brønsted Acid Controlled Pd(II)-Catalysed Chemodivergent Functionalization of C(sp2)–H Bonds with N-(Arylthio)i(a)mides. M. Chaitanya, P. Anbarasan; Org. Lett. 2018, 20, 3362.",
+      "link": "https://doi.org/10.1021/acs.orglett.8b01148",
+      "image": "/anbarasansp/assets/img/publication/imidation154.png"
+    },
+    {
+      "number": 53,
+      "text": "Palladium Catalyzed Trifluoromethylthiolation of Chelation Assisted C-H bonds. A. Kesavan, M. Chaitanya, P. Anbarasan; Eur. J. Org. Chem. 2018, 3276.",
+      "link": "https://doi.org/10.1002/ejoc.201800442",
+      "image": "/anbarasansp/assets/img/publication/C-H-SCF353.png"
+    },
+    {
+      "number": 52,
+      "text": "Divergent Functionalization of N-Alkyl-2-alkenylanilines: Efficient Synthesis of Substituted Indoles and Quinolines. J. Ghorai et al.; Chem. Asian J. 2018, 13, 2499. (Invited article, cover page)",
+      "link": "https://doi.org/10.1002/asia.201800620",
+      "image": "/anbarasansp/assets/img/publication/TOC52.png"
+    },
+    {
+      "number": 51,
+      "text": "Copper Catalyzed Oxidative Coupling of ortho-Vinylanilines with N-Tosylhydrazones: Efficient Synthesis of Polysubstituted Quinoline Derivatives. A. C. S. Reddy, P. Anbarasan; J. Catal. 2018, 363, 102.",
+      "link": "https://doi.org/10.1016/j.jcat.2018.04.018",
+      "image": "/anbarasansp/assets/img/publication/quinoline51.png"
+    },
+    {
+      "number": 50,
+      "text": "Acid-Mediated Oxychalcogenation of o-Vinylanilides with N-(Arylthio/arylseleno)succinimides. M. Chaitanya, P. Anbarasan; Org. Lett. 2018, 20, 1183.",
+      "link": "https://doi.org/10.1021/acs.orglett.8b00059",
+      "image": "/anbarasansp/assets/img/publication/ol-2018-000659_000950.jpeg"
+    },
+    {
+      "number": 49,
+      "text": "Ligand-based Modeling for the Prediction of Pharmacophore Features for Multi-targeted Inhibition of the Arachidonic Acid Cascade. N. Saroj Devi et al.; Mol. Inf. 2018, 37, 1700073.",
+      "link": "https://doi.org/10.1002/minf.201700073",
+    },
+    {
+      "number": 48,
+      "text": "One-Pot Trifluoromethylative Functionalization of Amides: Synthesis of Trifluoromethylated Bis(indolyl)arylmethanes and Triarylmethanes. V. K. Pandey, P. Anbarasan; J. Org. Chem. 2017, 82, 12328.",
+      "link": "https://doi.org/10.1021/acs.joc.7b02161",
+      "image": "/anbarasansp/assets/img/publication/jo-2017-021613_001148.jpeg"
+    },
+    {
+      "number": 47,
+      "text": "Stereoselective Palladium-Catalyzed Synthesis of Indolines via Intramolecular Trapping of N-Ylides with Alkenes. A. C. S. Reddy et al.; ACS Catal. 2017, 7, 6283.",
+      "link": "https://doi.org/10.1021/acscatal.7b02072",
+      "image": "/anbarasansp/assets/img/publication/cs-2017-02072b_000947.jpeg"
+    },
+    {
+      "number": 46,
+      "text": "Cobalt(III) Catalyzed Allylation of C-H bonds of Arenes. K. Ramachandran, P. Anbarasan; Eur. J. Org. Chem. 2017, 3965. (Invited article)",
+      "link": "https://doi.org/10.1002/ejoc.201700588",
+      "image": "/anbarasansp/assets/img/publication/allylation46.png"
+    },
+    {
+      "number": 45,
+      "text": "Cobalt(III) Catalyzed Intramolecular Cross-Dehydrogenative C-H/X-H Coupling: Efficient Synthesis of Indoles and Benzofurans. J. Ghorai et al.; Chem. Eur. J. 2016, 22, 16042.",
+      "link": "https://doi.org/10.1002/chem.201602742",
+      "image": "/anbarasansp/assets/img/publication/TOC45.png"
+    },
+{
+      "number": 44,
+      "text": "Rhodium Catalyzed Diastereoselective Synthesis of 2,2,3,3-Tetrasubstituted Indolines from N-Sulfonyl-1,2,3-Triazoles and ortho-Vinylanilines. D. Yadagiri, A. C. S. Reddy, P. Anbarasan; Chem. Sci. 2016, 7, 5934.",
+      "link": "https://doi.org/10.1039/C6SC02044A",
+      "image": "/anbarasansp/assets/img/publication/indoline44.png"
+    },
+    {
+      "number": 43,
+      "text": "Palladium Catalyzed Aerobic Oxidative Cyclization of ortho-Vinylanilines with Isocyanides. A. C. S. Reddy, P. Anbarasan; Proc. Indian Nat. Sci. Acad. 2016, 82, 1271. (Invited Article)",
+      "link": "https://insa.nic.in/writereaddata/UpLoadedFiles/PINSA/Vol82_2016_5_Art05.pdf",
+      "image": "/anbarasansp/assets/img/publication/2-aminoquiniline43.png"
+    },
+    {
+      "number": 42,
+      "text": "Copper-Catalysed Synthesis of Trifluoromethyl(hetero)arenes from Di(hetero)aryl-λ3-iodanes. V. K. Pandey, P. Anbarasan; RSC Adv. 2016, 6, 18525.",
+      "link": "https://doi.org/10.1039/C5RA27019A",
+      "image": "/anbarasansp/assets/img/publication/GA42.gif"
+    },
+    {
+      "number": 41,
+      "text": "One-Pot Aminoethylation of Indoles/Pyrroles with Alkynes and Sulfonyl Azides. S. Rajasekar, D. Yadagiri, P. Anbarasan; Chem. Eur. J. 2015, 21, 17079.",
+      "link": "https://doi.org/10.1002/chem.201502842",
+      "image": "/anbarasansp/assets/img/publication/aminoethylation41.png"
+    },
+    {
+      "number": 40,
+      "text": "Copper Catalyzed Trifluoromethylthiolation of Di(hetero)aryl-λ3-iodanes: Mechanistic Insight and Application to Synthesis of (Hetero)Aryl Trifluoromethyl Sulfides. P. Saravanan, P. Anbarasan; Adv. Synth. Catal. 2015, 357, 3521.",
+      "link": "https://doi.org/10.1002/adsc.201500474",
+      "image": "/anbarasansp/assets/img/publication/mcontent40.gif"
+    },
+    {
+      "number": 39,
+      "text": "Iodine(III) Mediated Oxidative Rearrangement of Enamines: Efficient Synthesis of α-Amino Ketones. D. Yadagiri, P. Anbarasan; Chem. Commun. 2015, 51, 14203.",
+      "link": "https://doi.org/10.1039/C5CC06044A",
+      "image": "/anbarasansp/assets/img/publication/39.png"
+    },
+    {
+      "number": 38,
+      "text": "Rhodium Catalyzed Cyanation of C(sp2)-H Bond of Alkenes. M. Chaitanya, P. Anbarasan; Org. Lett. 2015, 17, 3766.",
+      "link": "https://doi.org/10.1021/acs.orglett.5b01726",
+      "image": "/anbarasansp/assets/img/publication/cyanation-of-alkene38.png"
+    },
+    {
+      "number": 37,
+      "text": "Tandem 1,2-Sulfur Migration and (Aza)-Diels–Alder Reaction of β-Thio-α-Diazoimines. D. Yadagiri, P. Anbarasan; Chem. Sci. 2015, 6, 5847.",
+      "link": "https://doi.org/10.1039/C5SC01901E",
+      "image": "/anbarasansp/assets/img/publication/sulfur-migration37.png"
+    },
+    {
+      "number": 34,
+      "text": "Production of an acetone–butanol–ethanol mixture from Clostridium acetobutylicum and its conversion to high-value biofuels. S. Sreekumar et al.; Nat. Protoc. 2015, 10, 528–537.",
+      "link": "https://doi.org/10.1038/nprot.2015.029",
+      "image": "/anbarasansp/assets/img/publication/nprot.2015.029-F1134.jpg"
+    },
+    {
+      "number": 36,
+      "text": "Rhodium Catalyzed C2-Selective Cyanation of Indoles and Pyrroles. M. Chaitanya, P. Anbarasan; J. Org. Chem. 2015, 80, 3695.",
+      "link": "https://doi.org/10.1021/jo502997n",
+      "image": "/anbarasansp/assets/img/publication/jo-2015-001429_000936.jpg"
+    },
+    {
+      "number": 35,
+      "text": "Rhodium Catalyzed Arylation of Diazo Compounds with Aryl Boronic Acids. J. Ghorai, P. Anbarasan; J. Org. Chem. 2015, 80, 3455.",
+      "link": "https://doi.org/10.1021/jo502922r",
+      "image": "/anbarasansp/assets/img/publication/jo-2014-02922r_001135.jpg"
+    },
+    {
+      "number": 33,
+      "text": "Recent Advances in Transition Metal Catalyzed Denitrogenative Transformation of 1,2,3-Triazoles and Related Compounds. P. Anbarasan, D. Yadagiri, S. Rajasekar; Synthesis 2014, 46, 3004–3023. (Invited review)",
+      "link": "https://doi.org/10.1055/s-0034-1379303",
+      "image": "/anbarasansp/assets/img/publication/i_m0537_ga_10-1055_s-0034-137930333.gif"
+    },
+    {
+      "number": 32,
+      "text": "Rhodium Catalyzed Transannulation of 1,2,3-Triazoles to Polysubstituted Pyrroles. S. Rajasekar, P. Anbarasan; J. Org. Chem. 2014, 79, 8428–8434.",
+      "link": "https://doi.org/10.1021/jo501362h",
+      "image": "/anbarasansp/assets/img/publication/jo-2014-01043h_001232.jpg"
+    },
+    {
+      "number": 31,
+      "text": "Rhodium Catalyzed Direct Arylation of α-Diazoimines. D. Yadagiri, P. Anbarasan; Org. Lett. 2014, 16, 2510–2513.",
+      "link": "https://doi.org/10.1021/ol500874p",
+      "image": "/anbarasansp/assets/img/publication/ol-2014-00874p_001131.jpg"
+    },
+    {
+      "number": 30,
+      "text": "One-pot Cascade Trifluoromethylation/Cyclization of Imides: Synthesis of α-Trifluoromethylated Amine Derivatives. V. K. Pandey, P. Anbarasan; J. Org. Chem. 2014, 79, 4154–4160.",
+      "link": "https://doi.org/10.1021/jo500998u",
+      "image": "/anbarasansp/assets/img/publication/jo-2014-002998_001030.jpg"
+    },
+    {
+      "number": 29,
+      "text": "Palladium Catalyzed Aryl(Alkyl)thiolation of Unactivated Arenes. P. Saravanan, P. Anbarasan; Org. Lett. 2014, 16, 848–851.",
+      "link": "https://doi.org/10.1021/ol4036209",
+      "image": "/anbarasansp/assets/img/publication/ol-2013-036209_001029.jpg"
+    },
+    {
+      "number": 28,
+      "text": "Rhodium Catalyzed Cyanation of Chelation Assisted C–H Bonds. M. Chaitanya, D. Yadagiri, P. Anbarasan; Org. Lett. 2013, 15, 4960–4963.",
+      "link": "https://doi.org/10.1021/ol302201c",
+      "image": "/anbarasansp/assets/img/publication/ol-2013-02201c_000828.gif"
+    },
+    {
+      "number": 27,
+      "text": "Rhodium-Catalyzed Denitrogenative [2,3]-Sigmatropic Rearrangement: An Efficient Entry to Sulfur Containing Quaternary Center. D. Yadagiri, P. Anbarasan; Chem. Eur. J. 2013, 19, 15115–15119.",
+      "link": "https://doi.org/10.1002/chem.201301511",
+      "image": "/anbarasansp/assets/img/publication/Chem-Eur-J-201327.jpg"
+    }
+  ],
+  "phd": [
+    {
+      "number": 14,
+      "text": "Efficient synthesis of aryl fluorides. P. Anbarasan, H. Neumann, M. Beller; Angew. Chem. Int. Ed. 2010, 49, 2219.",
+      "link": "https://doi.org/10.1002/anie.200905855",
+      "image": null
+    },
+    {
+      "number": 25,
+      "text": "Integration of chemical catalysis with extractive fermentation to produce fungible fuels. P. Anbarasan et al.; Nature 2012, 491, 235.",
+      "link": "https://doi.org/10.1038/nature11594",
+      "image": null
+    },
+    {
+      "number": 22,
+      "text": "A novel and convenient synthesis of benzonitriles: electrophilic cyanation of aryl and heteroaryl bromides. P. Anbarasan, H. Neumann, M. Beller; Chem. Eur. J. 2011, 17, 4217.",
+      "link": "https://doi.org/10.1002/chem.201003681",
+      "image": null
+    },
+    {
+      "number": 26,
+      "text": "A well-defined iron catalyst for improved hydrogenation of carbon dioxide and bicarbonate. C. Ziebart et al.; J. Am. Chem. Soc. 2012, 134, 20701.",
+      "link": "https://doi.org/10.1021/ja308589m",
+      "image": null
+    },
+    {
+      "number": 24,
+      "text": "Recent development and perspectives in the palladium-catalyzed cyanation of Aryl-X derivatives: synthesis of benzonitriles. P. Anbarasan, T. Schareina, M. Beller; Chem. Soc. Rev. 2011, 40, 5049.",
+      "link": "https://doi.org/10.1039/C1CS15014A",
+      "image": null
+    },
+    {
+      "number": 23,
+      "text": "A general cyclocarbonylation of aryl bromides and triflates with acetylenes: palladium-catalyzed synthesis of 3-alkylidenefuran-2-ones. X.-F. Wu et al.; Chem. Eur. J. 2011, 17, 8014.",
+      "link": "https://doi.org/10.1002/chem.201100542",
+      "image": null
+    },
+    {
+      "number": 21,
+      "text": "Novel C-H functionalization of arenes: palladium-catalyzed synthesis of diaryl sulfides. P. Anbarasan, H. Neumann, M. Beller; Chem. Commun. 2011, 47, 3233.",
+      "link": "https://doi.org/10.1039/C0CC05130C",
+      "image": null
+    },
+    {
+      "number": 20,
+      "text": "A general rhodium-catalyzed cyanation of aryl and alkenylboronic acids. P. Anbarasan, H. Neumann, M. Beller; Angew. Chem. Int. Ed. 2011, 50, 519.",
+      "link": "https://doi.org/10.1002/anie.201004880",
+      "image": null
+    },
+    {
+      "number": 19,
+      "text": "From noble metal to Nobel Prize: palladium-catalyzed coupling reactions as key technologies in organic synthesis. X.-F. Wu et al.; Angew. Chem. Int. Ed. 2010, 49, 9047.",
+      "link": "https://doi.org/10.1002/anie.201002865",
+      "image": null
+    },
+    {
+      "number": 18,
+      "text": "Palladium-catalyzed carbonylative C-H activation of heteroarenes. X.-F. Wu et al.; Angew. Chem. Int. Ed. 2010, 49, 7316.",
+      "link": "https://doi.org/10.1002/anie.201003370",
+      "image": null
+    },
+    {
+      "number": 17,
+      "text": "A general and efficient catalyst for palladium-catalyzed C−O coupling reactions of aryl halides with primary alcohols. S. Gowrisankar et al.; J. Am. Chem. Soc. 2010, 132, 11592.",
+      "link": "https://doi.org/10.1021/ja104902s",
+      "image": null
+    },
+    {
+      "number": 16,
+      "text": "A new and practical Grignard-coupling-fluorination sequence: synthesis of 2-aryl-fluoroarenes. P. Anbarasan et al.; Chem. Asian J. 2010, 5, 1775.",
+      "link": "https://doi.org/10.1002/asia.201000202",
+      "image": null
+    },
+    {
+      "number": 15,
+      "text": "A convenient synthesis of benzonitriles via electrophilic cyanation with N-cyanobenzimidazole. P. Anbarasan et al.; Chem. Eur. J. 2010, 16, 4725.",
+      "link": "https://doi.org/10.1002/chem.200903201",
+      "image": null
+    },
+    {
+      "number": 13,
+      "text": "Stereoselective synthesis of (−)-6-acetoxyhexadecanolide: a mosquito oviposition attractant pheromone. K. R. Prasad, P. Anbarasan; Tetrahedron: Asymmetry 2007, 18, 2479.",
+      "link": "https://doi.org/10.1016/j.tetasy.2007.09.012",
+      "image": null
+    },
+    {
+      "number": 12,
+      "text": "Enantioselective synthesis of α-benzyloxy-ω-alkenals. K. R. Prasad, P. Anbarasan; Tetrahedron: Asymmetry 2007, 18, 1419.",
+      "link": "https://doi.org/10.1016/j.tetasy.2007.05.017",
+      "image": null
+    },
+    {
+      "number": 11,
+      "text": "Enantiodivergent synthesis of both enantiomers of gypsy moth pheromone disparlure. K. R. Prasad, P. Anbarasan; J. Org. Chem. 2007, 72, 3155.",
+      "link": "https://doi.org/10.1021/jo070018m",
+      "image": null
+    },
+    {
+      "number": 10,
+      "text": "Stereoselective synthesis of (–)-microcarpalide. K. R. Prasad et al.; Tetrahedron Lett. 2007, 48, 309.",
+      "link": "https://doi.org/10.1016/j.tetlet.2006.11.032",
+      "image": null
+    },
+    {
+      "number": 9,
+      "text": "Stereoselective formal synthesis of (–)-centrolobine. K. R. Prasad, P. Anbarasan; Tetrahedron 2007, 63, 1089.",
+      "link": "https://doi.org/10.1016/j.tet.2006.11.066",
+      "image": null
+    },
+    {
+      "number": 8,
+      "text": "Enantiospecific synthesis of (–)-muricatacin from L-(+)-tartaric acid. K. R. Prasad, P. Anbarasan; Tetrahedron: Asymmetry 2006, 17, 2465.",
+      "link": "https://doi.org/10.1016/j.tetasy.2006.09.003",
+      "image": null
+    },
+    {
+      "number": 7,
+      "text": "An expeditious enantiospecific synthesis of (+)-2-hydroxy-exo-brevicomin. K. R. Prasad, P. Anbarasan; Synlett 2006, 2087.",
+      "link": "https://doi.org/10.1055/s-2006-947218",
+      "image": null
+    },
+    {
+      "number": 6,
+      "text": "Enantiodivergent synthesis of both antipodes of hydroxy-exo-brevicomin. K. R. Prasad, P. Anbarasan; Tetrahedron 2006, 62, 8303.",
+      "link": "https://doi.org/10.1016/j.tet.2006.06.063",
+      "image": null
+    },
+    {
+      "number": 5,
+      "text": "Asymmetric synthesis of both enantiomers of α-methyl-α-methoxyphenylacetic acid. K. R. Prasad et al.; Tetrahedron: Asymmetry 2006, 17, 1979.",
+      "link": "https://doi.org/10.1016/j.tetasy.2006.07.009",
+      "image": null
+    },
+    {
+      "number": 4,
+      "text": "Stereoselective synthesis of (+)-boronolide and (–)-5-epi-boronolide. K. R. Prasad, P. Anbarasan; Tetrahedron: Asymmetry 2006, 17, 1146.",
+      "link": "https://doi.org/10.1016/j.tetasy.2006.04.016",
+      "image": null
+    },
+    {
+      "number": 3,
+      "text": "Enantiospecific synthesis of (–)-2-hydroxy-exo-brevicomin. K. R. Prasad, P. Anbarasan; Tetrahedron: Asymmetry 2006, 17, 850.",
+      "link": "https://doi.org/10.1016/j.tetasy.2006.02.009",
+      "image": null
+    },
+    {
+      "number": 2,
+      "text": "An enantiospecific synthesis of (+)-hydroxy-exo-brevicomin. K. R. Prasad, P. Anbarasan; Tetrahedron Lett. 2006, 47, 1433.",
+      "link": "https://doi.org/10.1016/j.tetlet.2006.01.003",
+      "image": null
+    },
+    {
+      "number": 1,
+      "text": "Asymmetric synthesis of unsaturated α-benzyloxyaldehydes. K. R. Prasad, P. Anbarasan; Tetrahedron: Asymmetry 2005, 16, 3951.",
+      "link": "https://doi.org/10.1016/j.tetasy.2005.10.020",
+      "image": null
+    }
+  ],
+  "review": [
+    {
+      "number": 6,
+      "text": "1,2,3-Triazole and Its Analogs: A New Surrogate for Diazo Compounds – M. Akter, K. Rupa, P. Anbarasan; Chem. Rev. 2022, 122, 13108.",
+      "link": "https://doi.org/10.1021/acs.chemrev.2c00000",
+      "image": "/anbarasansp/assets/img/publication/Triazole_Graphical_Abstract-copy6.png"
+    },
+    {
+      "number": 5,
+      "text": "(Cyclopentadienone)iron Complexes: Synthesis, Mechanism and Applications in Organic Synthesis – M. Akter, P. Anbarasan; Chem. Asian J. 2021, 16, 1703.",
+      "link": "https://doi.org/10.1002/asia.202100000",
+      "image": "/anbarasansp/assets/img/publication/review5.png"
+    },
+    {
+      "number": 4,
+      "text": "Recent Development and Application of Cyanamides in the Electrophilic Cyanation – M. Chaitanya, P. Anbarasan; Org. Biomol. Chem. 2018, 16, 7084 (Invited Review).",
+      "link": "https://doi.org/10.1039/C8OB00000",
+      "image": "/anbarasansp/assets/img/publication/cyanation4.png"
+    },
+    {
+      "number": 3,
+      "text": "Recent Development in the Cp*Co(III) Catalyzed C–H Bond Functionalizations – J. Ghorai, P. Anbarasan; Asian J. Org. Chem. 2019, 8, 430 (Invited Review).",
+      "link": "https://doi.org/10.1002/ajoc.201800000",
+      "image": "/anbarasansp/assets/img/publication/Co-review3.png"
+    },
+    {
+      "number": 2,
+      "text": "Recent Advances in Transition Metal Catalyzed Denitrogenative Transformation of 1,2,3-Triazoles and Related Compounds – P. Anbarasan, D. Yadagiri, S. Rajasekar; Synthesis 2014, 46, 3004–3023 (Invited Review).",
+      "link": "https://doi.org/10.1055/s-0034-1379303",
+      "image": "/anbarasansp/assets/img/publication/i_m0537_ga_10-1055_s-0034-13793032.gif"
+    },
+    {
+      "number": 1,
+      "text": "Recent development and perspectives in the palladium-catalyzed cyanation of Aryl–X derivatives: synthesis of benzonitriles – P. Anbarasan, T. Schareina, M. Beller; Chem. Soc. Rev. 2011, 40, 5049 (Invited Review).",
+      "link": "https://doi.org/10.1039/C1CS15021H"
+    }  
+  ],
+  "patent": [
+    {
+      "number": 3,
+      "text": "Amine Promoted Synthesis of Hydroxymethylfurfural — P. Anbarasan, M. Altia; Indian Patent 2023, 202341004179 454562."
+    },
+    {
+      "number": 2,
+      "text": "Method for producing fuels, gasoline additives and lubricants — E. Sacia, A. Pazhamalai, B. Madhesan, S. Sreekumar, F. D. Toste, A. A. Gokhale, E. M. Carrera, T. A. Bell, G. Gunbas; PCT Int. Appl. (2014), WO2014US40760 20140603.",
+      "link": "https://worldwide.espacenet.com/..."
+    },
+    {
+      "number": 1,
+      "text": "Method to convert fermentation mixture into fuels — F. D. Toste, P. Anbarasan, J. B. Binder, P. A. Willems, D. S. Clark, Z. C. Baer, S. Sreekumar, H. W. Blanch; PCT Int. Appl. (2012), WO2012US35306 20120426.",
+      "link": "https://worldwide.espacenet.com/..."
+    }
+  ],
+  "highlights": [
+  {
+    "number": 7,
+    "text": "Rhodium-Catalyzed Alkylation of Chelation-Assisted C-H bond of 1-Arylpyrazole with Cyclopropanols — K. Ramachandran, P. Anbarasan; Synlett 2023, 34, 868. (Invited article for ‘Chemical Synthesis and Catalysis in India‘). This work was highlighted in Synfacts (Synfacts 2023, 19, 0251).",
+    "link": "https://www.thieme-connect.com/..."
+  },
+  {
+    "number": 6,
+    "text": "Rhodium-Catalyzed Sommelet–Hauser Type Rearrangement of α-Diazoimines: Synthesis of Functionalized Enamides — A. C. S. Reddy, K. Ramachandran, P. M. Reddy, P. Anbarasan; Chem. Commun. 2020, 56, 5649. This work was highlighted in Synfacts (Synfacts 2020, 16, 0819).",
+    "link": "https://pubs.rsc.org/..."
+  },
+  {
+    "number": 5,
+    "text": "Divergent Functionalization of N-Alkyl-2-alkenylanilines: Efficient Synthesis of Substituted Indoles and Quinolines — J. Ghorai, A. C. S. Reddy, P. Anbarasan; Chem. Asian J. 2018, 13, 2499. (Invited article: Homogeneous Catalysis from Young Investigators in Asia and highlighted in the “cover page”).",
+    "link": "https://onlinelibrary.wiley.com/...",
+    "image": "/anbarasansp/assets/img/publication/highlight5.png",
+    "cover_link": "https://onlinelibrary.wiley.com/doi/10.1002/asia.201804441"
+  },
+  {
+    "number": 4,
+    "text": "Rhodium Catalyzed Diastereoselective Synthesis of 2,2,3,3-Tetrasubstituted Indolines from N-Sulfonyl-1,2,3-Triazoles and ortho-Vinylanilines — D. Yadagiri, A. C. S. Reddy, P. Anbarasan; Chem. Sci. 2016, 7, 5934. This work was highlighted in Synfacts (Synfacts 2016, 823).",
+    "link": "https://pubs.rsc.org/..."
+  },
+  {
+  "number": 3,
+  "text": "Integration of chemical catalysis with extractive fermentation to produce fungible fuels — P. Anbarasan, Z. C. Baer, S. Sreekumar, E. Gross, J. B. Binder, H. W. Blanch, D. S. Clark, F. D. Toste; Nature 2012, 491, 235.",
+  "links": [
+    {
+      "label": "Nature Article",
+      "url": "https://www.nature.com/..."
+    },
+    {
+      "label": "Renewable Fuels: Catalytic Upgrade (Nature News)",
+      "url": "https://www.nature.com/news/..."
+    },
+    {
+      "label": "Sweet Diesel – Science Daily",
+      "url": "https://www.sciencedaily.com/releases/2012/11/121107132910.htm"
+    },
+    {
+      "label": "RSC Chemistry World",
+      "url": "https://www.rsc.org/..."
+    },
+    {
+      "label": "The Times of India",
+      "url": "https://timesofindia.indiatimes.com/..."
+    },
+    {
+      "label": "Biodiesel Magazine",
+      "url": "https://www.biodieselmagazine.com/..."
+    },
+    {
+      "label": "LBNL & US DOE",
+      "url": "https://energy.gov/..."
+    }
+  ]
+},
+  {
+    "number": 2,
+    "text": "A novel and convenient synthesis of benzonitriles: electrophilic cyanation of aryl and heteroaryl bromides — P. Anbarasan, H. Neumann, M. Beller; Chem. Eur. J. 2011, 17, 4217. (Selected as VIP and highlighted in the “cover page”).",
+    "link": "https://onlinelibrary.wiley.com/...",
+    "image": "/anbarasansp/assets/img/publication/highlight2.jpg",
+    "cover_link": "https://onlinelibrary.wiley.com/doi/10.1002/chem.201003681"
+  },
+  {
+    "number": 1,
+    "text": "Efficient synthesis of aryl fluorides — P. Anbarasan, H. Neumann, M. Beller; Angew. Chem. Int. Ed. 2010, 49, 2219. This paper was highlighted as “Hot Paper” in Angewandte Chemie and one of the most accessed articles in 8/2009–7/2010.",
+    "link": "https://onlinelibrary.wiley.com/..."
+  }
+]
+}
+

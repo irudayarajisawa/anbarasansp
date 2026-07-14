@@ -1,0 +1,57 @@
+{
+  "tables": [
+    {
+      "title": "Main Links",
+      "sections": [
+        {
+          "title": "Journals",
+          "links": [
+            { "name": "ACS Publication", "url": "pubs.acs.org" },
+            { "name": "Wiley Publication", "url": "onlinelibrary.wiley.com" },
+            { "name": "RSC Publication", "url": "pubs.rsc.org" },
+            { "name": "Science Direct Publication", "url": "www.sciencedirect.com" },
+            { "name": "Nature", "url": "www.nature.com" },
+            { "name": "Nature Chemistry", "url": "www.nature.com" },
+            { "name": "Science", "url": "www.sciencemag.org" },
+            {"name": "Journal Title Abbreviations", "url": "www.efm.leeds.ac.uk", "highlight": true}
+
+          ]
+        },
+        {
+          "title": "Search Engines",
+          "links": [
+            { "name": "Scifinder", "url": "scifinder.cas.org" },
+            { "name": "Scopus", "url": "www.scopus.com" },
+            { "name": "Web of Knowledge", "url": "apps.webofknowledge.com" }
+          ]
+        }
+      ]
+    },
+
+    {
+      "title": "Other Useful Links",
+      "sections": [
+        {
+          "title": "Useful Links",
+          "links": [
+            { "name": "Dynamic Periodic Table", "url": "https://ptable.com/#Properties/Series" },
+{ "name": "Chemistry Online", "url": "https://askthenerd.com/chemistryonline/" },
+{ "name": "Chemfeeds", "url": "http://chemfeeds.com/" },
+{ "name": "Oganomet Chem", "url": "https://organometallics.blogspot.com/" },
+{ "name": "Other Useful Links Bordwell pKa Table", "url": "https://organicchemistrydata.org/hansreich/resources/pka/#gsc.tab=0" },
+{ "name": "NMR Chemical Shifts", "url": "https://www2.chem.wisc.edu/areas/reich/handouts/nmr-h/hdata.htm" },
+{ "name": "Chemistry Reference Resolver", "url": "https://chemsearch.kovsky.net/" },
+{ "name": "Spectral Database for Organic Compounds (SBDS)", "url": "https://sdbs.db.aist.go.jp/" },
+{ "name": "Synthetic Organic Laboratory Technique", "url": "https://www.sas.rochester.edu/chm/~nvd/?page=home#gsc.tab=0" },
+{ "name": "Organic Chemistry Resources (from Reich at Wisconsin)", "url": "https://organicchemistrydata.org/#gsc.tab=0" },
+{ "name": "Top Pharma Posters from the Njardason group", "url": "https://sites.arizona.edu/njardarson-lab/" },
+{ "name": "Organic Chemistry Portal", "url": "https://www.organic-chemistry.org/" },
+{ "name": "Chemical Portal", "url": "https://www.webqc.org/chemicaltools.php" },
+{ "name": "Org Prep Daily (Many other useful blogs can be found here)", "url": "https://orgprepdaily.wordpress.com/" }
+          ]
+        }
+      ]
+    }
+  ]
+}
+

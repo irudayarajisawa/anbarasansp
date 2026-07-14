@@ -1,0 +1,142 @@
+<section id="group-gallery">
+    <div class="swiper mySwiper">
+        <div class="swiper-wrapper">
+
+            <!-- First Image -->
+            <div class="swiper-slide">
+                <img src="{{ '/anbarasansp/assets/img/slide/anbugrp1.jpg' | relative_url }}"
+                     loading="eager"
+                     fetchpriority="high"
+                     decoding="sync">
+            </div>
+
+            <!-- Remaining Images -->
+            <div class="swiper-slide"><img src="{{ '/anbarasansp/assets/img/slide/anbugrp2.jpg' | relative_url }}" loading="lazy" decoding="async"></div>
+            <div class="swiper-slide"><img src="{{ '/anbarasansp/assets/img/slide/anbugrp3.jpg' | relative_url }}" loading="lazy" decoding="async"></div>
+            <div class="swiper-slide"><img src="{{ '/anbarasansp/assets/img/slide/front21.jpeg' | relative_url }}" loading="lazy" decoding="async"></div>
+            <div class="swiper-slide"><img src="{{ '/anbarasansp/assets/img/slide/front22.jpeg' | relative_url }}" loading="lazy" decoding="async"></div>
+            <div class="swiper-slide"><img src="{{ '/anbarasansp/assets/img/slide/front24.jpeg' | relative_url }}" loading="lazy" decoding="async"></div>
+            <div class="swiper-slide"><img src="{{ '/anbarasansp/assets/img/slide/front2.jpg'   | relative_url }}" loading="lazy" decoding="async"></div>
+            <div class="swiper-slide"><img src="{{ '/anbarasansp/assets/img/slide/deer.png'     | relative_url }}" loading="lazy" decoding="async"></div>
+            <div class="swiper-slide"><img src="{{ '/anbarasansp/assets/img/slide/front13.jpg'  | relative_url }}" loading="lazy" decoding="async"></div>
+            <div class="swiper-slide"><img src="{{ '/anbarasansp/assets/img/slide/front20.jpg'  | relative_url }}" loading="lazy" decoding="async"></div>
+
+        </div>
+    </div>
+
+    <div class="hero-text">
+        <h2><span>Welcome to Synthesis Driven Catalysis Group</span></h2>
+    </div>
+</section>
+
+<link rel="stylesheet" href="{{ '/anbarasansp/assets/vendor/swiper/swiper-bundle.min.css' | relative_url }}">
+<script src="{{ '/anbarasansp/assets/vendor/swiper/swiper-bundle.min.js' | relative_url }}"></script>
+
+<script>
+document.addEventListener("DOMContentLoaded", function () {
+
+    new Swiper(".mySwiper", {
+
+        loop: true,
+
+        effect: "fade",
+
+        fadeEffect: {
+            crossFade: true
+        },
+
+        speed: 900,
+
+        preloadImages: true,
+
+        watchSlidesProgress: true,
+
+        observer: true,
+        observeParents: true,
+
+        autoplay: {
+            delay: 3500,
+            disableOnInteraction: false
+        }
+
+    });
+
+});
+</script>
+
+<style>
+
+#group-gallery{
+    width:100%;
+    height:70vh;
+    min-height:400px;
+    max-height:700px;
+    position:relative;
+    overflow:hidden;
+    background:#000;
+}
+
+.mySwiper,
+.swiper-wrapper,
+.swiper-slide{
+    width:100%;
+    height:100%;
+}
+
+.swiper-slide{
+    flex-shrink:0;
+}
+
+.swiper-slide img{
+    width:100%;
+    height:100%;
+    object-fit:cover;
+    object-position:center center;
+    display:block;
+    background:#000;
+}
+
+/* Prevent flash during fade */
+.swiper-fade .swiper-slide{
+    transition-property:opacity !important;
+}
+
+.hero-text{
+    position:absolute;
+    left:50%;
+    bottom:180px;
+    transform:translateX(-50%);
+    width:90%;
+    text-align:center;
+    z-index:20;
+}
+
+.hero-text h2{
+    margin:0;
+    font-family:"Times New Roman",serif;
+    font-size:65px;
+    font-weight:500;
+    line-height:1.3;
+    animation:fadeUp 1.2s ease forwards;
+}
+
+.hero-text span{
+    color:#fff;
+    font-style:italic;
+}
+
+@keyframes fadeUp{
+
+    from{
+        opacity:0;
+        transform:translateY(20px);
+    }
+
+    to{
+        opacity:1;
+        transform:translateY(0);
+    }
+
+}
+
+</style>

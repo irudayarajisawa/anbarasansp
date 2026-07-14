@@ -1,0 +1,84 @@
+<section class="py-4">
+
+  <div class="container">
+    <div class="row align-items-start">
+
+      <!-- Latest Updates -->
+      <div class="col-md-6">
+        <h5 class="mb-3" style="color:#5e1f1f; font-weight:600;">Latest Updates</h5>
+
+        <ul class="list-unstyled updates-list">
+          <li class="mb-3 d-flex">
+            <span class="me-2" style="color:#5e1f1f;">&#10146;</span>
+            <span>
+              Biswas and Srikriya’s paper accepted for publication in
+              <strong>Org. Lett.</strong> Hearty Congratulations to them!!!
+            </span>
+          </li>
+
+           <li class="mb-3 d-flex">
+            <span class="me-2" style="color:#5e1f1f;">&#10146;</span>
+            <span>
+              Bakkiyaraj and Poulomi’s paper accepted for publication in 
+              <strong>ACS Catal.</strong> Hearty Congratulations to them!!!
+            </span>
+            </li>
+
+          <li class="mb-3 d-flex">
+            <span class="me-2" style="color:#5e1f1f;">&#10146;</span>
+            <span>
+              Dhanalakshmi’s paper accepted for publication in
+              <strong>Chem. Commun.</strong> Hearty Congratulations!!!
+            </span>
+          </li>
+        </ul>
+        <a href="/updates.html" style="color:#5e1f1f; font-size:14px;">Readmore</a>
+      </div>
+
+      <!-- Divider Line -->
+      <div class="col-md-1 d-none d-md-flex justify-content-center">
+        <div style="width:1px; background:#ccc; height:100%;"></div>
+      </div>
+
+      <!-- Today's Quotes -->
+  <div class="col-md-5">
+  <h5 class="mb-3" style="color:#5e1f1f; font-weight:600;">Today's Quotes</h5>
+
+  {% assign day_index = site.time | date: "%j" | modulo: site.data.quotes.size %}
+  {% assign today_quote = site.data.quotes[day_index] %}
+
+  <p class="mb-2 d-flex">
+    <span class="me-2" style="color:#5e1f1f;">&#10146;</span>
+    <span style="color:#777;">
+      {{ today_quote }}
+    </span>
+  </p>
+</div>
+
+    </div>
+  </div>
+</section>
+
+<style>
+
+/* ================= Welcome Text ================= */
+.welcome-text-wrapper {
+  padding-top: 4px;     /* ↓ reduce space from banner */
+  padding-bottom: 20px; /* ↑ small breathing space below */
+}
+
+.welcome-text {
+  font-family: 'Great Vibes', cursive;
+  font-size: 42px;
+  font-weight: 400;
+  color: #7a1f1f;
+  margin: 0;            /* IMPORTANT: removes default h1 gap */
+  line-height: 1.2;
+}
+
+
+.welcome-text span {
+  font-style: italic;
+}
+
+</style>

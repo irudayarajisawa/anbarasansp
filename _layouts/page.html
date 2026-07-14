@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="{{ site.lang | default: "en-US" }}">
+  {% include head.html %}
+  
+  <body class="index-page">
+    
+    {% include header.html %}
+
+    <main class="main">
+
+      <!-- Main Section -->
+      <section id="pricing" class="pricing section">
+
+        <div class="container">
+
+          {{ content }}
+
+          <!-- Page End Divider -->
+          <hr class="page-end-line">
+
+        </div>
+
+      </section>
+
+    </main>
+
+    {% include footer.html %}
+    {% include script.html %}
+    
+  </body>
+</html>
