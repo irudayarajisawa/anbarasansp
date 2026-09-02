@@ -1,7 +1,7 @@
 ---
+title: null
 layout: page
-title:
-permalink: /anbarasan
+permalink: "/anbarasan"
 ---
 
 <!-- =========================
@@ -87,7 +87,7 @@ permalink: /anbarasan
   <div class="row mb-3">
     <div class="col-md-3 fw-semibold">2004 – 2007</div>
     <div class="col-md-9">
-      PhD, IISc Bangalore with Prof. K. R. Prasad
+      PhD, Indian Institute of Science, Bangalore, India  with Prof. K. R. Prasad
     </div>
   </div>
 
