@@ -7,7 +7,7 @@ permalink: /researchfacilities
   PAGE TITLE
 ========================= -->
 <div class="section-title section-bg-img"
-     style="background-image: url('/anbarasansp/assets/img/profile/instruments.jpeg');">
+     style="background-image: url('{{ site.baseurl }}/assets/img/profile/instruments.jpeg');">
     <h2>Research Facilities</h2>
 
     <div class="title-shape">
@@ -72,7 +72,7 @@ permalink: /researchfacilities
 
   <!-- CARD 1 -->
   <div class="instrument-card">
-    <img src="/anbarasansp/assets/img/instruments/chiralhplc.jpeg">
+    <img src="{{ site.baseurl }}/assets/img/instruments/chiralhplc.jpeg">
     <div class="instrument-info">
       <h4>Chiral HPLC</h4>
     </div>
@@ -80,7 +80,7 @@ permalink: /researchfacilities
 
   <!-- CARD 2 -->
   <div class="instrument-card">
-    <img src="/anbarasansp/assets/img/instruments/cryogenic.jpeg">
+    <img src="{{ site.baseurl }}/assets/img/instruments/cryogenic.jpeg">
     <div class="instrument-info">
       <h4>Cryogenic reactionbath</h4>     
     </div>
@@ -88,7 +88,7 @@ permalink: /researchfacilities
 
   <!-- CARD 3 -->
   <div class="instrument-card">
-    <img src="/anbarasansp/assets/img/instruments/flashchromatography.jpeg">
+    <img src="{{ site.baseurl }}/assets/img/instruments/flashchromatography.jpeg">
     <div class="instrument-info">
       <h4>Flash Chromatography</h4>     
     </div>
@@ -96,7 +96,7 @@ permalink: /researchfacilities
 
   <!-- CARD 4 -->
   <div class="instrument-card">
-    <img src="/anbarasansp/assets/img/instruments/gcms.jpeg">
+    <img src="{{ site.baseurl }}/assets/img/instruments/gcms.jpeg">
     <div class="instrument-info">
       <h4>GC-MS</h4>     
     </div>
@@ -104,7 +104,7 @@ permalink: /researchfacilities
 
   <!-- CARD 5 -->
   <div class="instrument-card">
-    <img src="/anbarasansp/assets/img/instruments/glovebox.jpeg">
+    <img src="{{ site.baseurl }}/assets/img/instruments/glovebox.jpeg">
     <div class="instrument-info">
       <h4>Glove Box</h4>    
     </div>
@@ -112,7 +112,7 @@ permalink: /researchfacilities
 
   <!-- CARD 6 -->
   <div class="instrument-card">
-    <img src="/anbarasansp/assets/img/instruments/hplc.jpeg">
+    <img src="{{ site.baseurl }}/assets/img/instruments/hplc.jpeg">
     <div class="instrument-info">
       <h4>HPLC</h4>
     </div>
@@ -120,7 +120,7 @@ permalink: /researchfacilities
   
   <!-- CARD 7 -->
   <div class="instrument-card">
-    <img src="/anbarasansp/assets/img/instruments/uvphotoreactor.jpeg">
+    <img src="{{ site.baseurl }}/assets/img/instruments/uvphotoreactor.jpeg">
     <div class="instrument-info">
       <h4>UV photoreactor</h4>    
     </div>
@@ -128,7 +128,7 @@ permalink: /researchfacilities
   
   <!-- CARD 8 -->
   <div class="instrument-card">
-    <img src="/anbarasansp/assets/img/instruments/mercurylamp.jpeg">
+    <img src="{{ site.baseurl }}/assets/img/instruments/mercurylamp.jpeg">
     <div class="instrument-info">
       <h4>Mercury lamp photoreactor</h4>    
     </div>
@@ -136,7 +136,7 @@ permalink: /researchfacilities
   
   <!-- CARD 9 -->
   <div class="instrument-card">
-    <img src="/anbarasansp/assets/img/instruments/visiblelight.jpeg">
+    <img src="{{ site.baseurl }}/assets/img/instruments/visiblelight.jpeg">
     <div class="instrument-info">
       <h4>Visible light photoreactor</h4>    
     </div>
@@ -144,7 +144,7 @@ permalink: /researchfacilities
   
   <!-- CARD 10 -->
   <div class="instrument-card">
-    <img src="/anbarasansp/assets/img/instruments/parallel.jpeg">
+    <img src="{{ site.baseurl }}/assets/img/instruments/parallel.jpeg">
     <div class="instrument-info">
       <h4>Parallel synthesizer</h4>    
     </div>
@@ -152,7 +152,7 @@ permalink: /researchfacilities
   
   <!-- CARD 11 -->
   <div class="instrument-card">
-    <img src="/anbarasansp/assets/img/instruments/parrreactor.jpeg">
+    <img src="{{ site.baseurl }}/assets/img/instruments/parrreactor.jpeg">
     <div class="instrument-info">
       <h4>Parr reactor</h4>    
     </div>
@@ -160,7 +160,7 @@ permalink: /researchfacilities
   
   <!-- CARD 12 -->
   <div class="instrument-card">
-    <img src="/anbarasansp/assets/img/instruments/weighingbalance.jpeg">
+    <img src="{{ site.baseurl }}/assets/img/instruments/weighingbalance.jpeg">
     <div class="instrument-info">
       <h4>Weighing balance</h4>    
     </div>
@@ -168,7 +168,7 @@ permalink: /researchfacilities
   
   <!-- CARD 13 -->
   <div class="instrument-card">
-    <img src="/anbarasansp/assets/img/instruments/rotaryevaporator.jpeg">
+    <img src="{{ site.baseurl }}/assets/img/instruments/rotaryevaporator.jpeg">
     <div class="instrument-info">
       <h4>Rotary evaporator</h4>    
     </div>
@@ -176,7 +176,7 @@ permalink: /researchfacilities
   
   <!-- CARD 14 -->
   <div class="instrument-card">
-    <img src="/anbarasansp/assets/img/instruments/immersioncooler.jpeg">
+    <img src="{{ site.baseurl }}/assets/img/instruments/immersioncooler.jpeg">
     <div class="instrument-info">
       <h4>Immersion Cooler</h4>    
     </div>

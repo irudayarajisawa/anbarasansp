@@ -4,7 +4,7 @@ title:
 permalink: /positions
 ---
 <div class="section-title section-bg-img"
-     style="background-image: url('/anbarasansp/assets/img/profile/positionbg.jpeg');">
+     style="background-image: url('{{ site.baseurl }}/assets/img/profile/positionbg.jpeg');">
     <h2>Positions</h2>
 
     <div class="title-shape">

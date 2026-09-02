@@ -7,7 +7,7 @@ permalink: /research
   PAGE TITLE
 ========================= -->
 <div class="section-title section-bg-img"
-     style="background-image: url('/anbarasansp/assets/img/profile/research.jpeg');">
+     style="background-image: url('{{ site.baseurl }}/assets/img/profile/research.jpeg');">
     <h2>Research</h2>
 
     <div class="title-shape">
@@ -54,7 +54,7 @@ Research
 
     <!-- RIGHT: IMAGE -->
     <div class="col-lg-5 col-md-12 d-flex align-items-start justify-content-center">
-      <img src="/anbarasansp/assets/img/Research.jpg"
+      <img src="{{ site.baseurl }}/assets/img/Research.jpg"
            alt="Research Overview"
            class="research-img">
     </div>

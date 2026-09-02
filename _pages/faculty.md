@@ -6,7 +6,7 @@ permalink: /faculty
 
 <!-- ================= TITLE ================= -->
 <div class="section-title section-bg-img"
-     style="background-image: url('/anbarasansp/assets/img/profile/group.jpeg');">
+     style="background-image: url('{{ site.baseurl }}/assets/img/profile/group.jpeg');">
     <h2>Members</h2>
 
     <div class="title-shape">
@@ -32,7 +32,7 @@ permalink: /faculty
   <div class="faculty-card">
 
     {% if p.image %}
-      <img src="{{ p.image }}" alt="{{ p.name }}">
+      <img src="{{ site.baseurl }}{{ p.image }}" alt="{{ p.name }}">
     {% endif %}
 
     <h3>{{ p.name }}</h3>
@@ -287,7 +287,7 @@ document.querySelectorAll('.sub-tabs .tab-button').forEach(btn => {
 <style>
 
 .section-bg-img {
-  background-image: url("/anbarasansp/assets/img/profile/group.jpeg");
+  background-image: url("{{ site.baseurl }}/assets/img/profile/group.jpeg");
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;

@@ -9,7 +9,7 @@ permalink: /anbarasan
 ========================= -->
 
 <div class="section-title section-bg-img"
-     style="background-image: url('/anbarasansp/assets/img/profile/portofoliobg.jpeg');">
+     style="background-image: url('{{ site.baseurl }}/assets/img/profile/portofoliobg.jpeg');">
     <h2>Portfolio</h2>
 
     <div class="title-shape">
@@ -195,11 +195,11 @@ permalink: /anbarasan
   <div class="card shadow-sm border-0">
     <div class="card-body text-center">
 
-      <img src="/anbarasansp/assets/img/profile/anbus.jpg"
+      <img src="{{ site.baseurl }}/assets/img/profile/anbus.jpg"
            class="img-fluid mb-3 profile-img">
 
       <p>
-        <a href="/anbarasansp/files/pacv.pdf" target="_blank" class="fw-semibold">
+        <a href="{{ site.baseurl }}/files/pacv.pdf" target="_blank" class="fw-semibold">
           📄 Curriculum Vitae
         </a>
       </p>

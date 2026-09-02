@@ -172,7 +172,7 @@ h6 {
     margin: 0;
     width: 100%;
     background-color: #0b2c5a;
-    background-image: url('/anbarasansp/assets/img/banner2.jpg');
+    background-image: url('/assets/img/banner2.jpg');
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
@@ -621,7 +621,7 @@ h6 {
 --------------------------------------------------------------*/
 .footer {
   position: relative;
-  background: url('/anbarasansp/assets/img/banner2.jpg') center/cover no-repeat;
+  background: url('/assets/img/banner2.jpg') center/cover no-repeat;
   color: #ffffff;
   padding: 50px 0 40px;
 }
@@ -876,7 +876,7 @@ section,
 }
 
 .section-bg-img {
-  background-image: url("/anbarasansp/assets/img/profile/portofoliobg.jpeg");
+  background-image: url("/assets/img/profile/portofoliobg.jpeg");
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;

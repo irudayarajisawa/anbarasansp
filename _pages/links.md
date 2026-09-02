@@ -6,7 +6,7 @@ permalink: /links
 <!-- =========================
   PAGE TITLE
 ========================= -->
-<div class="section-title section-bg-img" style="background-image: url('/anbarasansp/assets/img/profile/linksbg.jpeg');">
+<div class="section-title section-bg-img" style="background-image: url('{{ site.baseurl }}/assets/img/profile/linksbg.jpeg');">
     <h2>Links</h2>
 
     <div class="title-shape">

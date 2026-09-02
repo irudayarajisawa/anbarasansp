@@ -6,7 +6,7 @@ permalink: /publication
 
 <div class="container">
   <div class="section-title section-bg-img" 
-       style="background-image: url('/anbarasansp/assets/img/profile/publications.jpeg');">
+       style="background-image: url('{{ site.baseurl }}/assets/img/profile/publications.jpeg');">
 
     <h2>Publications</h2>
 
@@ -92,7 +92,7 @@ permalink: /publication
 
         {% if item.image %}
           <div class="pub-image-block">
-            <img src="{{ item.image }}" alt="reaction scheme">
+            <img src="{{ site.baseurl }}{{ item.image }}" alt="reaction scheme">
           </div>
         {% endif %}
       </li>
@@ -140,7 +140,7 @@ permalink: /publication
 
         {% if item.image %}
           <div class="pub-image-block">
-            <img src="{{ item.image }}" alt="reaction scheme">
+            <img src="{{ site.baseurl }}{{ item.image }}" alt="reaction scheme">
           </div>
         {% endif %}
       </li>
@@ -221,7 +221,7 @@ permalink: /publication
 
         {% if item.image %}
           <div class="pub-image-block highlight-img">
-            <img src="{{ item.image }}" alt="Journal cover image">
+            <img src="{{ site.baseurl }}{{ item.image }}" alt="Journal cover image">
           </div>
         {% endif %}
       </li>
