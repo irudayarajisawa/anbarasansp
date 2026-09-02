@@ -1,5 +1,13 @@
 {
   "alumni": [
+       {
+       "name": "Monalisa Akter",
+       "place": "Bhaduriapara, West Bengal",
+        "education": {
+        "bsc": "Krishnath College (2016)",
+        "msc": "University of Kalyani (2018)"
+    },
+       
     {
       "name": "Sahil Sanitosh Dhir",
       "at_iitm": "M. Sc project (2022-2023)",
@@ -142,11 +150,12 @@
   ],
   
   "msc": [
-    {
+      {
       "name": "Adwaith M",
       "at_iitm": "M. Sc project (2025-2026)",
       "image": "/assets/img/members/adwaith.jpeg"
     },
+   
     {
       "name": "Alakananda B R",
       "at_iitm": "M. Sc project (2025-2026)",
@@ -364,13 +373,7 @@
     "email": "akkitherock008@gmail.com",
     "image": "/assets/img/members/akshayakumarsahu.jpg"
   },
-  {
-    "name": "Monalisa Akter",
-    "place": "Bhaduriapara, West Bengal",
-    "education": {
-      "bsc": "Krishnath College (2016)",
-      "msc": "University of Kalyani (2018)"
-    },
+ 
     "phd": "2019–Till date (INSPIRE)",
     "area_of_interest": "Asymmetric Organic Synthesis and Catalysis",
     "hobby": "Reading and writing poetry and short stories, creating realistic portraits",
