@@ -55,6 +55,26 @@
       "image": "/assets/img/members/Asish Bera.jpeg"
     },
     {
+      "name": "P. Maheswar Reddy",
+      "phd_year": "2026",
+      "thesis_title": "Carbenylative Etherification/Amination of Alkenes",
+      "current_position": ,
+      "email": "mahesh.palagulla90@gmail.com",
+      "image": "/assets/img/members/maheswarreddy.jpg"
+
+      
+    },
+    {
+      "name": "Monalisa Akter",
+      "phd_year": "2026",
+      "thesis_title": "Diversified Functionalization of Ketones Using Methanol as C1 Source Through C-C/C-X Bond Formations and Asymmetric Transfer Hydrogenation ",
+      "current_position": "Postdoc with Prof.Jérôme Lacour at University of Geneva",
+      "email": "monalisaakter96@gmail.com",
+      "image": "/assets/img/members/monalisaakter.jpg"
+
+
+    },
+    {
       "name": "Minakshi Altia",
       "phd_year": "2025",
       "thesis_title": " Synthetic methodology",
@@ -80,6 +100,15 @@
       "image": "/assets/img/members/ramachandran.jpg"
     },
     {
+      "name": "Kesavan A",
+      "phd_year": "2022",
+      "thesis_title": "Aryl(Trifluoromethyl)thiolative Functionalization of Arenes and Alkenes",
+      "previous_position": "Senior Research Scientist - Eurofins Advinus Limited, Bangalore",
+      "current_position": "Post-doctoral fellow with Kedong Yuan at Guangzhou Medical University",
+      "email": "heterokesavan@gmail.com",
+      "image": "/assets/img/members/kesavan.jpg"
+    },
+    {
       "name": "A Chandra Shekar Reddy",
       "phd_year": "2019",
       "thesis_title": "Transition Metal Catalyzed Carbenylative/Imidoylative Coupling And Rearrangement Reactions",
@@ -88,13 +117,13 @@
       "image": "/assets/img/members/chandrashekarreddy.jpg"
     },
     {
-      "name": "Manthena Chaitanya",
-      "phd_year": "2017",
-      "thesis_title": "Transition Metal Catalyzed Construction of C-CN and C-Heteroatom Bonds via C-H Bond Functionalization",
-      "previous_position": "Postdoc with Prof. Hisashi Yamamoto at Chubu University",
-      "current_position": "Scientist at DRILS, Hyderabad",
-      "email": "chaithu.manthena@gmail.com",
-      "image": "/assets/img/members/manthenachaitanya.jpg"
+      "name": "Jayanta Ghorai",
+      "phd_year": "2019",
+      "thesis_title": "Selective Synthesis and Functionalization of Substituted Indoles",
+      "current_position": "Postdoc with Prof. H. M. Nguyen at Wayne State University, USA",
+      "email": "jayantaghorai.chemist@gmail.com",
+      "image": "/assets/img/members/jayantaghorai.jpg"
+    
     },
     {
       "name": "Rajasekar(Late)",
@@ -122,6 +151,15 @@
       "image": "/assets/img/members/vinaykumarpandey.jpg"
     },
     {
+      "name": "Manthena Chaitanya",
+      "phd_year": "2017",
+      "thesis_title": "Transition Metal Catalyzed Construction of C-CN and C-Heteroatom Bonds via C-H Bond Functionalization",
+      "previous_position": "Postdoc with Prof. Hisashi Yamamoto at Chubu University",
+      "current_position": "Scientist at DRILS, Hyderabad",
+      "email": "chaithu.manthena@gmail.com",
+      "image": "/assets/img/members/manthenachaitanya.jpg"
+    },
+    {
       "name": "Yadagiri Dongari",
       "phd_year": "2016",
       "thesis_title": "Rhodium Catalyzed Dinitrogenative Functionalization of N-Sulfonyl-1,2,3-Triazoles",
@@ -129,23 +167,8 @@
       "current_position": "Assistant Professor at IIT Roorkee",
       "email": "yadagiri.dongari@gmail.com",
       "image": "/assets/img/members/yadagiridongari.jpg"
-    },
-    {
-      "name": "Jayanta Ghorai",
-      "phd_year": "2019",
-      "thesis_title": "Selective Synthesis and Functionalization of Substituted Indoles",
-      "current_position": "Postdoc with Prof. H. M. Nguyen at Wayne State University, USA",
-      "email": "jayantaghorai.chemist@gmail.com",
-      "image": "/assets/img/members/jayantaghorai.jpg"
-    },
-    {
-      "name": "Kesavan A",
-      "phd_year": "2022",
-      "thesis_title": "Aryl(Trifluoromethyl)thiolative Functionalization of Arenes and Alkenes",
-      "previous_position": "Senior Research Scientist - Eurofins Advinus Limited, Bangalore",
-      "current_position": "Post-doctoral fellow with Kedong Yuan at Guangzhou Medical University",
-      "email": "heterokesavan@gmail.com",
-      "image": "/assets/img/members/kesavan.jpg"
+    
+    
     }
     
   ],
@@ -281,6 +304,19 @@
     "image": "/assets/img/members/kavinsubramani.jpeg"
   },
   {
+    "name": "Navaneethkrishnan V",
+    "place": "-",
+    "education": {
+      "bsc": "-",
+      "msc": "-"
+    },
+    "phd": "2026 - till date ( CSIR JRF )",
+    "area_of_interest": "Asymmetric C-H bond activation",
+    "email": "navaneethan.vet@gmail.com",
+    "image": "/assets/img/members/Navneetkrishnan.jpg"
+  
+  },
+  {
     "name": "Chanthini Devi K B",
     "place": "-",
     "education": {
@@ -385,37 +421,14 @@
     "area_of_interest": "Asymmetric Synthesis and Lewis Base Catalysis",
     "email": "akkitherock008@gmail.com",
     "image": "/assets/img/members/akshayakumarsahu.jpg"
-  },
-  {
-    "name": "Monalisa Akter",
-    "place": "Bhaduriapara, West Bengal",
-    "education": {
-      "bsc": "Krishnath College (2016)",
-      "msc": "University of Kalyani (2018)"
-    },
-    "phd": "2019–Till date (INSPIRE)",
-    "area_of_interest": "Asymmetric Organic Synthesis and Catalysis",
-    "hobby": "Reading and writing poetry and short stories, creating realistic portraits",
-    "email": "monalisaakter96@gmail.com",
-    "image": "/assets/img/members/monalisaakter.jpg"
+ 
   },
   {
     "name": "M Bakkiyaraj",
     "email": "bakkichemist@gmail.com",
     "image": "/assets/img/members/bakkia.jpeg"
   
-  },
-  {
-    "name": "P. Maheswar Reddy",
-    "place": "Badvel, Y.S.R. Kadapa district, Andhra Pradesh",
-    "education": {
-      "bsc": "SRNB Degree College, Sri Venkateswara University (2011)",
-      "msc": "Yogi Vemana University, Kadapa (2013)"
-    },
-    "phd": "2016–Till date (CSIR-JRF)",
-    "area_of_interest": "Carbenylative Etherification/Amination of Alkenes",
-    "email": "mahesh.palagulla90@gmail.com",
-    "image": "/assets/img/members/maheswarreddy.jpg"
+  
   }
 ]
 
