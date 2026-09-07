@@ -57,6 +57,7 @@ plugins:
 include:
   - _pages
   - files  
+  - _data  
   
 sass:
   sourcemap: never
