@@ -193,18 +193,29 @@
   
   "research": [
    {
-    "name": "Dr. Krishnagopal Ghosh",
-    "at_iitm": "Research Associate",
-    "current_position": "Aragen Life Sciences",
-    "email": " ",
-    "image": "/assets/img/members/krishnagopal.jpeg"
-  },
-   {
+    
     "name": "Dr. Sachin Sharma",
     "at_iitm": "Research Associate",
     "current_position": " ",
     "email": " ",
     "image": "/assets/img/members/sachin.jpeg"
+    
+   },
+   {
+    "name": "Dr. Anurag Biswas",
+    "at_iitm": "Postdoc Fellow in IPDF",
+    "current_position": " ",
+    "email": " ",
+    "image": "/assets/img/members/anurag.jpeg"
+    
+   },
+   {
+    "name": "Dr. Krishnagopal Ghosh",
+    "at_iitm": "Research Associate",
+    "current_position": "Aragen Life Sciences",
+    "email": " ",
+    "image": "/assets/img/members/krishnagopal.jpeg"
+   
   },
   {
     "name": "Dr. Thavaselvan S.",
@@ -262,13 +273,7 @@
     "current_position": "Syngenta",
     "email": "mskaladevi1@gmail.co",
     "image": "/assets/img/members/kaladevi.jpg"
-  },
-   {
-    "name": "Dr. Anurag Biswas",
-    "at_iitm": "Postdoc Fellow in IPDF",
-    "current_position": " ",
-    "email": " ",
-    "image": "/assets/img/members/anurag.jpeg"
+   
   }
 ],
 
