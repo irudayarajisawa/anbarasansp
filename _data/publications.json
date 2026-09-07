@@ -1,5 +1,6 @@
 {
   "book_chapter": [
+
     {
       "number": 3,
       "text": "M. Dhanalakshmi, P. Anbarasan, Transition Metal Catalyzed C-CN Cross Coupling in C1 Chemistry, Z. Liu, H. Buxing, K. Ding, X.-F. Wu, Eds.; Wiley VCH, 2021, (in press)."
@@ -16,12 +17,6 @@
   ],
   "iitm": [
     {
-       {
-      "number": 106,
-      "text": "Enantiodivergent Synthesis of 3-Vinylpthalides via Rh-Catalyzed Annulation: Experimental and Computational Studies. M. Dhanalakshmi, P. Anbarasan; Chemistry-A European Journal 2026, accepted.",
-      "link": "https://chemistry-europe.onlinelibrary.wiley.com/doi/full/10.1002/chem.202502827"
-    },
-    { 
       "number": 105,
       "text": "Catalytic Cyanation of Aryl halides with Electrophilic N-CN reagent. M. Dhanalakshmi, P. Anbarasan; Synlett 2025, accepted. (Invited article)",
       "link": "https://www.thieme-connect.com/products/ejournals/abstract/10.1055/a-2738-7947"
@@ -758,4 +753,3 @@
   }
 ]
 }
-
