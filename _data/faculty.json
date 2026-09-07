@@ -55,6 +55,15 @@
       "image": "/assets/img/members/Asish Bera.jpeg"
     },
     {
+      "name": "Minakshi Altia",
+      "phd_year": "2025",
+      "thesis_title": " Synthetic methodology",
+      "current_position": "Postdoc with Prof. Rene M. Koenigs at University of Bayreuth",
+      "email": "minakshi.altia00@gmail.com",
+      "image": "/assets/img/members/minakshialtia.jpg"
+
+    },
+    {
       "name": "Kavuri Rupa",
       "phd_year": "2024",
       "thesis_title": "Rhodium Catalyzed Transannulation of N-Sulfonyl-1,2,3-Triazoles: Generation and Functionalization of N- and O-Ylides",
@@ -394,18 +403,7 @@
     "name": "M Bakkiyaraj",
     "email": "bakkichemist@gmail.com",
     "image": "/assets/img/members/bakkia.jpeg"
-  },
-  {
-    "name": "Minakshi Altia",
-    "place": "Berhampur, Odisha",
-    "education": {
-      "bsc": "Khallikote Autonomous College (2014)",
-      "msc": "Pondicherry University (2016)"
-    },
-    "phd": "Dec 2016–Till date (CSIR-JRF)",
-    "area_of_interest": "Synthetic Methodology",
-    "email": "minakshi.altia00@gmail.com",
-    "image": "/assets/img/members/minakshialtia.jpg"
+  
   },
   {
     "name": "P. Maheswar Reddy",
