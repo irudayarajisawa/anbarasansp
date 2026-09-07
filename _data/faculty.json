@@ -259,6 +259,19 @@
 
   "phdstudents": [
   {
+      
+      "name": "Kavin Subramani",
+    "place": "-",
+    "education": {
+      "bsc": "-",
+      "msc": "-"
+    },
+    "phd": "2026 - till date ( CSIR JRF )",
+    "area_of_interest": "Asymmetric Lewis base catalysis",
+    "email": "cy26d037@smail.iitm.in",
+    "image": "/assets/img/members/kavinsubramani.jpeg"
+  },
+  {
     "name": "Chanthini Devi K B",
     "place": "-",
     "education": {
@@ -326,7 +339,7 @@
       "msc": "Mahishadal Raj College, Vidyasagar University (2020)"
     },
     "phd": "2022–Till date (CSIR-JRF)",
-    "area_of_interest": "Carbene and Nitrene Chemistry",
+    "area_of_interest": "Asymmetric organocatalysis and Metal carbenoid chemistry",
     "image": "/assets/img/members/sayanchakraborthy.jpg"
   },
   {
