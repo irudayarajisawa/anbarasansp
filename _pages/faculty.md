@@ -59,7 +59,7 @@ permalink: /faculty
   <div class="faculty-card">
 
     {% if p.image %}
-      <img src="{{ p.image }}" alt="{{ p.name }}">
+      <img src="{{ site.baseurl }}{{ p.image }}" alt="{{ p.name }}">
     {% endif %}
 
     <h3>{{ p.name }}</h3>
@@ -82,7 +82,7 @@ permalink: /faculty
   <div class="faculty-card">
 
     {% if p.image %}
-      <img src="{{ p.image }}" alt="{{ p.name }}">
+      <img src="{{ site.baseurl }}{{ p.image }}" alt="{{ p.name }}">
     {% endif %}
 
     <h3>{{ p.name }}</h3>
@@ -105,7 +105,7 @@ permalink: /faculty
   <div class="faculty-card">
 
     {% if p.image %}
-      <img src="{{ p.image }}" alt="{{ p.name }}">
+      <img src="{{ site.baseurl }}{{ p.image }}" alt="{{ p.name }}">
     {% endif %}
 
     <h3>{{ p.name }}</h3>
@@ -151,8 +151,8 @@ permalink: /faculty
       <div class="faculty-card">
 
         {% if p.image %}
-          <img src="{{ p.image }}" alt="{{ p.name }}">{% endif %}
-
+          <img src="{{ site.baseurl }}{{ p.image }}" alt="{{ p.name }}">
+          {% endif %}
         <h3>{{ p.name }}</h3>
         <p>{{ p.at_iitm }}</p>
 
@@ -176,7 +176,7 @@ permalink: /faculty
       <div class="faculty-card">
 
         {% if p.image %}
-          <img src="{{ p.image }}" alt="{{ p.name }}">
+          <img src="{{ site.baseurl }}{{ p.image }}" alt="{{ p.name }}">
         {% endif %}
 
         <h3>{{ p.name }}</h3>
@@ -205,7 +205,7 @@ permalink: /faculty
   <div class="faculty-card">
 
     {% if p.image %}
-      <img src="{{ p.image }}" alt="{{ p.name }}">
+      <img src="{{ site.baseurl }}{{ p.image }}" alt="{{ p.name }}">
     {% endif %}
 
     <h3>{{ p.name }}</h3>
