@@ -16,9 +16,29 @@
   ],
   "iitm": [
     {
-      "number": 105,
-      "text": "Catalytic Cyanation of Aryl halides with Electrophilic N-CN reagent. M. Dhanalakshmi, P. Anbarasan; Synlett 2025, accepted. (Invited article)",
+      "number": 109,
+      "text": "Chiral Rh (III)-Catalyzed Enantioselective Intramolecular Hydroarylation of Enaminone. D.Rajkishore, P. Anbarasan; Org. Lett. 2026, 28, 9860-9865.  ",
+      "link": "https://pubs.acs.org/orlef7/article/28/31/9860/5235342/"
+    },
+    {
+      "number": 108,
+      "text": "Enantiodivergent RhIII-catalyzed synthesis of imidazo [1, 5-a] indole. M. Bakkiyaraj, P. Anbarasan;Chem. Commun. 2026, 62, 13546-13549. ",
+      "link": "https://pubs.rsc.org/cc/article/62/54/13546/1265806/"
+    },
+    {
+      "number": 107,
+      "text": "Catalytic Cyanation of Aryl halides with Electrophilic N-CN reagent. M. Dhanalakshmi, P. Anbarasan; Synlett 2026, accepted. (Invited article)",
       "link": "https://www.thieme-connect.com/products/ejournals/abstract/10.1055/a-2738-7947"
+    },
+    {
+     "number": 106,
+      "text": "Enantiodivergent Synthesis of 3‐Vinylphthalides via Rh‐Catalyzed C─ H Annulation: Experimental and Computational Studies. M. Bakkiyaraj, P. Anbarasan; Chemistry–A European Journal. 32, e02827.",
+      "link": "https://chemistry-europe.onlinelibrary.wiley.com/doi/full/10.1002/chem.202502827"
+    },
+    {
+      "number": 105,
+      "text": "Rhodium-Catalyzed [3+3] Annulation of N-Sulfonyl-1,2,3-triazole with a Homoallylic Alcohol for the Synthesis of 1,2-Dihydropyridine. P. M. Reddy, M. Dhanalakshmi, P. Anbarasan; Org. Lett. 2026, 28, 3448-3452. ",
+      "link": "https://pubs.acs.org/orlef7/article/28/11/3448/5106193/"
     },
     {
       "number": 104,
@@ -161,13 +181,13 @@
       "image": "/assets/img/publication/nitro-to-indole79.png"
     },
     {
-      "number": 77,
+      "number": 78,
       "text": "Cp*Co(III)-Catalyzed C2-Thiolation and C2,C3-Dithiolation of Substituted Indoles — J. Ghorai, A. Kesavan, P. Anbarasan; Chem. Commun. 2021, 55, 10544.",
       "link": "https://pubs.rsc.org/...",
       "image": "/assets/img/publication/dithiolation77.png"
     },
     {
-      "number": 78,
+      "number": 77,
       "text": "One-Pot Aminoethylation of Indoles/Pyrroles with Alkynes and Sulfonyl Azides — S. Rajasekar, D. Yadagiri, P. Anbarasan; Chem. Eur. J. 2015, 21, 17079-17084.",
       "link": "https://onlinelibrary.wiley.com/...",
       "image": "/assets/img/publication/cyclopropeneallyllation78.png"
@@ -191,17 +211,17 @@
       "image": "/assets/img/publication/Fe-Abstract-274.png"
     },
     {
-      "number": 72,
+      "number": 73,
       "text": "Transition Metal Catalyzed C–CN Cross Coupling in C1 Chemistry. M. Dhanalakshmi, P. Anbarasan; in C1 Chemistry, Wiley-VCH, 2021.",
       "link": "https://onlinelibrary.wiley.com/doi/10.1002/9783527823468.ch9"
     },      
     {
-      "number": 71,
+      "number": 72,
       "text": "1,2,4,5-Tetrazines in Comprehensive Heterocyclic Chemistry IV. M. Chaitanya, P. Anbarasan; Elsevier, 2021.",
       "link": "https://www.sciencedirect.com/science/article/pii/B9780081025115000097"
     },
     {
-      "number": 73,
+      "number": 71,
       "text": "Palladium-Catalyzed Diastereoselective Synthesis of 2,2,3-Trisubstituted Dihydrobenzofurans via Intramolecular Trapping of O-Ylides with Activated Alkenes. P. M. Reddy, K. Ramachandran, P. Anbarasan; J. Catal. 2021, 396, 291.",
       "link": "https://doi.org/10.1016/j.jcat.2021.02.018",
       "image": "/assets/img/publication/dihydrobenzofuran73.png"
