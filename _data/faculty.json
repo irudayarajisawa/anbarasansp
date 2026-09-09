@@ -1,6 +1,30 @@
 {
   "alumni": [
     {
+      "name": "Asish Ahamed",
+      "at_iitm": "M. Sc project (2025-2026)",
+      "email": "-",
+      "image": "/assets/img/members/asish.jpeg"
+    },
+    {
+      "name": "Alakananda B R",
+      "at_iitm": "M. Sc project (2025-2026)",
+      "email": "-",
+      "image": "/assets/img/members/alakananda.jpeg"
+    },
+    { 
+      "name": "Adwaith M",
+      "at_iitm": "M. Sc project (2025-2026)",
+      "email": "-",
+      "image": "/assets/img/members/adwaith.jpeg"
+    },
+    {
+      "name": "Sakkhip Pal",
+      "at_iitm": "M. Sc project (2024-2025)",
+      "email": "-",
+      "image": "/assets/img/members/Sakkhip.jpeg"
+    },
+    {
       "name": "Sahil Sanitosh Dhir",
       "at_iitm": "M. Sc project (2022-2023)",
       "email": "-",
@@ -175,19 +199,15 @@
   
   "msc": [
     {
-      "name": "Adwaith M",
-      "at_iitm": "M. Sc project (2025-2026)",
-      "image": "/assets/img/members/adwaith.jpeg"
+      "name": "Navin S",
+      "at_iitm": "M. Sc project (2026-2027)",
+      "image": "/assets/img/members/Navin S.png"
     },
     {
-      "name": "Alakananda B R",
-      "at_iitm": "M. Sc project (2025-2026)",
-      "image": "/assets/img/members/alakananda.jpeg"
-    },
-    {
-      "name": "Asish Ahmed",
-      "at_iitm": "M. Sc project (2025-2026)",
-      "image": "/assets/img/members/asish.jpeg"
+      "name": "Vaishnavi P C",
+      "at_iitm": "M. Sc project (2026-2027)",
+      "image": "/assets/img/members/Vaishnavi.jpeg"
+   
     }
     ],
   
@@ -329,7 +349,7 @@
     },
     "phd": "2026 - till date ( CSIR JRF )",
     "area_of_interest": "Asymmetric C-H bond activation",
-    "email": "navaneethan.vet@gmail.com",
+    "email": "afrinshifa8013@gmail.com",
     "image": "/assets/img/members/AfrinShifana.jpeg"
   },
   {
