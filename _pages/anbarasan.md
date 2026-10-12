@@ -166,7 +166,11 @@ permalink: "/anbarasan"
     <div class="award-text">Thieme Chemistry Journals Award</div>
   </div>
   
-  <div class="award-item no-year"><div class="award-text">DAE Young Scientist Research Award</div></div>
+  <div class="award-item">
+		<div class="award-year">2012</div> 
+		<div class="award-text"> DAE Young Scientist Research Award</div>
+		</div>
+		
   <div class="award-item no-year"><div class="award-text">Postdoc Fellowship, EBI Berkeley</div></div>
   <div class="award-item no-year"><div class="award-text">Alexander von Humboldt Fellowship</div></div>
   <div class="award-item no-year"><div class="award-text">Guha Research Medal</div></div>
