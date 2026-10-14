@@ -1,8 +1,9 @@
 ---
+title: null
 layout: page
-title: 
-permalink: /positions
+permalink: "/positions"
 ---
+
 <div class="section-title section-bg-img"
      style="background-image: url('{{ site.baseurl }}/assets/img/profile/positionbg.jpeg');">
     <h2>Positions</h2>
@@ -19,7 +20,7 @@ permalink: /positions
   Positions
 </h3>
 
-Currently, we have an opening for Research Associate. Highly motivated fresh Ph.D students with an excellent synthetic organic background and willing to stay at least 1-2 years are welcome to send your CV to anbarasansp@iitm.ac.in (ASAP).
+-
 
 <h3 class="fw-bold mb-3" style="color:#5e1f1f;">
   Doctoral (Ph.D.) Program
@@ -34,5 +35,3 @@ Always looking for highly motivated Master having **JRF** for the doctoral progr
 </h3>
 
 Highly motivated Ph.D students and interested in a position as a postdoctoral fellow, please send your CV and research experience to anbarasansp@iitm.ac.in.
-
-
