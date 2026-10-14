@@ -75,7 +75,7 @@ permalink: "/researchfacilities"
   <div class="instrument-card">
     <img src="{{ site.baseurl }}/assets/img/instruments/chiralhplc.jpeg">
     <div class="instrument-info">
-      <h4>Chiral HPLC</h4>
+      <h4>High-Performance Liquid Chromatograph (HPLC)</h4>
     </div>
   </div>
 
@@ -83,7 +83,7 @@ permalink: "/researchfacilities"
   <div class="instrument-card">
     <img src="{{ site.baseurl }}/assets/img/instruments/cryogenic.jpeg">
     <div class="instrument-info">
-      <h4>Cryogenic reactionbath</h4>     
+      <h4>Cryogenic Reaction Bath</h4>     
     </div>
   </div>
 
@@ -99,7 +99,7 @@ permalink: "/researchfacilities"
   <div class="instrument-card">
     <img src="{{ site.baseurl }}/assets/img/instruments/gcms.jpeg">
     <div class="instrument-info">
-      <h4>GC-MS</h4>     
+      <h4>GC-FID/MS</h4>     
     </div>
   </div>
 
@@ -115,7 +115,7 @@ permalink: "/researchfacilities"
   <div class="instrument-card">
     <img src="{{ site.baseurl }}/assets/img/instruments/hplc.jpeg">
     <div class="instrument-info">
-      <h4>HPLC</h4>
+      <h4>High-Performance Liquid Chromatograph (HPLC)</h4>
     </div>
   </div>
   
@@ -123,7 +123,7 @@ permalink: "/researchfacilities"
   <div class="instrument-card">
     <img src="{{ site.baseurl }}/assets/img/instruments/uvphotoreactor.jpeg">
     <div class="instrument-info">
-      <h4>UV photoreactor</h4>    
+      <h4>UV Photoreactor</h4>    
     </div>
   </div>
   
@@ -131,7 +131,7 @@ permalink: "/researchfacilities"
   <div class="instrument-card">
     <img src="{{ site.baseurl }}/assets/img/instruments/mercurylamp.jpeg">
     <div class="instrument-info">
-      <h4>Mercury lamp photoreactor</h4>    
+      <h4>Mercury Lamp Photoreactor</h4>    
     </div>
   </div>
   
@@ -139,7 +139,7 @@ permalink: "/researchfacilities"
   <div class="instrument-card">
     <img src="{{ site.baseurl }}/assets/img/instruments/visiblelight.jpeg">
     <div class="instrument-info">
-      <h4>Visible light photoreactor</h4>    
+      <h4>Visible Light Photoreactor</h4>    
     </div>
   </div>
   
@@ -147,7 +147,7 @@ permalink: "/researchfacilities"
   <div class="instrument-card">
     <img src="{{ site.baseurl }}/assets/img/instruments/parallel.jpeg">
     <div class="instrument-info">
-      <h4>Parallel synthesizer</h4>    
+      <h4>Parallel Synthesizer</h4>    
     </div>
   </div>
   
@@ -155,7 +155,7 @@ permalink: "/researchfacilities"
   <div class="instrument-card">
     <img src="{{ site.baseurl }}/assets/img/instruments/parrreactor.jpeg">
     <div class="instrument-info">
-      <h4>Parr reactor</h4>    
+      <h4>Parr Reactor</h4>    
     </div>
   </div>
   
@@ -163,7 +163,7 @@ permalink: "/researchfacilities"
   <div class="instrument-card">
     <img src="{{ site.baseurl }}/assets/img/instruments/weighingbalance.jpeg">
     <div class="instrument-info">
-      <h4>Weighing balance</h4>    
+      <h4>Weighing Balance</h4>    
     </div>
   </div>
   
@@ -171,7 +171,7 @@ permalink: "/researchfacilities"
   <div class="instrument-card">
     <img src="{{ site.baseurl }}/assets/img/instruments/rotaryevaporator.jpeg">
     <div class="instrument-info">
-      <h4>Rotary evaporator</h4>    
+      <h4>Rotary Evaporator</h4>    
     </div>
   </div>
   

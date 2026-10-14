@@ -1,7 +1,7 @@
 ---
+title: null
 layout: default
-title: 
-permalink: /publication
+permalink: "/publication"
 ---
 
 <div class="container">
@@ -39,7 +39,8 @@ permalink: /publication
   <div class="pub-filter-left">
     <select id="yearFilter" onchange="filterPublications()">
       <option value="all">Filter by Year</option>
-      <option value="2025">2025</option>
+      <option value="2026">2026</option>
+			<option value="2025">2025</option>
       <option value="2024">2024</option>
       <option value="2023">2023</option>
       <option value="2022">2022</option>
@@ -289,8 +290,3 @@ document.addEventListener('DOMContentLoaded', function () {
   document.querySelector('.pub-btn.active')?.click();
 });
 </script>
-
-
-
-
-

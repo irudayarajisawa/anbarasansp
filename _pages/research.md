@@ -1,8 +1,9 @@
 ---
+title: null
 layout: page
-title: 
-permalink: /research
+permalink: "/research"
 ---
+
 <!-- =========================
   PAGE TITLE
 ========================= -->
@@ -43,12 +44,11 @@ Research
       </p>
 
       <ul>
-        <li>Transannulation of N-heterocycles</li>
-        <li>Fluorination and trifluoromethylation</li>
-        <li>Activation and functionalization of strong bonds</li>
-        <li>Development of new Brønsted acids</li>
-        <li>Synthesis of natural products</li>
-        <li>Conversion of sugar and carbon dioxide to valuable chemicals</li>
+        <li>Design and development of asymmetric transformations</li>
+        <li>Stereoselective functionalization of metallocarbenes</li>
+        <li>Trifluoromethylation and trifluoromethylthiolation</li>
+        <li>Synthesis of therapeutically important natural products</li>
+        <li>Conversion of biomass and carbon dioxide to chemicals and fuels</li>
       </ul>
     </div>
 
@@ -68,12 +68,10 @@ Funding:
 </h3>
  
   <ul>
-    <li>New Faculty Scheme of IC & SR, IITM</li>
+    <li>Anusandhan National Research Foundation (ANRF-SERB)</li>
+		<li>Department of Science and Technology (DST), India</li>
+    <li>Indian Institute of Technology Madras (IITM)</li>
     <li>Council of Scientific & Industrial Research (CSIR), India</li>
-    <li>Department of Science and Technology (DST), India</li>
     <li>Board of Research in Nuclear Sciences (BRNS), India</li>
   </ul>
 </div>
-
-
-
