@@ -75,7 +75,7 @@ permalink: "/researchfacilities"
   <div class="instrument-card">
     <img src="{{ site.baseurl }}/assets/img/instruments/chiralhplc.jpeg">
     <div class="instrument-info">
-      <h4>High-Performance Liquid Chromatograph (HPLC)</h4>
+      <h4>HPLC</h4>
     </div>
   </div>
 
@@ -115,7 +115,7 @@ permalink: "/researchfacilities"
   <div class="instrument-card">
     <img src="{{ site.baseurl }}/assets/img/instruments/hplc.jpeg">
     <div class="instrument-info">
-      <h4>High-Performance Liquid Chromatograph (HPLC)</h4>
+      <h4>HPLC</h4>
     </div>
   </div>
   
