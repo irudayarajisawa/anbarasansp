@@ -65,14 +65,14 @@ permalink: "/anbarasan"
   <div class="row mb-3">
     <div class="col-md-3 fw-semibold">2010 – 2011</div>
     <div class="col-md-9">
-      UC Berkeley, USA<br>Prof. Dean Toste
+      Post-Doctoral Fellow, UC Berkeley, USA<br>Prof. Dean Toste
     </div>
   </div>
 
   <div class="row mb-3">
     <div class="col-md-3 fw-semibold">2008 – 2010</div>
     <div class="col-md-9">
-      Leibniz Institute, Germany<br>Prof. Matthias Beller
+      Alexander von Humboldt Fellow, Leibniz Institute for Catalysis, Germany<br>Prof. Matthias Beller
     </div>
   </div>
 
@@ -93,12 +93,12 @@ permalink: "/anbarasan"
 
   <div class="row mb-3">
     <div class="col-md-3 fw-semibold">2002 – 2004</div>
-    <div class="col-md-9">M.Sc., Madurai Kamaraj University</div>
+    <div class="col-md-9">M.Sc., Madurai Kamaraj University, Madurai</div>
   </div>
 
   <div class="row mb-3">
     <div class="col-md-3 fw-semibold">1999 – 2002</div>
-    <div class="col-md-9">B.Sc., Periyar Arts College</div>
+    <div class="col-md-9">B.Sc., Periyar Arts College, Cuddalore</div>
   </div>
 
   <hr class="my-4">
@@ -108,9 +108,48 @@ permalink: "/anbarasan"
 <div class="awards-section">
 
   <!-- ALWAYS VISIBLE -->
-  <div class="award-item">
-    <div class="award-year">2020–2021</div>
-    <div class="award-text">AVRA Young Scientist Award</div>
+  
+	
+		<div class="award-item">
+    <div class="award-year">2026</div>
+    <div class="award-text">Prof. S. Swaminathan Endowment Lecture Award, Univ. of Madras</div>
+  </div>  
+
+		<div class="award-item">
+    <div class="award-year">2025</div>
+    <div class="award-text">Award for Excellence in Teaching, IIT Madras</div>
+  </div>
+		
+	<div class="award-item">
+    <div class="award-year">2024</div>
+    <div class="award-text">Dr. Sunil G. Naik Memorial Lecture, Univ. of Rajasthan</div>
+
+  <!-- HIDDEN PART -->
+  <div id="more-awards" style="display:none;">
+
+		<div class="award-item">
+    <div class="award-year">2026</div>
+    <div class="award-text">Prof. S. Swaminathan Endowment Lecture Award, Univ. of Madras</div>
+  </div>  
+
+		<div class="award-item">
+    <div class="award-year">2025</div>
+    <div class="award-text">Award for Excellence in Teaching, IIT Madras</div>
+  </div>
+		
+	<div class="award-item">
+    <div class="award-year">2024</div>
+    <div class="award-text">Dr. Sunil G. Naik Memorial Lecture, Univ. of Rajasthan</div>
+  </div>
+		
+	<div class="award-item">
+    <div class="award-year">2023</div>
+    <div class="award-text">Dr. V. J. Philip Endowment Lecture, Chennai</div>
+  </div>
+		
+		<div class="award-item">
+    <div class="award-year">2021</div>
+    <div class="award-text">AVRA Young Scientist Award, AVRA Research Foundation</div>
   </div>
   
   <div class="award-item">
@@ -120,45 +159,42 @@ permalink: "/anbarasan"
 
   <div class="award-item">
     <div class="award-year">2020</div>
-    <div class="award-text">Young Scientist Award, Academy of Sciences Chennai</div>
+    <div class="award-text">Young Scientist Award, The Academy of Sciences, Chennai</div>
   </div>
-
-  <!-- HIDDEN PART -->
-  <div id="more-awards" style="display:none;">
-  
+		
   <div class="award-item">
     <div class="award-year">2019–2020</div>
-    <div class="award-text">SwarnaJayanti Fellowship</div>
+    <div class="award-text">SwarnaJayanti Fellowship-DST</div>
   </div>
 
   <div class="award-item">
     <div class="award-year">2019</div>
-    <div class="award-text">CRSI Young Scientist Award</div>
+    <div class="award-text">CRSI-Young Scientist Award</div>
   </div>
-  
+		
   <div class="award-item">
     <div class="award-year">2017</div>
-    <div class="award-text">ISCB Young Scientist Award</div>
+    <div class="award-text">ISCB-Young Scientist Award</div>
   </div>
   
   <div class="award-item">
     <div class="award-year">2016</div>
-    <div class="award-text">NASI Young Scientist Platinum Jubilee Award</div>
+    <div class="award-text">NASI-Young Scientist Platinum Jubilee Award</div>
   </div>
 
   <div class="award-item">
     <div class="award-year">2015–2018</div>
-    <div class="award-text">Associate Member, IAS Bangalore</div>
+    <div class="award-text">Young Associate, Indian Academy of Sciences Bangalore</div>
   </div>
 
   <div class="award-item">
     <div class="award-year">2015–2016</div>
-    <div class="award-text">Institute R&D Awards (IRDA)</div>
+    <div class="award-text">Institute Research & Development Awards (IRDA)</div>
   </div>
   
   <div class="award-item">
     <div class="award-year">2015</div>
-    <div class="award-text">Young Scientist Medal, INSA</div>
+    <div class="award-text">Young Scientist Medal, Indian National Science Academy (INSA)</div>
   </div>
   
   <div class="award-item">
@@ -167,16 +203,70 @@ permalink: "/anbarasan"
   </div>
   
   <div class="award-item">
-		<div class="award-year">2012</div> 
-		<div class="award-text"> DAE Young Scientist Research Award</div>
+		<div class="award-year">2013</div> 
+		<div class="award-text"> DAE-BRNS Young Scientist Research Award</div>
 		</div>
 		
-  <div class="award-item no-year"><div class="award-text">Postdoc Fellowship, EBI Berkeley</div></div>
-  <div class="award-item no-year"><div class="award-text">Alexander von Humboldt Fellowship</div></div>
-  <div class="award-item no-year"><div class="award-text">Guha Research Medal</div></div>
-  <div class="award-item no-year"><div class="award-text">CSIR-JRF & SRF</div></div>
-  <div class="award-item no-year"><div class="award-text">8th Rank in GATE</div></div>
-  <div class="award-item no-year"><div class="award-text">Gold Medal in Masters</div></div>
+		<div class="award-item">
+		<div class="award-year">2010-2011</div> 
+		<div class="award-text"> Postdoc Fellowship, EBI, UC Berkeley</div>
+		</div>
+		
+		<div class="award-item">
+		<div class="award-year">2010</div> 
+		<div class="award-text"> Post-doctoral fellowship from Leibniz Society, Germany </div>
+		</div>
+		
+		<div class="award-item">
+		<div class="award-year">2018-2010</div> 
+		<div class="award-text"> Alexander von Humboldt Fellowship</div>
+		</div>
+		
+		<div class="award-item">
+		<div class="award-year">2007-2008</div> 
+		<div class="award-text"> Research Associate Fellowship, IISc</div>
+		</div>
+		
+		<div class="award-item">
+		<div class="award-year">2008</div> 
+		<div class="award-text"> Guha Research Medal for the best Ph.D thesis of the year</div>
+		</div>
+		
+			<div class="award-item">
+		<div class="award-year">2007</div> 
+		<div class="award-text">CSIR-Senior Research Fellowship</div>
+		</div>
+		
+			<div class="award-item">
+		<div class="award-year">2005-2006</div> 
+		<div class="award-text">CSIR-Junior Research Fellowship</div>
+		</div>
+		
+			<div class="award-item">
+		<div class="award-year">2004-2005</div> 
+		<div class="award-text">Junior Research Fellowship, IISc</div>
+		</div>
+		
+		<div class="award-item">
+		<div class="award-year">2004</div> 
+		<div class="award-text">Secured all India 8th rank with 99.76 percentile score in GATE</div>
+		</div>
+		
+		<div class="award-item">
+		<div class="award-year">2004</div> 
+		<div class="award-text">Prof. C. Natarajan endowment gold medal</div>
+		</div>
+		
+		<div class="award-item">
+		<div class="award-year">2004</div> 
+		<div class="award-text">Dr. T. P. Meenakshisundaram endowment prize</div>
+		</div>
+		
+		<div class="award-item">
+		<div class="award-year">2003-2004</div> 
+		<div class="award-text">Maveeran Sundaralingam endowment scholarship</div>
+		</div>
+
 
   </div>
 
