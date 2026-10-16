@@ -112,8 +112,6 @@ permalink: "/anbarasan"
     <div class="award-year">2026</div>
     <div class="award-text">Prof. S. Swaminathan Endowment Lecture Award, Univ. of Madras</div>
    </div>  
-
-  </div>
 		
     <div class="award-item">
     <div class="award-year">2025</div>
