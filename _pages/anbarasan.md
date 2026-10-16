@@ -115,6 +115,12 @@ permalink: "/anbarasan"
 
   </div>
 		
+    <div class="award-item">
+    <div class="award-year">2025</div>
+    <div class="award-text">Award for Excellence in Teaching, IIT Madras</div>
+  </div>
+</div>
+
 	<div class="award-item">
     <div class="award-year">2024</div>
     <div class="award-text">Dr. Sunil G. Naik Memorial Lecture, Univ. of Rajasthan</div>
