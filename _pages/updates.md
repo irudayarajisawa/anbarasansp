@@ -1,7 +1,7 @@
 ---
+title: null
 layout: page
-title: 
-permalink: /updates
+permalink: "/updates"
 ---
 
 <div class="section-title">
@@ -32,6 +32,8 @@ permalink: /updates
         <li>Mahesh’s paper accepted for publication in Org. Lett. Hearty Congratulations!!!</li>
         <li>Bakki’s paper accepted for publication in Org. Lett. Hearty Congratulations!!!</li>
         <li>Minakshi’s paper accepted for publication in J. Org. Chem. Hearty Congratulations!!!</li>
+				<li>Just an testing #001</li>
+				<li>Just an testing #002</li>
       </ul>
     </div>
 
@@ -52,5 +54,3 @@ permalink: /updates
 
   </div>
 </div>
-  
-
