@@ -197,45 +197,51 @@
     },
     {
       "number": 80,
-      "text": "Catalytic Enantioselective Oxysulfenylation of o-Vinylanilides — A. Kesavan, P. Anbarasan; Chem. Commun. 2022, 58, 282.",
-      "link": "https://onlinelibrary.wiley.com/...",
+      "text": "Catalytic Enantioselective Oxysulfenylation of o-Vinylanilides. A. Kesavan, P. Anbarasan; <i>Chem. Commun.</i> <b>2022</b>, <i>58</i>, 282.",
+      "link": "https://doi.org/10.1039/d1cc05835e",
       "image": "/assets/img/publication/thiolation80.png"
     },
     {
       "number": 79,
-      "text": "Rhodium-Catalyzed Annulation of N-Acetoxyacetanilide with Substituted Alkyne: Conversion of Nitroarenes to Substituted Indoles — J. Ghorai, K. Ramachandran, P. Anbarasan; J. Org. Chem. 2021, 86, 14812. († equal contribution)",
-      "link": "https://pubs.acs.org/...",
+      "text": "Rhodium-Catalyzed Annulation of N-Acetoxyacetanilide with Substituted Alkyne: Conversion of Nitroarenes to Substituted Indoles. J. Ghorai, K. Ramachandran, P. Anbarasan; <i>J. Org. Chem.</i> <b>2021</b>, <i>86</i>, 14812. (†equal contribution)",
+      "link": "https://doi.org/10.1021/acs.joc.1c01604",
       "image": "/assets/img/publication/nitro-to-indole79.png"
     },
     {
       "number": 78,
-      "text": "Cp*Co(III)-Catalyzed C2-Thiolation and C2,C3-Dithiolation of Substituted Indoles — J. Ghorai, A. Kesavan, P. Anbarasan; Chem. Commun. 2021, 55, 10544.",
-      "link": "https://pubs.rsc.org/...",
+      "text": "Cp*Co(III)-Catalyzed C2-Thiolation and C2,C3-Dithiolation of Substituted Indoles. J. Ghorai, A. Kesavan, P. Anbarasan; <i>Chem. Commun.</i> <b>2021</b>, <i>55</i>, 10544.",
+      "link": "https://doi.org/10.1039/d1cc03760a",
       "image": "/assets/img/publication/dithiolation77.png"
     },
     {
       "number": 77,
-      "text": "Cobalt-Catalyzed Multisubstituted Allylation of Chelation-Assisted C-H bond of (Hetero)arenes with Cyclopropenes — K. Ramachandran, P. Anbarasan; Chem. Sci. 2021, 12, 13442.",
-      "link": "https://onlinelibrary.wiley.com/...",
+      "text": "Cobalt-Catalyzed Multisubstituted Allylation of Chelation-Assisted C-H bond of (Hetero)arenes with Cyclopropenes. K. Ramachandran, P. Anbarasan; <i>Chem. Sci.</i> <b>2021</b>, <i>12</i>, 13442.",
+      "link": "https://doi.org/10.1039/d1sc03476f",
       "image": "/assets/img/publication/cyclopropeneallyllation78.png"
     },
     {
       "number": 76,
-      "text": "Vicinal Trifluoromethylthioamination of Alkenes with Trifluoromethanesulfanylamides — A. Kesavan, P. Anbarasan; Asian J. Org. Chem. 2021, 10, 2562.",
+      "text": "Vicinal Trifluoromethylthioamination of Alkenes with Trifluoromethanesulfanylamides. A. Kesavan, P. Anbarasan; <i>Asian J. Org. Chem.</i> <b>2021</b>, <i>10</i>, 2562.",
       "link": "https://onlinelibrary.wiley.com/...",
       "image": "/assets/img/publication/aminoscf376.png"
     },
     {
       "number": 75,
-      "text": "Catalytic Functionalization of Metallocarbenes Derived from α-Diazocarbonyl Compounds. D. Yadagiri, P. Anbarasan; Chem. Rec. 2021, 21, 3872.",
+      "text": "Catalytic Functionalization of Metallocarbenes Derived from α-Diazocarbonyl Compounds. D. Yadagiri, P. Anbarasan; <i>Chem. Rec.</i> <b>2021</b>, <i>21</i>, 3872.",
       "link": "https://doi.org/10.1002/tcr.202100090",
       "image": "/assets/img/publication/Personal-account75.png"
     },
     {
       "number": 74,
-      "text": "(Cyclopentadienone)iron Complexes: Synthesis, Mechanism and Applications in Organic Synthesis. M. Akter, P. Anbarasan; Chem. Asian J. 2021, 16, 1703.",
+      "text": "(Cyclopentadienone)iron Complexes: Synthesis, Mechanism and Applications in Organic Synthesis. M. Akter, P. Anbarasan; <i>Chem. Asian J.</i> <b>2021</b>, <i>16</i>, 1703.",
       "link": "https://doi.org/10.1002/asia.202100204",
       "image": "/assets/img/publication/Fe-Abstract-274.png"
+    },
+    {
+      "number": 73,
+      "text": "Palladium-Catalyzed Diastereoselective Synthesis of 2,2,3-Trisubstituted Dihydrobenzofurans via Intramolecular Trapping of O-Ylides with Activated Alkenes. P. M. Reddy, K. Ramachandran, P. Anbarasan; <i>J. Catal.</i> <b>2021</b>, <i>396</i>, 291.",
+      "link": "https://doi.org/10.1016/j.jcat.2021.02.032",
+      "image": "/assets/img/publication/dihydrobenzofuran73.png"
     },
     {
       "number": 72,
@@ -245,15 +251,8 @@
     {
       "number": 71,
       "text": "1,2,4,5-Tetrazines in Comprehensive Heterocyclic Chemistry IV. M. Chaitanya, P. Anbarasan; Elsevier, 2021.",
-      "link": "https://www.sciencedirect.com/science/article/pii/B9780081025115000097"
+      "link": "https://doi.org/10.1016/B978-0-12-818655-8.00096-2"
     },
-    {
-      "number": 73,
-      "text": "Palladium-Catalyzed Diastereoselective Synthesis of 2,2,3-Trisubstituted Dihydrobenzofurans via Intramolecular Trapping of O-Ylides with Activated Alkenes. P. M. Reddy, K. Ramachandran, P. Anbarasan; J. Catal. 2021, 396, 291.",
-      "link": "https://doi.org/10.1016/j.jcat.2021.02.018",
-      "image": "/assets/img/publication/dihydrobenzofuran73.png"
-    },
-  
     {
       "number": 70,
       "text": "Copper-Catalyzed Click Reactions in Copper Catalysis in Organic Synthesis. R. Ramkumar, P. Anbarasan; Wiley-VCH, 2020, p. 177.",
@@ -261,13 +260,13 @@
     },
     {
       "number": 69,
-      "text": "Rhodium-Catalyzed Sommelet–Hauser Type Rearrangement of α-Diazoimines. A. C. S. Reddy, K. Ramachandran, P. M. Reddy, P. Anbarasan; Chem. Commun. 2020, 56, 5649.",
-      "link": "https://doi.org/10.1039/D0CC01234A",
+      "text": "Rhodium-Catalyzed Sommelet–Hauser Type Rearrangement of α-Diazoimines. A. C. S. Reddy, K. Ramachandran, P. M. Reddy, P. Anbarasan; <i>Chem. Commun.</i> <b>2020</b>, <i>56</i>, 5649.",
+      "link": "https://doi.org/10.1039/d0cc00016g",
       "image": "/assets/img/publication/enamide69.png"
     },
     {
       "number": 68,
-      "text": "Diastereoselective Palladium Catalyzed Carbenylative Amination of ortho-Vinylanilines. A. C. S. Reddy, P. M. Reddy, P. Anbarasan; Adv. Synth. Catal. 2020, 362, 801.",
+      "text": "Diastereoselective Palladium Catalyzed Carbenylative Amination of ortho-Vinylanilines. A. C. S. Reddy, P. M. Reddy, P. Anbarasan; <i>Adv. Synth. Catal.</i> <b>2020</b>, <i>362</i>, 801.",
       "link": "https://doi.org/10.1002/adsc.201901234",
       "image": "/assets/img/publication/spirooxindole68.png"
     },
