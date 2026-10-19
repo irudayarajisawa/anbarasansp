@@ -18,7 +18,7 @@
   {
       "number": 110,
       "text": "Catalytic Oxysulfenylation of β,γ-Unsaturated Ketoximes: An Enantioselective Synthesis of Isoxazolines. A. K. Sahu, P. Anbarasan; <i>Org. Lett.</i> accepted.",
-      "link": " https://doi.org/10.1021/acs.orglett.6c03683",
+      "link": "https://doi.org/10.1021/acs.orglett.6c03683",
       "image": "/assets/img/publication/TOC isoxazoline.png"
     },
     {
@@ -48,7 +48,7 @@
     {
       "number": 105,
       "text": "Rhodium-Catalyzed [3+3] Annulation of N‑Sulfonyl-1,2,3-triazole with a Homoallylic Alcohol for the Synthesis of 1,2-Dihydropyridine. P. M. Reddy, M. Dhanalakshmi, P. Anbarasan; <i>Org. Lett.</i> <b>2026</b>, <i>28</i>, 3448.",
-      "link": " https://doi.org/10.1021/acs.orglett.6c00327",
+      "link": "https://doi.org/10.1021/acs.orglett.6c00327",
       "image": "/assets/img/publication/105.png"
     },
     {
@@ -59,48 +59,57 @@
     },
     {
       "number": 103,
-      "text": "Palladium catalysed carbonylative cross-coupling of aryl (pseudo)halides and cyclopropanols. S. Srikriya, P. Anbarasan; J. Org. Chem. 2025.",
-      "link": "https://pubs.acs.org/journal/joceah"
+      "text": "Palladium catalysed carbonylative cross-coupling of aryl (pseudo)halides and cyclopropanols. S. Srikriya, P. Anbarasan; <i>J. Org. Chem.</i> <b>2025</b>, <i>90</i>, 15404.",
+      "link": "https://doi.org/10.1021/acs.joc.5c01963",
+      "image": "/assets/img/publication/103.png"
     },
     {
       "number": 102,
-      "text": "Ligand-Controlled Chemo- and Enantiodivergent Rh(III)-Catalyzed Redox-Neutral Annulation of Aryl Hydroxamates with Cyclopropenes via C–H and C–C Activation. M. Bakkiyaraj, P. Adak, P. Anbarasan; ACS Catal. 2025, 15, 15808.",
-      "link": "https://doi.org/10.1021/acscatal.5c03046"
+      "text": "Ligand-Controlled Chemo- and Enantiodivergent Rh(III)-Catalyzed Redox-Neutral Annulation of Aryl Hydroxamates with Cyclopropenes via C–H and C–C Activation. M. Bakkiyaraj, P. Adak, P. Anbarasan; <i>ACS Catal.</i> <b>2025</b>, <i>15</i>, 15808.",
+      "link": "https://doi.org/10.1021/acscatal.5c04051",
+      "image": "/assets/img/publication/102.png"
     },
     {
       "number": 101,
-      "text": "Copper-Catalyzed Enantioselective Acylcyanation of Alkenes. A. Biswas, S. Srikriya, P. Anbarasan; Org. Lett. 2025, 27, 8481.",
-      "link": "https://doi.org/10.1021/acs.orglett.5c02941"
+      "text": "Copper-Catalyzed Enantioselective Acylcyanation of Alkenes. A. Biswas, S. Srikriya, P. Anbarasan; <i>Org. Lett.</i> <b>2025</b>, <i>27</i>, 8481.",
+      "link": "https://doi.org/10.1021/acs.orglett.5c02373",
+      "image": "/assets/img/publication/101.png"
     },
     {
       "number": 100,
-      "text": "Palladium catalyzed cyanation of aryl (pseudo)halides using redox active N-CN reagent. M. Dhanalakshmi, P. Anbarasan; Chem. Commun. 2025, 61, 10534–10537.",
-      "link": "https://doi.org/10.1039/D5CC02381E"
+      "text": "Palladium catalyzed cyanation of aryl (pseudo)halides using redox active N-CN reagent. M. Dhanalakshmi, P. Anbarasan; <i>Chem. Commun.</i> <b>2025</b>, <i>61</i>, 10534–10537.",
+      "link": "https://doi.org/10.1039/d5cc02381e",
+      "image": "/assets/img/publication/100.png"
     },
     {
       "number": 99,
-      "text": "Brønsted acid-assisted Lewis acid mediated intramolecular trapping of in-situ generated aminoenol with activated alkenes and ketones. M. Altia, P. Anbarasan; Chem. Asian J. 2025, 20, e202500179.",
-      "link": "https://doi.org/10.1002/asia.202500179"
+      "text": "Brønsted acid-assisted Lewis acid mediated intramolecular trapping of in-situ generated aminoenol with activated alkenes and ketones. M. Altia, P. Anbarasan; <i>Chem. Asian J.</i> <b>2025</b>, <i>20</i>, e202500179.",
+      "link": "https://doi.org/10.1002/asia.202500179",
+      "image": "/assets/img/publication/99.png"
     },
     {
       "number": 98,
-      "text": "Carbonyl vs Hydroxy: Rhodium catalyzed carbonyl ylide triggered diastereoselective synthesis of 2,5-methano-1,3-benzoxazepines. P. M. Reddy, P. Anbarasan; Org. Lett. 2025, 27, 3385.",
-      "link": "https://doi.org/10.1021/acs.orglett.5c01087"
+      "text": "Carbonyl vs Hydroxy: Rhodium catalyzed carbonyl ylide triggered diastereoselective synthesis of 2,5-methano-1,3-benzoxazepines. P. M. Reddy, P. Anbarasan; <i>Org. Lett.</i> <b>2025</b>, <i>27</i>, 3385.",
+      "link": "https://doi.org/10.1021/acs.orglett.5c00782",
+      "image": "/assets/img/publication/98.png"
     },
     {
       "number": 97,
-      "text": "Catalytic Enantioselective [4+1]-Annulation of Carboxylic Acids with Cyclopropenes. M. Bakkiyaraj, P. Anbarasan; Org. Lett. 2025, 27, 1638.",
-      "link": "https://doi.org/10.1021/acs.orglett.4c04209"
+      "text": "Catalytic Enantioselective [4+1]-Annulation of Carboxylic Acids with Cyclopropenes. M. Bakkiyaraj, P. Anbarasan; <i>Org. Lett.</i> <b>2025</b>, <i>27</i>, 1638.",
+      "link": "https://doi.org/10.1021/acs.orglett.4c04827",
+      "image": "/assets/img/publication/97.png"
     },
     {
       "number": 96,
-      "text": "Reversal of reactivity of Heyns intermediate for the concise synthesis of substituted 3-hydroxyquinolines. M. Altia, P. Anbarasan; J. Org. Chem. 2024, 89, 16899.",
-      "link": "https://doi.org/10.1021/acs.joc.4c02789"
+      "text": "Reversal of reactivity of Heyns intermediate for the concise synthesis of substituted 3-hydroxyquinolines. M. Altia, P. Anbarasan; <i>J. Org. Chem.</i> <b>2024</b>, <i>89</i>, 16899.",
+      "link": "https://doi.org/10.1021/acs.joc.4c01285",
+      "image": "/assets/img/publication/96.png"
     },
     {
       "number": 95,
-      "text": "Rhodium-Catalyzed One-pot Chemoselective Insertion-Rearrangement-Cyclization of Azavinyl carbenes with 2-Aminobenzyl alcohols. K. Rupa, P. Anbarasan; J. Org. Chem. 2024, 89, 16351.",
-      "link": "https://doi.org/10.1021/acs.joc.4c02415"
+      "text": "Rhodium-Catalyzed One-pot Chemoselective Insertion-Rearrangement-Cyclization of Azavinyl carbenes with 2-Aminobenzyl alcohols. K. Rupa, P. Anbarasan; <i>J. Org. Chem.</i> <b>2024</b>, <i>89</i>, 16351.",
+      "link": "https://doi.org/10.1021/acs.joc.4c01040",
+      "image": "/assets/img/publication/95.png"
     },
     {
       "number": 94,
