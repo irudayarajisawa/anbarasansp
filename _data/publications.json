@@ -17,7 +17,7 @@
   "iitm": [
   {
       "number": 110,
-      "text": "Catalytic Oxysulfenylation of β,γ-Unsaturated Ketoximes: An Enantioselective Synthesis of Isoxazolines. A. K. Sahu, P. Anbarasan; <i>Org. Lett.</i> accepted.",
+      "text": "Catalytic Oxysulfenylation of β,γ-Unsaturated Ketoximes: An Enantioselective Synthesis of Isoxazolines. A. K. Sahu, P. Anbarasan; <i>Org. Lett.</i> <b>2026</b>, accepted.",
       "link": "https://doi.org/10.1021/acs.orglett.6c03683",
       "image": "/assets/img/publication/TOC isoxazoline.png"
     },
@@ -517,28 +517,18 @@
     }
   ],
   "phd": [
+    
+    
     {
-      "number": 14,
-      "text": "Efficient synthesis of aryl fluorides. P. Anbarasan, H. Neumann, M. Beller; Angew. Chem. Int. Ed. 2010, 49, 2219.",
-      "link": "https://doi.org/10.1002/anie.200905855",
+      "number": 26,
+      "text": "A well-defined iron catalyst for improved hydrogenation of carbon dioxide and bicarbonate. C. Ziebart, C. Federsal, P. Anbarasan, R. Jackstell, W. Baumann, A. Spannenberg, M. Beller; <i>J. Am. Chem. Soc.</i> <b>2012</b>, <i>134</i>, 20701.",
+      "link": "https://doi.org/10.1021/ja307924a",
       "image": null
     },
     {
       "number": 25,
       "text": "Integration of chemical catalysis with extractive fermentation to produce fungible fuels. P. Anbarasan et al.; Nature 2012, 491, 235.",
       "link": "https://doi.org/10.1038/nature11594",
-      "image": null
-    },
-    {
-      "number": 22,
-      "text": "A novel and convenient synthesis of benzonitriles: electrophilic cyanation of aryl and heteroaryl bromides. P. Anbarasan, H. Neumann, M. Beller; Chem. Eur. J. 2011, 17, 4217.",
-      "link": "https://doi.org/10.1002/chem.201003681",
-      "image": null
-    },
-    {
-      "number": 26,
-      "text": "A well-defined iron catalyst for improved hydrogenation of carbon dioxide and bicarbonate. C. Ziebart et al.; J. Am. Chem. Soc. 2012, 134, 20701.",
-      "link": "https://doi.org/10.1021/ja308589m",
       "image": null
     },
     {
@@ -551,6 +541,12 @@
       "number": 23,
       "text": "A general cyclocarbonylation of aryl bromides and triflates with acetylenes: palladium-catalyzed synthesis of 3-alkylidenefuran-2-ones. X.-F. Wu et al.; Chem. Eur. J. 2011, 17, 8014.",
       "link": "https://doi.org/10.1002/chem.201100542",
+      "image": null
+    },
+    {
+      "number": 22,
+      "text": "A novel and convenient synthesis of benzonitriles: electrophilic cyanation of aryl and heteroaryl bromides. P. Anbarasan, H. Neumann, M. Beller; Chem. Eur. J. 2011, 17, 4217.",
+      "link": "https://doi.org/10.1002/chem.201003681",
       "image": null
     },
     {
@@ -593,6 +589,12 @@
       "number": 15,
       "text": "A convenient synthesis of benzonitriles via electrophilic cyanation with N-cyanobenzimidazole. P. Anbarasan et al.; Chem. Eur. J. 2010, 16, 4725.",
       "link": "https://doi.org/10.1002/chem.200903201",
+      "image": null
+    },
+    {
+      "number": 14,
+      "text": "Efficient synthesis of aryl fluorides. P. Anbarasan, H. Neumann, M. Beller; Angew. Chem. Int. Ed. 2010, 49, 2219.",
+      "link": "https://doi.org/10.1002/anie.200905855",
       "image": null
     },
     {
