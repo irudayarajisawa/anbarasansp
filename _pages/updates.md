@@ -22,7 +22,8 @@ permalink: "/updates"
 
     <div class="col-md-6">
       <ul>
-        <li>Dhanalakshmi’s paper accepted for publication in Synlett. Hearty Congratulations!!!</li>
+       <li>Akshaya’s paper accepted for publication in Org. Lett. Hearty Congratulations!!!</li> 
+				<li>Dhanalakshmi’s paper accepted for publication in Synlett. Hearty Congratulations!!!</li>
         <li>Monalisa’s paper accepted for publication in J. Org. Chem. Hearty Congratulations!!!</li>
         <li>Srikriya’s paper accepted for publication in J. Org. Chem. Hearty Congratulations!!!</li>
         <li>Bakkiyaraj and Poulomi’s paper accepted for publication in ACS Catal. Hearty Congratulations to them!!!</li>
