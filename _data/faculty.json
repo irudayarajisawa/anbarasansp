@@ -1,6 +1,66 @@
 {
   "alumni": [
     {
+      "name": "Shovan Kumar Sen",
+      "at_iitm": "M. Sc project (2012-2013)",
+      "current_position": "Pursuing Ph.D at IICB, Kolkata",
+      "contact": "+91 9884158138",
+      "email": "sen.shovan365@gmail.com",
+      "image": "/assets/img/members/shovankumarsen.jpg"
+    },
+    {
+      "name": "Asish Bera",
+      "at_iitm": "M. Sc project (2013-2014)",
+      "current_position": "Pursuing Ph.D at NCL, Pune",
+      "email": "asish.chemist@gmail.com",
+      "image": "/assets/img/members/Asish Bera.jpeg"
+    },
+    {
+      "name": "Shuvendu Saha",
+      "at_iitm": "M. Sc project (2014-2015)",
+      "current_position": "Pursuing Ph.D at IIT Kgp",
+      "email": "chemistpapu.iitm@gmail.com",
+      "image": "/assets/img/members/shuvendusaha.jpg"
+    },
+    {
+      "name": "Sayanta Roy",
+      "at_iitm": "M. Sc project (2015-2016)",
+      "current_position": "Pursuing Ph.D at IITG",
+      "email": "sayanta.chem94@gmail.com",
+      "image": "/assets/img/members/sayantaroy.jpg"
+    },
+    {
+      "name": "Rahul Sehrawat",
+      "at_iitm": "M. Sc project (2017-2018)",
+      "email": "rahulsehrawat1809@gmail.com",
+      "image": "/assets/img/members/rahulsehrawat.jpg"
+    },
+    {
+      "name": "Stephy Jomy",
+      "at_iitm": "M. Sc project (2018-2019)",
+      "current_position": "Pursuing Ph.D at Louisiana State University",
+      "email": "stephy.jomy@gmail.com",
+      "image": "/assets/img/members/stephyjomy.jpg"
+    },
+    {
+      "name": "Shubham",
+      "at_iitm": "M. Sc project (2022-2023)",
+      "email": "shubhamgoel0644@gmail.com",
+      "image": "/assets/img/members/Shubham.jpg"
+    },
+    {
+      "name": "Sahil Sanitosh Dhir",
+      "at_iitm": "M. Sc project (2022-2023)",
+      "email": "-",
+      "image": "/assets/img/members/Sahil Sanitosh Dhir.jpg"
+    },
+    {
+      "name": "Sakkhip Pal",
+      "at_iitm": "M. Sc project (2024-2025)",
+      "email": "-",
+      "image": "/assets/img/members/Sakkhip.jpeg"
+    },
+    {
       "name": "Asish Ahamed",
       "at_iitm": "M. Sc project (2025-2026)",
       "email": "-",
@@ -18,66 +78,15 @@
       "email": "-",
       "image": "/assets/img/members/adwaith.jpeg"
     },
-    {
-      "name": "Sakkhip Pal",
-      "at_iitm": "M. Sc project (2024-2025)",
-      "email": "-",
-      "image": "/assets/img/members/Sakkhip.jpeg"
-    },
-    {
-      "name": "Sahil Sanitosh Dhir",
-      "at_iitm": "M. Sc project (2022-2023)",
-      "email": "-",
-      "image": "/assets/img/members/Sahil Sanitosh Dhir.jpg"
-    },
-    {
-      "name": "Shubham",
-      "at_iitm": "M. Sc project (2022-2023)",
-      "email": "shubhamgoel0644@gmail.com",
-      "image": "/assets/img/members/Shubham.jpg"
-    },
-    {
-      "name": "Stephy Jomy",
-      "at_iitm": "M. Sc project (2018-2019)",
-      "current_position": "Pursuing Ph.D at Louisiana State University",
-      "email": "stephy.jomy@gmail.com",
-      "image": "/assets/img/members/stephyjomy.jpg"
-    },
-    {
-      "name": "Rahul Sehrawat",
-      "at_iitm": "M. Sc project (2017-2018)",
-      "email": "rahulsehrawat1809@gmail.com",
-      "image": "/assets/img/members/rahulsehrawat.jpg"
-    },
-    {
-      "name": "Sayanta Roy",
-      "at_iitm": "M. Sc project (2015-2016)",
-      "current_position": "Pursuing Ph.D at IITG",
-      "email": "sayanta.chem94@gmail.com",
-      "image": "/assets/img/members/sayantaroy.jpg"
-    },
-    {
-      "name": "Shovan Kumar Sen",
-      "at_iitm": "M. Sc project (2012-2013)",
-      "current_position": "Pursuing Ph.D at IICB, Kolkata",
-      "contact": "+91 9884158138",
-      "email": "sen.shovan365@gmail.com",
-      "image": "/assets/img/members/shovankumarsen.jpg"
-    },
-    {
-      "name": "Shuvendu Saha",
-      "at_iitm": "M. Sc project (2014-2015)",
-      "current_position": "Pursuing Ph.D at IIT Kgp",
-      "email": "chemistpapu.iitm@gmail.com",
-      "image": "/assets/img/members/shuvendusaha.jpg"
-    },
-    {
-      "name": "Asish Bera",
-      "at_iitm": "M. Sc project (2013-2014)",
-      "current_position": "Pursuing Ph.D at NCL, Pune",
-      "email": "asish.chemist@gmail.com",
-      "image": "/assets/img/members/Asish Bera.jpeg"
-    },
+    
+    
+    
+    
+    
+    
+    
+    
+    
     {
       "name": "P. Maheswar Reddy",
       "phd_year": "2026",
