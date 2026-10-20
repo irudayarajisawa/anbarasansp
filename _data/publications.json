@@ -2,16 +2,18 @@
   "book_chapter": [
     {
       "number": 3,
-      "text": "M. Dhanalakshmi, P. Anbarasan, Transition Metal Catalyzed C-CN Cross Coupling in C1 Chemistry, Z. Liu, H. Buxing, K. Ding, X.-F. Wu, Eds.; Wiley VCH, 2021, (in press)."
+      "text": "M. Dhanalakshmi, P. Anbarasan, Transition Metal Catalyzed C-CN Cross Coupling in C1 Chemistry, Z. Liu, H. Buxing, K. Ding, X.-F. Wu, Eds.; Wiley VCH, 2021.",
+      "link": "https://doi.org/10.1002/9783527831883.ch30"
     },
     {
       "number": 2,
-      "text": "M. Chaitanya, P. Anbarasan, 1,2,4,5-Tetrazines in Section 9: Six-membered Rings with Three or more Heteroatoms, and their Fused Carbocyclic Derivatives, S. J. Gharpure, S. Ed. In Comprehensive Heterocyclic Chemistry IV, D. Balck, C. Stevens and J. Cossy, Eds.; Elsevier Science, 2021, (in press)."
+      "text": "M. Chaitanya, P. Anbarasan, 1,2,4,5-Tetrazines in Section 9: Six-membered Rings with Three or more Heteroatoms, and their Fused Carbocyclic Derivatives, S. J. Gharpure, S. Ed. In Comprehensive Heterocyclic Chemistry IV, D. Balck, C. Stevens and J. Cossy, Eds.; Elsevier Science, 2021.",
+      "link": "https://doi.org/10.1016/B978-0-12-818655-8.00096-2"
     },
     {
       "number": 1,
       "text": "Ramkumar, R.; Anbarasan, P. Copper-Catalyzed Click Reactions in Copper Catalysis in Organic Synthesis, Saranya, S., Anilkumar, G., Eds.; Wiley VCH, 2020, p. 177. ISBN: 9783527347377.",
-      "link": "https://onlinelibrary.wiley.com/..." 
+      "link": "https://doi.org/10.1002/9783527826445.ch9" 
     }
   ],
   "iitm": [
