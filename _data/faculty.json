@@ -178,16 +178,23 @@
     {
       "name": "Monalisa Akter",
       "phd_year": "2026",
-      "thesis_title": "Diversified Functionalization of Ketones Using Methanol as C1 Source Through C-C/C-X Bond Formations and Asymmetric Transfer Hydrogenation ",
+      "thesis_title": "Diversified Functionalization of Ketones Using Methanol as C1 Source Through C-C/C-X Bond Formations and Asymmetric Transfer Hydrogenation",
       "current_position": "Postdoc with Prof.Jérôme Lacour at University of Geneva",
       "email": "monalisaakter96@gmail.com",
       "image": "/assets/img/members/monalisaakter.jpg"
     },
     {
+    "name": "M Bakkiyaraj",
+    "phd_year": "2026",
+    "thesis_title": "Chiral Cyclopentadienyl Rhodium(III) Catalyzed Enantioselective /Enantiodivergent Functionalization of C−H bonds with Cyclopropenes",
+    "email": "bakkichemist@gmail.com",
+    "image": "/assets/img/members/bakkia.jpeg"
+    },
+    {
       "name": "P. Maheswar Reddy",
       "phd_year": "2026",
-      "thesis_title": "Carbenylative Etherification/Amination of Alkenes",
-      "current_position": "-",
+      "thesis_title": "Pd(II) and Rh(II)-Catalyzed Carbenylative Functionalization of (Un)Activated Alkenes with Diazo Compounds and its Surrogates",
+      "current_position": "",
       "email": "mahesh.palagulla90@gmail.com",
       "image": "/assets/img/members/maheswarreddy.jpg"
 
@@ -459,13 +466,8 @@
     "email": "akkitherock008@gmail.com",
     "image": "/assets/img/members/akshayakumarsahu.jpg"
  
-  },
-  {
-    "name": "M Bakkiyaraj",
-    "email": "bakkichemist@gmail.com",
-    "image": "/assets/img/members/bakkia.jpeg"
-  
   }
+  
 ]
 
 }
