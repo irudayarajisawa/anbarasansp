@@ -7,8 +7,7 @@ permalink: "/researchfacilities"
 <!-- =========================
   PAGE TITLE
 ========================= -->
-<div class="section-title section-bg-img"
-     style="background-image: url('{{ site.baseurl }}/assets/img/profile/instruments.jpeg');">
+<div class="section-title section-bg-img" style="background-image: url('{{ '/assets/img/profile/instruments.jpeg' | relative_url }}');">
     <h2>Research Facilities</h2>
 
     <div class="title-shape">

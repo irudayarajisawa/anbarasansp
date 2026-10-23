@@ -6,8 +6,7 @@ permalink: /photos
 <!-- =========================
   PAGE TITLE
 ========================= -->
-<div class="section-title section-bg-img"
-     style="background-image: url('{{ site.baseurl }}/assets/img/profile/photos.jpeg');">
+<div class="section-title section-bg-img" style="background-image: url('{{ '/assets/img/profile/photos.jpeg' | relative_url }}');">
     <h2>Photos</h2>
 
     <div class="title-shape">
