@@ -1,31 +1,23 @@
 ---
-layout: default
-title: Publications
+layout: page
+title:
 permalink: /publication
 ---
 
-<!-- ==========================================
-     PAGE HEADER
-========================================== -->
-
-<div class="container">
-  <div class="section-title section-bg-img"
-       style="background-image: url('/assets/img/profile/publications.jpeg');">
-
+<!-- =========================
+  PAGE TITLE
+========================= -->
+<div class="section-title section-bg-img"
+     style="background-image: url('{{ site.baseurl }}/assets/img/profile/publications.jpeg');">
     <h2>Publications</h2>
 
     <div class="title-shape">
-      <svg viewBox="0 0 200 20">
-        <path d="M 0,10 C 40,0 60,20 100,10 C 140,0 160,20 200,10"
-              fill="none"
-              stroke="currentColor"
-              stroke-width="2"></path>
-      </svg>
+        <svg viewBox="0 0 200 20">
+            <path d="M 0,10 C 40,0 60,20 100,10 C 140,0 160,20 200,10"
+                  fill="none" stroke="currentColor" stroke-width="2"></path>
+        </svg>
     </div>
-
-  </div>
 </div>
-
 
 <!-- ==========================================
      PUBLICATION CONTAINER
