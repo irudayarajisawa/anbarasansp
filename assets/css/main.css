@@ -1743,146 +1743,410 @@ header,
   .faculty-card { width: calc(50% - 18px); }
 }
 
+/* =========================================
+   PUBLICATIONS PAGE
+========================================= */
 
-/* ===============================
-   Publications Page
-================================ */
-
-/* Show only Book Chapters on load */
-#section-bookchapter {
-  display: block;
+/* Main container */
+.publication-container {
+  max-width: 1500px;
+  width: 94%;
+  margin: 0 auto;
+  box-sizing: border-box;
 }
+
+/* =========================================
+   SECTION VISIBILITY
+========================================= */
 
 .pub-section {
   display: none;
 }
 
-.publication-container {
-  max-width: 1000px;
-  margin: auto;
+.pub-section.active-section {
+  display: block;
 }
 
-/* ===== Buttons ===== */
+.pub-section h3 {
+  margin: 0 0 20px;
+  color: #13566e;
+}
+
+/* =========================================
+   CATEGORY BUTTONS
+========================================= */
+
 .pub-btn-group {
-  text-align: center;
-  margin-bottom: 40px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 10px;
+  margin-bottom: 35px;
 }
 
 .pub-btn {
-  border: 1px solid #4a1e05;
-  background: #fff;
-  color: #4a1e05;
-  padding: 8px 16px;
-  margin: 5px;
+  border: 1px solid #fff;
+  background: #467c8f;
+  color: #fff;
+  padding: 9px 18px;
+  margin: 0;
   border-radius: 30px;
   cursor: pointer;
   font-weight: 600;
+  font-size: 14px;
   transition: all 0.3s ease;
 }
 
 .pub-btn:hover,
 .pub-btn.active {
-  background: #4a1e05;
+  background: #13566e;
   color: #fff;
 }
 
-/* ===== Sections ===== */
-.pub-section {
-  display: none;
+.pub-btn:focus-visible {
+  outline: 2px solid #A3CCDA;
+  outline-offset: 3px;
 }
 
-.pub-section h3 {
-  margin-bottom: 15px;
-  color: #4a1e05;
+/* =========================================
+   PUBLICATION LIST
+========================================= */
+
+.pub-list {
+  list-style: none;
+  padding: 0;
+  margin: 0;
 }
 
-/* ===== Publication item ===== */
+.pub-list > li {
+  list-style: none;
+  box-sizing: border-box;
+}
+
+/* Legacy publication items */
 .pub-item {
   margin-bottom: 28px;
 }
 
-/* Number + text line */
+/* Legacy number and text line */
 .pub-text-line {
   display: flex;
+  align-items: flex-start;
   gap: 8px;
   line-height: 1.6;
 }
 
-/* Number */
 .pub-no {
-  font-weight: 600;
-  min-width: 40px;
+  flex: 0 0 40px;
   text-align: right;
+  font-weight: 600;
 }
 
-/* Text */
 .pub-text {
   flex: 1;
+  min-width: 0;
+  overflow-wrap: anywhere;
 }
 
-/* Links */
 .pub-text a {
   margin-left: 6px;
   color: #0077b6;
   font-weight: 500;
 }
 
-/* ===== IMAGE BELOW TEXT (FINAL FIX) ===== */
+/* =========================================
+   PUBLICATION ROW
+
+   Cover | Number | Details | Graphical Abstract
+========================================= */
+
+/* Publication row */
+.publication-item {
+  display: grid;
+
+  grid-template-columns:
+    150px
+    44px
+    minmax(250px, 1fr)
+    minmax(300px, 500px);
+
+  column-gap: 22px;
+  row-gap: 18px;
+
+  /* Align items at the top */
+  align-items: start;
+
+  padding: 28px 0;
+  margin: 0;
+
+  border-bottom: 1px solid #dce3e8;
+  box-sizing: border-box;
+}
+
+/* =========================================
+   1. JOURNAL COVER IMAGE
+========================================= */
+
+.pub-cover {
+  grid-column: 1;
+  grid-row: 1;
+}
+
+.pub-cover img {
+  display: block;
+
+  width: 150px;
+  max-width: 100%;
+  max-height: 215px;
+
+  height: auto;
+
+  object-fit: contain;
+  object-position: top center;
+
+  border: 1px solid #e0e5e9;
+  border-radius: 6px;
+
+  box-shadow: 0 3px 10px rgba(0, 0, 0, 0.08);
+
+  box-sizing: border-box;
+}
+
+/* Missing cover placeholder */
+.pub-cover-placeholder {
+  width: 150px;
+  min-height: 180px;
+
+  box-sizing: border-box;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  padding: 12px;
+
+  text-align: center;
+
+  color: #64748b;
+  font-size: 13px;
+
+  background: #f5f7f9;
+
+  border: 1px dashed #cbd5e1;
+  border-radius: 6px;
+}
+
+/* =========================================
+   2. PUBLICATION NUMBER BADGE
+========================================= */
+
+.pub-number {
+  grid-column: 2;
+  grid-row: 1;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  width: 42px;
+  height: 42px;
+
+  margin-top: 0;
+
+  border-radius: 12px;
+  background: #eaf4f7;
+  color: #087398;
+
+  font-size: 14px;
+  font-weight: 700;
+}
+
+
+/* =========================================
+   3. PUBLICATION DETAILS
+========================================= */
+
+.pub-details {
+  grid-column: 3;
+  grid-row: 1;
+
+  min-width: 0;
+  padding-top: 0;
+  margin-top: 0;
+}
+
+/* Publication title */
+/* Publication title — bold */
+.pub-title {
+  margin: 0 0 22px;
+  color: #13254a;
+  font-size: 17px;
+  line-height: 1.5;
+  font-weight: 700;
+}
+
+/* Authors — normal weight */
+.pub-authors {
+  margin: 0 0 22px;
+  color: #455166;
+  font-size: 14px;
+  line-height: 1.7;
+  font-weight: 400;
+}
+
+/* Journal, year, volume and pages — normal weight */
+.pub-journal {
+  margin: 0 0 12px;
+  color: #58657a;
+  font-size: 14px;
+  line-height: 1.7;
+  font-weight: 400;
+}
+
+.pub-journal strong {
+  font-weight: 400;
+}
+
+/* View paper link */
+.pub-view-link {
+  display: inline-block;
+
+  margin: 0;
+
+  color: #087398;
+
+  font-size: 12px;
+  font-weight: 800;
+
+  letter-spacing: 0.4px;
+
+  text-decoration: none;
+}
+
+.pub-view-link:hover {
+  color: #064e68;
+  text-decoration: underline;
+}
+
+/* =========================================
+   4. GRAPHICAL ABSTRACT / REACTION SCHEME
+========================================= */
+
+.pub-graphical-abstract {
+  grid-column: 4;
+  grid-row: 1;
+
+  width: 100%;
+  margin: 0;
+  align-self: center;
+}
+
+.pub-graphical-abstract a {
+  display: block;
+  width: 100%;
+}
+
+.pub-graphical-abstract img {
+  display: block;
+
+  width: 100%;
+  max-height: 230px;
+
+  height: auto;
+
+  object-fit: contain;
+  object-position: center;
+
+  box-sizing: border-box;
+
+  padding: 4px;
+
+  background: #fff;
+
+  border: 1px solid #e0e5e9;
+  border-radius: 8px;
+
+  box-shadow: 0 3px 12px rgba(0, 0, 0, 0.06);
+}
+
+/* =========================================
+   PUBLICATION WITHOUT GRAPHICAL ABSTRACT
+========================================= */
+
+.publication-item:not(:has(.pub-graphical-abstract)) {
+  grid-template-columns:
+    150px
+    44px
+    minmax(250px, 1fr);
+}
+
+/* =========================================
+   LEGACY IMAGE BLOCK
+
+   Used by Reviews and other sections
+========================================= */
+
 .pub-image-block {
   display: block;
-  margin-top: 10px;
-  margin-left: 48px; /* aligns under text, not number */
+
+  margin-top: 12px;
+  margin-left: 48px;
 }
 
 .pub-image-block img {
   display: block;
+
   max-width: 600px;
   width: 100%;
+  height: auto;
+
   border: 1px solid #ccc;
   border-radius: 6px;
 }
 
-/* ===== Mobile ===== */
-@media (max-width: 768px) {
-  .pub-image-block {
-    margin-left: 0;
-  }
-
-  .pub-image-block img {
-    max-width: 100%;
-  }
-}
-
-/* Remove bullets completely */
-.pub-list {
-  list-style: none;
-  padding-left: 0;
+/* Center legacy images in IITM and Reviews */
+#section-iitm .pub-image-block,
+#section-review .pub-image-block {
   margin-left: 0;
+
+  display: flex;
+  justify-content: center;
 }
 
-/* Ensure list items don't inherit bullets */
-.pub-list li {
-  list-style: none;
+#section-iitm .pub-image-block img,
+#section-review .pub-image-block img {
+  max-width: 600px;
+  width: 100%;
+  height: auto;
 }
 
-/* ===== Highlights: Center + Slightly Larger Book Covers ===== */
+/* =========================================
+   HIGHLIGHTS
+========================================= */
+
 .highlight-img {
   display: flex;
-  justify-content: center;   /* center horizontally */
+  justify-content: center;
+
   margin-top: 12px;
 }
 
 .highlight-img img {
-  max-height: 350px;         /* controls tall book covers */
-  max-width: 350px;          /* increase width slightly */
+  display: block;
+
   width: auto;
+  max-width: 350px;
+  max-height: 350px;
+
   object-fit: contain;
+
   border: 1px solid #ccc;
   border-radius: 6px;
 }
 
+/* Extra links */
 .pub-extra-links {
-  margin-top: 6px;
+  margin-top: 8px;
   font-size: 0.95rem;
 }
 
@@ -1895,13 +2159,17 @@ header,
   text-decoration: underline;
 }
 
+/* =========================================
+   YEAR FILTER AND SEARCH
+========================================= */
+
 .pub-filter {
   margin: 20px 0;
   text-align: right;
 }
 
 .pub-filter select {
-  padding: 6px 10px;
+  padding: 7px 10px;
   font-size: 14px;
   border-radius: 4px;
 }
@@ -1910,48 +2178,341 @@ header,
   display: flex;
   justify-content: space-between;
   align-items: center;
+
+  flex-wrap: wrap;
+
   margin: 20px 0;
   gap: 15px;
 }
 
+.pub-filter-left {
+  flex: 0 1 auto;
+}
+
 .pub-filter-left select {
-  padding: 6px 10px;
+  padding: 8px 12px;
+
   font-size: 14px;
-  border-radius: 4px;
+
+  border: 1px solid #ccc;
+  border-radius: 5px;
+
+  background: #fff;
+}
+
+.pub-filter-right {
+  flex: 0 1 260px;
+  max-width: 100%;
 }
 
 .pub-filter-right input {
-  padding: 7px 10px;
+  display: block;
+
+  box-sizing: border-box;
+
+  padding: 9px 12px;
+
   font-size: 14px;
+
   width: 260px;
   max-width: 100%;
-  border-radius: 4px;
+
+  border-radius: 5px;
   border: 1px solid #ccc;
 }
 
-/* ===============================
-   Center images ONLY in IITM & Reviews
-================================ */
-
-/* IITM images */
-#section-iitm .pub-image-block {
-  margin-left: 0;           /* remove text alignment offset */
-  display: flex;
-  justify-content: center;  /* center image */
+.pub-filter-right input:focus,
+.pub-filter-left select:focus {
+  outline: 2px solid rgba(8, 115, 152, 0.2);
+  border-color: #087398;
 }
 
-/* Review images */
-#section-review .pub-image-block {
-  margin-left: 0;
-  display: flex;
-  justify-content: center;
+/* Publication citation */
+.pub-text {
+  display: inline;
+  margin: 0;
+  padding: 0;
+  color: #111;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 1.7;
 }
 
-/* Keep image size controlled */
-#section-iitm .pub-image-block img,
-#section-review .pub-image-block img {
-  max-width: 600px;
-  width: 100%;
+/* Only explicitly bold JSON text */
+.pub-text b,
+.pub-text strong {
+  font-weight: 700 !important;
+}
+
+/* Only explicitly italic JSON text */
+.pub-text i,
+.pub-text em {
+  font-style: italic !important;
+  font-weight: inherit;
+}
+
+/* Paper link */
+.pub-view-link {
+  display: inline;
+  margin-left: 6px;
+  color: #0077b6;
+  font-size: inherit;
+  font-weight: 400;
+  text-decoration: none;
+}
+
+.pub-view-link:hover {
+  text-decoration: underline;
+}
+
+/* =========================================
+   TABLET RESPONSIVE
+========================================= */
+
+@media (max-width: 1100px) {
+
+  .publication-container {
+    max-width: 100%;
+    width: 95%;
+  }
+
+  .publication-item {
+    grid-template-columns:
+      125px
+      42px
+      minmax(0, 1fr);
+
+    column-gap: 16px;
+    row-gap: 18px;
+  }
+
+  /* Cover first */
+  .pub-cover {
+    grid-column: 1;
+    grid-row: 1;
+
+    width: 125px;
+  }
+
+  .pub-cover img {
+    width: 125px;
+    max-height: 200px;
+  }
+
+  .pub-cover-placeholder {
+    width: 125px;
+  }
+
+  /* Number second */
+  .pub-number {
+    grid-column: 2;
+    grid-row: 1;
+
+    width: 42px;
+    height: 42px;
+  }
+
+  /* Details third */
+  .pub-details {
+    grid-column: 3;
+    grid-row: 1;
+  }
+
+  /* Abstract below details */
+  .pub-graphical-abstract {
+    grid-column: 3;
+    grid-row: 2;
+
+    max-width: 500px;
+
+    margin-top: 4px;
+  }
+
+  /* Rows without graphical abstracts */
+  .publication-item:not(:has(.pub-graphical-abstract)) {
+    grid-template-columns:
+      125px
+      42px
+      minmax(0, 1fr);
+  }
+
+  .pub-graphical-abstract img {
+    max-height: 230px;
+  }
+}
+
+/* =========================================
+   MOBILE RESPONSIVE
+========================================= */
+
+@media (max-width: 650px) {
+
+  .publication-container {
+    width: 94%;
+  }
+
+  /* Category buttons */
+  .pub-btn-group {
+    gap: 7px;
+    margin-bottom: 25px;
+  }
+
+  .pub-btn {
+    padding: 7px 12px;
+    font-size: 13px;
+  }
+
+  /* Filter controls */
+  .pub-filter-bar {
+    align-items: stretch;
+    flex-direction: column;
+  }
+
+  .pub-filter-left,
+  .pub-filter-right {
+    width: 100%;
+    max-width: 100%;
+  }
+
+  .pub-filter-left select,
+  .pub-filter-right input {
+    width: 100%;
+    max-width: 100%;
+    box-sizing: border-box;
+  }
+
+  /* Publication row */
+  .publication-item,
+  .publication-item:not(:has(.pub-graphical-abstract)) {
+    grid-template-columns:
+      120px
+      minmax(0, 1fr);
+
+    column-gap: 12px;
+    row-gap: 14px;
+
+    padding: 22px 0;
+  }
+
+  /* Cover first */
+  .pub-cover {
+    grid-column: 1;
+    grid-row: 1;
+
+    width: 120px;
+  }
+
+  .pub-cover img {
+    width: 120px;
+    max-height: 180px;
+  }
+
+  .pub-cover-placeholder {
+    width: 120px;
+    min-height: 150px;
+  }
+
+  /* Number beside the cover */
+  .pub-number {
+    grid-column: 2;
+    grid-row: 1;
+
+    width: 36px;
+    height: 36px;
+
+    font-size: 13px;
+  }
+
+  /* Details below cover and number */
+  .pub-details {
+    grid-column: 1 / -1;
+    grid-row: 2;
+  }
+
+  .pub-title {
+    font-size: 16px;
+    line-height: 1.5;
+
+    margin-bottom: 14px;
+  }
+
+  .pub-authors {
+    font-size: 13px;
+    margin-bottom: 14px;
+  }
+
+  .pub-journal {
+    font-size: 13px;
+  }
+
+  /* Graphical abstract below details */
+  .pub-graphical-abstract {
+    grid-column: 1 / -1;
+    grid-row: 3;
+
+    width: 100%;
+    max-width: 100%;
+
+    margin-top: 0;
+  }
+
+  .pub-graphical-abstract img {
+    width: 100%;
+    max-height: 200px;
+  }
+
+  /* Legacy images */
+  .pub-image-block {
+    margin-left: 0;
+  }
+
+  .pub-image-block img {
+    max-width: 100%;
+  }
+
+  /* Highlights */
+  .highlight-img img {
+    max-width: 100%;
+    max-height: 300px;
+  }
+
+  /* Legacy publication text */
+  .pub-text-line {
+    gap: 6px;
+  }
+
+  .pub-no {
+    flex-basis: 32px;
+  }
+}
+
+/* =========================================
+   SMALL MOBILE
+========================================= */
+
+@media (max-width: 380px) {
+
+  .pub-btn {
+    padding: 6px 9px;
+    font-size: 12px;
+  }
+
+  .pub-title {
+    font-size: 15px;
+  }
+
+  .pub-cover {
+    width: 105px;
+  }
+
+  .pub-cover img {
+    width: 105px;
+  }
+
+  .pub-cover-placeholder {
+    width: 105px;
+  }
+
 }
 
 

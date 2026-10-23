@@ -1,292 +1,687 @@
 ---
-title: null
 layout: default
-permalink: "/publication"
+title: Publications
+permalink: /publication
 ---
 
+<!-- ==========================================
+     PAGE HEADER
+========================================== -->
+
 <div class="container">
-  <div class="section-title section-bg-img" 
-       style="background-image: url('{{ site.baseurl }}/assets/img/profile/publications.jpeg');">
+  <div class="section-title section-bg-img"
+       style="background-image: url('/assets/img/profile/publications.jpeg');">
 
     <h2>Publications</h2>
 
     <div class="title-shape">
       <svg viewBox="0 0 200 20">
         <path d="M 0,10 C 40,0 60,20 100,10 C 140,0 160,20 200,10"
-              fill="none" stroke="currentColor" stroke-width="2"></path>
+              fill="none"
+              stroke="currentColor"
+              stroke-width="2"></path>
       </svg>
     </div>
 
   </div>
 </div>
 
-<!-- CONTENT INSIDE CONTAINER -->
+
+<!-- ==========================================
+     PUBLICATION CONTAINER
+========================================== -->
+
 <div class="container publication-container">
 
-<!-- ===== BUTTONS (IITM FIRST & ACTIVE) ===== -->
-<div class="pub-btn-group">
-  <button class="pub-btn active" onclick="showSection('iitm', this)">IITM</button>
-  <button class="pub-btn" onclick="showSection('phd', this)">PhD & Postdoc</button>
-  <button class="pub-btn" onclick="showSection('review', this)">Reviews</button>
-  <button class="pub-btn" onclick="showSection('bookchapter', this)">Book Chapters</button>
-  <button class="pub-btn" onclick="showSection('patent', this)">Patents</button>
-  <button class="pub-btn" onclick="showSection('highlight', this)">Highlights</button>
-</div>
+  <!-- CATEGORY BUTTONS -->
 
-<!-- ===== FILTER BAR ===== -->
-<div class="pub-filter-bar">
-  <!-- LEFT: YEAR FILTER -->
-  <div class="pub-filter-left">
-    <select id="yearFilter" onchange="filterPublications()">
-      <option value="all">Filter by Year</option>
-      <option value="2026">2026</option>
-			<option value="2025">2025</option>
-      <option value="2024">2024</option>
-      <option value="2023">2023</option>
-      <option value="2022">2022</option>
-      <option value="2021">2021</option>
-      <option value="2020">2020</option>
-      <option value="2019">2019</option>
-      <option value="2018">2018</option>
-      <option value="2017">2017</option>
-      <option value="2016">2016</option>
-      <option value="2015">2015</option>
-      <option value="2014">2014</option>
-      <option value="2013">2013</option>
-      <option value="2012">2012</option>
-      <option value="2011">2011</option>
-      <option value="2010">2010</option>
-    </select>
+  <div class="pub-btn-group">
+
+    <button type="button"
+            class="pub-btn active"
+            onclick="showSection('iitm', this)">
+      IITM
+    </button>
+
+    <button type="button"
+            class="pub-btn"
+            onclick="showSection('phd', this)">
+      PhD &amp; Postdoc
+    </button>
+
+    <button type="button"
+            class="pub-btn"
+            onclick="showSection('review', this)">
+      Reviews
+    </button>
+
+    <button type="button"
+            class="pub-btn"
+            onclick="showSection('bookchapter', this)">
+      Book Chapters
+    </button>
+
+    <button type="button"
+            class="pub-btn"
+            onclick="showSection('patent', this)">
+      Patents
+    </button>
+
+    <button type="button"
+            class="pub-btn"
+            onclick="showSection('highlight', this)">
+      Highlights
+    </button>
+
   </div>
 
-  <!-- RIGHT: SEARCH -->
-  <div class="pub-filter-right">
-    <input
-      type="text"
-      id="searchInput"
-      placeholder="Search publications..."
-      onkeyup="filterPublications()"
-    >
+
+  <!-- ==========================================
+       YEAR FILTER AND SEARCH
+  ========================================== -->
+
+  <div class="pub-filter-bar">
+
+    <div class="pub-filter-left">
+
+      <select id="yearFilter"
+              aria-label="Filter publications by year"
+              onchange="filterPublications()">
+
+        <option value="all">Filter by Year</option>
+
+        {% assign publication_years = "2026,2025,2024,2023,2022,2021,2020,2019,2018,2017,2016,2015,2014,2013,2012,2011,2010,2009,2008,2007,2006,2005" | split: "," %}
+
+        {% for year in publication_years %}
+          <option value="{{ year }}">{{ year }}</option>
+        {% endfor %}
+
+      </select>
+
+    </div>
+
+    <div class="pub-filter-right">
+
+      <input
+        type="text"
+        id="searchInput"
+        placeholder="Search publications..."
+        aria-label="Search publications"
+        oninput="filterPublications()">
+
+    </div>
+
   </div>
-</div>
 
 
+  <!-- ==========================================
+       IITM PUBLICATIONS
+  ========================================== -->
 
-<!-- ===== SECTIONS ===== -->
+  <div id="section-iitm"
+       class="pub-section active-section">
 
-<!-- IITM (DEFAULT VISIBLE) -->
-<div id="section-iitm" class="pub-section">
-  <h3>IITM</h3>
+    <h3>IITM</h3>
 
-  <ul class="pub-list">
-    {% for item in site.data.publications.iitm %}
-      <li style="margin-bottom:24px;">
-        <div class="pub-text-line">
-          <span class="pub-no">{{ item.number }}.</span>
-          <span class="pub-text">
-            {{ item.text }}
-            {% if item.link %}
-              <a href="{{ item.link }}" target="_blank">[Click Here]</a>
-            {% endif %}
-          </span>
-        </div>
+    <ul class="pub-list">
 
-        {% if item.image %}
-          <div class="pub-image-block">
-            <img src="{{ site.baseurl }}{{ item.image }}" alt="reaction scheme">
+      {% for item in site.data.publications.iitm %}
+
+        <li class="publication-item"
+            data-year="{% assign pub_year = item.text | strip_html | remove: '<b>' | remove: '</b>' | split: ' ' %}{% assign found_year = '' %}{% for word in pub_year %}{% assign clean_word = word | remove: ',' | remove: '.' | remove: ';' %}{% if clean_word.size == 4 and clean_word contains '20' %}{% assign found_year = clean_word %}{% endif %}{% endfor %}{{ found_year }}">
+
+          <!-- PUBLICATION NUMBER -->
+
+          <div class="pub-number">
+            {{ item.number }}
           </div>
-        {% endif %}
-      </li>
-    {% endfor %}
-  </ul>
-</div>
 
-<!-- PhD & Postdoc -->
-<div id="section-phd" class="pub-section" style="display:none;">
-  <h3>PhD & Postdoc</h3>
 
-  <ul class="pub-list">
-    {% for item in site.data.publications.phd %}
-      <li style="margin-bottom:24px;">
-        <div class="pub-text-line">
-          <span class="pub-no">{{ item.number }}.</span>
-          <span class="pub-text">
-            {{ item.text }}
-            {% if item.link %}
-              <a href="{{ item.link }}" target="_blank">[Click Here]</a>
-            {% endif %}
-          </span>
-        </div>
-      </li>
-    {% endfor %}
-  </ul>
-</div>
+          <!-- JOURNAL COVER -->
 
-<!-- Reviews -->
-<div id="section-review" class="pub-section" style="display:none;">
-  <h3>Reviews</h3>
+          <div class="pub-cover">
 
-  <ul class="pub-list">
-    {% for item in site.data.publications.review %}
-      <li style="margin-bottom:24px;">
-        <div class="pub-text-line">
-          <span class="pub-no">{{ item.number }}.</span>
-          <span class="pub-text">
-            {{ item.text }}
-            {% if item.link %}
-              <a href="{{ item.link }}" target="_blank">[Click Here]</a>
-            {% endif %}
-          </span>
-        </div>
+            {% if item.cover %}
 
-        {% if item.image %}
-          <div class="pub-image-block">
-            <img src="{{ site.baseurl }}{{ item.image }}" alt="reaction scheme">
-          </div>
-        {% endif %}
-      </li>
-    {% endfor %}
-  </ul>
-</div>
+              <img
+                src="{{ item.cover | relative_url }}"
+                alt="Journal cover for publication {{ item.number }}"
+                loading="lazy">
 
-<!-- Book Chapters -->
-<div id="section-bookchapter" class="pub-section" style="display:none;">
-  <h3>Book Chapters</h3>
+            {% else %}
 
-  <ul class="pub-list">
-    {% for item in site.data.publications.book_chapter %}
-      <li style="margin-bottom:24px;">
-        <div class="pub-text-line">
-          <span class="pub-no">{{ item.number }}.</span>
-          <span class="pub-text">
-            {{ item.text }}
-            {% if item.link %}
-              <a href="{{ item.link }}" target="_blank">[Click Here]</a>
-            {% endif %}
-          </span>
-        </div>
-      </li>
-    {% endfor %}
-  </ul>
-</div>
-
-<!-- Patents -->
-<div id="section-patent" class="pub-section" style="display:none;">
-  <h3>Patents</h3>
-
-  <ul class="pub-list">
-    {% for item in site.data.publications.patent %}
-      <li style="margin-bottom:24px;">
-        <div class="pub-text-line">
-          <span class="pub-no">{{ item.number }}.</span>
-          <span class="pub-text">
-            {{ item.text }}
-            {% if item.link %}
-              <a href="{{ item.link }}" target="_blank">[Click Here]</a>
-            {% endif %}
-          </span>
-        </div>
-      </li>
-    {% endfor %}
-  </ul>
-</div>
-
-<!-- Highlights -->
-<div id="section-highlight" class="pub-section" style="display:none;">
-  <h3>Highlights</h3>
-
-  <ul class="pub-list">
-    {% for item in site.data.publications.highlights %}
-      <li style="margin-bottom:24px;">
-        <div class="pub-text-line">
-          <span class="pub-no">{{ item.number }}.</span>
-
-          <span class="pub-text">
-            {{ item.text }}
-
-            {% if item.link %}
-              <a href="{{ item.link }}" target="_blank">[Click Here]</a>
-            {% endif %}
-
-            {% if item.links %}
-              <div class="pub-extra-links">
-                {% for l in item.links %}
-                  <div>
-                    <a href="{{ l.url }}" target="_blank">{{ l.label }}</a>
-                  </div>
-                {% endfor %}
+              <div class="pub-cover-placeholder">
+                <span>Journal cover unavailable</span>
               </div>
+
             {% endif %}
-          </span>
-        </div>
 
-        {% if item.image %}
-          <div class="pub-image-block highlight-img">
-            <img src="{{ site.baseurl }}{{ item.image }}" alt="Journal cover image">
           </div>
-        {% endif %}
-      </li>
-    {% endfor %}
-  </ul>
+
+          <!-- PUBLICATION DETAILS: title bold, remaining citation normal -->
+          <div class="pub-details">
+
+    <div class="pub-text">
+  {{ item.text }}
+  
+  {% if item.link %}
+    <a class="pub-view-link"
+       href="{{ item.link | strip }}"
+       target="_blank"
+       rel="noopener noreferrer">[Click Here]</a>
+  {% endif %}
 </div>
 
 </div>
 
-<!-- ===== JS ===== -->
+
+          <!-- GRAPHICAL ABSTRACT -->
+
+          {% if item.image %}
+
+            <div class="pub-graphical-abstract">
+
+              <a href="{{ item.image | relative_url }}"
+                 target="_blank"
+                 rel="noopener noreferrer"
+                 aria-label="View graphical abstract for publication {{ item.number }}">
+
+                <img
+                  src="{{ item.image | relative_url }}"
+                  alt="Graphical abstract for publication {{ item.number }}"
+                  loading="lazy">
+
+              </a>
+
+            </div>
+
+          {% endif %}
+
+        </li>
+
+      {% endfor %}
+
+    </ul>
+
+  </div>
+
+
+  <!-- ==========================================
+       PHD AND POSTDOC
+  ========================================== -->
+
+  <div id="section-phd" class="pub-section">
+
+    <h3>PhD &amp; Postdoc</h3>
+
+    <ul class="pub-list">
+
+      {% for item in site.data.publications.phd %}
+
+        <li class="pub-legacy-item">
+
+          <div class="pub-text-line">
+
+            <span class="pub-no">
+              {{ item.number }}.
+            </span>
+
+            <span class="pub-text">
+
+              {{ item.text }}
+
+              {% if item.link %}
+
+                <a href="{{ item.link | strip }}"
+                   target="_blank"
+                   rel="noopener noreferrer">
+                  [Click Here]
+                </a>
+
+              {% endif %}
+
+            </span>
+
+          </div>
+
+        </li>
+
+      {% endfor %}
+
+    </ul>
+
+  </div>
+
+
+  <!-- ==========================================
+       REVIEWS
+  ========================================== -->
+
+  <div id="section-review" class="pub-section">
+
+    <h3>Reviews</h3>
+
+    <ul class="pub-list">
+
+      {% for item in site.data.publications.review %}
+
+        <li class="pub-legacy-item">
+
+          <div class="pub-text-line">
+
+            <span class="pub-no">
+              {{ item.number }}.
+            </span>
+
+            <span class="pub-text">
+
+              {{ item.text }}
+
+              {% if item.link %}
+
+                <a href="{{ item.link | strip }}"
+                   target="_blank"
+                   rel="noopener noreferrer">
+                  [Click Here]
+                </a>
+
+              {% endif %}
+
+            </span>
+
+          </div>
+
+          {% if item.image %}
+
+            <div class="pub-image-block">
+
+              <img
+                src="{{ item.image | relative_url }}"
+                alt="Graphical abstract for review {{ item.number }}"
+                loading="lazy">
+
+            </div>
+
+          {% endif %}
+
+        </li>
+
+      {% endfor %}
+
+    </ul>
+
+  </div>
+
+
+  <!-- ==========================================
+       BOOK CHAPTERS
+  ========================================== -->
+
+  <div id="section-bookchapter" class="pub-section">
+
+    <h3>Book Chapters</h3>
+
+    <ul class="pub-list">
+
+      {% for item in site.data.publications.book_chapter %}
+
+        <li class="pub-legacy-item">
+
+          <div class="pub-text-line">
+
+            <span class="pub-no">
+              {{ item.number }}.
+            </span>
+
+            <span class="pub-text">
+
+              {{ item.text }}
+
+              {% if item.link %}
+
+                <a href="{{ item.link | strip }}"
+                   target="_blank"
+                   rel="noopener noreferrer">
+                  [Click Here]
+                </a>
+
+              {% endif %}
+
+            </span>
+
+          </div>
+
+        </li>
+
+      {% endfor %}
+
+    </ul>
+
+  </div>
+
+
+  <!-- ==========================================
+       PATENTS
+  ========================================== -->
+
+  <div id="section-patent" class="pub-section">
+
+    <h3>Patents</h3>
+
+    <ul class="pub-list">
+
+      {% for item in site.data.publications.patent %}
+
+        <li class="pub-legacy-item">
+
+          <div class="pub-text-line">
+
+            <span class="pub-no">
+              {{ item.number }}.
+            </span>
+
+            <span class="pub-text">
+
+              {{ item.text }}
+
+              {% if item.link %}
+
+                <a href="{{ item.link | strip }}"
+                   target="_blank"
+                   rel="noopener noreferrer">
+                  [Click Here]
+                </a>
+
+              {% endif %}
+
+            </span>
+
+          </div>
+
+        </li>
+
+      {% endfor %}
+
+    </ul>
+
+  </div>
+
+
+  <!-- ==========================================
+       HIGHLIGHTS
+  ========================================== -->
+
+  <div id="section-highlight" class="pub-section">
+
+    <h3>Highlights</h3>
+
+    <ul class="pub-list">
+
+      {% for item in site.data.publications.highlights %}
+
+        <li class="pub-legacy-item">
+
+          <div class="pub-text-line">
+
+            <span class="pub-no">
+              {{ item.number }}.
+            </span>
+
+            <span class="pub-text">
+
+              {{ item.text }}
+
+              {% if item.link %}
+
+                <a href="{{ item.link | strip }}"
+                   target="_blank"
+                   rel="noopener noreferrer">
+                  [Click Here]
+                </a>
+
+              {% endif %}
+
+              {% if item.links %}
+
+                <div class="pub-extra-links">
+
+                  {% for l in item.links %}
+
+                    <div>
+                      <a href="{{ l.url }}"
+                         target="_blank"
+                         rel="noopener noreferrer">
+                        {{ l.label }}
+                      </a>
+                    </div>
+
+                  {% endfor %}
+
+                </div>
+
+              {% endif %}
+
+            </span>
+
+          </div>
+
+          {% if item.image %}
+
+            <div class="pub-image-block highlight-img">
+
+              <img
+                src="{{ item.image | relative_url }}"
+                alt="Publication highlight {{ item.number }}"
+                loading="lazy">
+
+            </div>
+
+          {% endif %}
+
+        </li>
+
+      {% endfor %}
+
+    </ul>
+
+  </div>
+
+</div>
+
+
+<!-- ==========================================
+     PUBLICATION CITATION FORMATTING
+     Keeps the JSON structure unchanged.
+========================================== -->
+<style>
+  #section-iitm .pub-text {
+    font-size: 16px;
+    line-height: 1.7;
+    font-weight: 400;
+    color: #111;
+    overflow-wrap: anywhere;
+  }
+
+  #section-iitm .pub-citation-text strong,
+  #section-iitm .pub-citation-text b {
+    font-weight: 400;
+  }
+
+  #section-iitm .pub-inline-link {
+    display: inline;
+    margin-left: 6px;
+    color: #0077b6;
+    font-size: inherit;
+    font-weight: 400;
+    text-decoration: none;
+    white-space: nowrap;
+  }
+
+  #section-iitm .pub-inline-link:hover {
+    text-decoration: underline;
+  }
+</style>
+
+
+<!-- ==========================================
+     JAVASCRIPT
+========================================== -->
+
 <script>
-let currentSectionId = 'section-iitm'; // default
+(function () {
 
-function showSection(section, btn) {
-  // hide all sections
-  document.querySelectorAll('.pub-section').forEach(s => s.style.display = 'none');
-  document.querySelectorAll('.pub-btn').forEach(b => b.classList.remove('active'));
+  let currentSectionId = 'section-iitm';
 
-  // show selected section
-  currentSectionId = 'section-' + section;
-  const activeSection = document.getElementById(currentSectionId);
-  activeSection.style.display = 'block';
-  btn.classList.add('active');
+  /*
+   * Show selected publication category.
+   */
+  window.showSection = function (section, btn) {
 
-  // reset filters for new section
-  document.getElementById('yearFilter').value = 'all';
-  document.getElementById('searchInput').value = '';
+    document.querySelectorAll('.pub-section').forEach(function (element) {
+      element.classList.remove('active-section');
+    });
 
-  filterPublications();
-}
+    document.querySelectorAll('.pub-btn').forEach(function (button) {
+      button.classList.remove('active');
+    });
 
-function extractYear(text) {
-  const match = text.match(/\b(20\d{2})\b/);
-  return match ? match[1] : 'unknown';
-}
+    currentSectionId = 'section-' + section;
 
-function attachYears() {
-  document.querySelectorAll('.pub-list li').forEach(li => {
-    li.dataset.year = extractYear(li.innerText);
+    const activeSection = document.getElementById(currentSectionId);
+
+    if (!activeSection) return;
+
+    activeSection.classList.add('active-section');
+
+    if (btn) {
+      btn.classList.add('active');
+    }
+
+    document.getElementById('yearFilter').value = 'all';
+    document.getElementById('searchInput').value = '';
+
+    filterPublications();
+
+  };
+
+
+  /*
+   * Bold only the publication title while leaving the rest of item.text
+   * (authors, journal, year, volume and pages) in normal font weight.
+   * JSON remains unchanged. This expects the title to end at the first
+   * period followed by a space.
+   */
+  function formatPublicationCitations() {
+    document.querySelectorAll('#section-iitm .pub-citation-text').forEach(function (element) {
+      if (element.dataset.formatted === 'true') return;
+
+      const originalHtml = element.innerHTML.trim();
+      const match = originalHtml.match(/^([\s\S]*?\.)\s+([\s\S]*)$/);
+
+      if (match) {
+        element.innerHTML = '<strong>' + match[1] + '</strong> ' + match[2];
+      }
+
+      element.dataset.formatted = 'true';
+    });
+  }
+
+
+  /*
+   * Determine publication year.
+   */
+  function extractYear(text) {
+
+    const matches = text.match(/\b(?:19|20)\d{2}\b/g);
+
+    if (!matches || matches.length === 0) {
+      return '';
+    }
+
+    /*
+     * The last year in a citation is usually the publication year.
+     */
+    return matches[matches.length - 1];
+
+  }
+
+
+  /*
+   * Assign a year to every publication.
+   */
+  function attachYears() {
+
+    document.querySelectorAll('.pub-list > li').forEach(function (item) {
+
+      const textElement = item.querySelector('.pub-title, .pub-text');
+
+      const text = textElement
+        ? textElement.textContent
+        : item.textContent;
+
+      item.dataset.year = extractYear(text);
+
+    });
+
+  }
+
+
+  /*
+   * Filter the active category by year and search text.
+   */
+  window.filterPublications = function () {
+
+    const yearFilter = document.getElementById('yearFilter');
+    const searchInput = document.getElementById('searchInput');
+
+    if (!yearFilter || !searchInput) return;
+
+    const selectedYear = yearFilter.value;
+    const searchText = searchInput.value.trim().toLowerCase();
+
+    const activeSection = document.getElementById(currentSectionId);
+
+    if (!activeSection) return;
+
+    activeSection.querySelectorAll('.pub-list > li').forEach(function (item) {
+
+      const itemYear = item.dataset.year || '';
+
+      const itemText = item.textContent.toLowerCase();
+
+      const matchesYear =
+        selectedYear === 'all' || itemYear === selectedYear;
+
+      const matchesSearch =
+        itemText.includes(searchText);
+
+      /*
+       * Restore the original CSS display mode.
+       * Do not force grid publication rows to display:block.
+       */
+      item.style.display =
+        matchesYear && matchesSearch ? '' : 'none';
+
+    });
+
+  };
+
+
+  /*
+   * Initialise the page.
+   */
+  document.addEventListener('DOMContentLoaded', function () {
+
+    formatPublicationCitations();
+    attachYears();
+
+    const defaultButton = document.querySelector(
+      '.pub-btn[onclick*="showSection(\'iitm\'"]'
+    );
+
+    window.showSection('iitm', defaultButton);
+
   });
-}
 
-function filterPublications() {
-  const year = document.getElementById('yearFilter').value;
-  const search = document.getElementById('searchInput').value.toLowerCase();
-
-  const activeSection = document.getElementById(currentSectionId);
-  if (!activeSection) return;
-
-  const items = activeSection.querySelectorAll('li');
-
-  items.forEach(item => {
-    const itemYear = item.dataset.year;
-    const text = item.innerText.toLowerCase();
-
-    const yearMatch = (year === 'all' || itemYear === year);
-    const searchMatch = text.includes(search);
-
-    item.style.display = (yearMatch && searchMatch) ? 'block' : 'none';
-  });
-}
-
-document.addEventListener('DOMContentLoaded', function () {
-  attachYears();
-  document.querySelector('.pub-btn.active')?.click();
-});
+})();
 </script>
