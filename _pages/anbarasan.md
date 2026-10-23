@@ -7,11 +7,9 @@ permalink: "/anbarasan"
 <!-- =========================
   PAGE TITLE
 ========================= -->
+<div class="section-title section-bg-img" style="background-image: url('{{ '/assets/img/profile/portofoliobg.jpeg' | relative_url }}');">
 
-<div class="section-title section-bg-img"
-     style="background-image: url('{{ site.baseurl }}/assets/img/profile/portofoliobg.jpeg');">
-    <h2>Portfolio</h2>
-
+<h2>Portfolio</h2>
     <div class="title-shape">
         <svg viewBox="0 0 200 20">
             <path d="M 0,10 C 40,0 60,20 100,10 C 140,0 160,20 200,10"
