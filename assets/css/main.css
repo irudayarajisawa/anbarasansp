@@ -1769,7 +1769,7 @@ header,
 
 .pub-section h3 {
   margin: 0 0 20px;
-  color: #13566e;
+  color: #5e1f1f;
 }
 
 /* =========================================
@@ -1781,12 +1781,13 @@ header,
   flex-wrap: wrap;
   justify-content: center;
   gap: 10px;
+  margin-top: 20px;
   margin-bottom: 35px;
 }
 
 .pub-btn {
   border: 1px solid #fff;
-  background: #467c8f;
+  background: #5e1f1f;
   color: #fff;
   padding: 9px 18px;
   margin: 0;
@@ -1799,7 +1800,7 @@ header,
 
 .pub-btn:hover,
 .pub-btn.active {
-  background: #13566e;
+  background: #432323;
   color: #fff;
 }
 
