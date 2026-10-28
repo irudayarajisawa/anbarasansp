@@ -7,26 +7,27 @@
     },
     {
       "number": 2,
-      "text": "M. Chaitanya, P. Anbarasan, 1,2,4,5-Tetrazines in Section 9: Six-membered Rings with Three or more Heteroatoms, and their Fused Carbocyclic Derivatives, S. J. Gharpure, S. Ed. In Comprehensive Heterocyclic Chemistry IV, D. Balck, C. Stevens and J. Cossy, Eds.; Elsevier Science, 2021, (in press)."
+      "text": "M. Chaitanya, P. Anbarasan, 1,2,4,5-Tetrazines in Section 9: Six-membered Rings with Three or more Heteroatoms, and their Fused Carbocyclic Derivatives, S. J. Gharpure, S. Ed. In Comprehensive Heterocyclic Chemistry IV, D. Balck, C. Stevens and J. Cossy, Eds.; Elsevier Science, <b>2021</b>.",
+      "link": "https://doi.org/10.1016/B978-0-12-818655-8.00096-2"
     },
     {
       "number": 1,
-      "text": "Ramkumar, R.; Anbarasan, P. Copper-Catalyzed Click Reactions in Copper Catalysis in Organic Synthesis, Saranya, S., Anilkumar, G., Eds.; Wiley VCH, 2020, p. 177. ISBN: 9783527347377.",
-      "link": "https://onlinelibrary.wiley.com/..." 
+      "text": "Ramkumar, R.; Anbarasan, P. Copper-Catalyzed Click Reactions in Copper Catalysis in Organic Synthesis, Saranya, S., Anilkumar, G., Eds.; Wiley VCH, <b>2020</b>, p. 177. ISBN: 9783527347377.",
+      "link": "https://doi.org/10.1002/9783527826445.ch9" 
     }
   ],
   "iitm": [
   {
       "number": 110,
-      "text": "Catalytic Oxysulfenylation of β,γ-Unsaturated Ketoximes: An Enantioselective Synthesis of Isoxazolines. A. K. Sahu, P. Anbarasan; <i>Org. Lett.</i> accepted.",
-      "link": " https://doi.org/10.1021/acs.orglett.6c03683",
+      "text": "Catalytic Oxysulfenylation of β,γ-Unsaturated Ketoximes: An Enantioselective Synthesis of Isoxazolines. A. K. Sahu, P. Anbarasan; <i>Org. Lett.</i> <b>2026</b>, accepted.",
+      "link": "https://doi.org/10.1021/acs.orglett.6c03683",
       "image": "/assets/img/publication/TOC isoxazoline.png"
     },
     {
       "number": 109,
-      "text": "Chiral Rh (III)-Catalyzed Enantioselective Intramolecular Hydroarylation of Enaminone. D.Rajkishore, P. Anbarasan; <i>Org. Lett.</i> <b>2026</b>, <i>28</i>, 9860-9865.",
+      "text": "Chiral Rh(III)-Catalyzed Enantioselective Intramolecular Hydroarylation of Enaminone. D.Rajkishore, P. Anbarasan; <i>Org. Lett.</i> <b>2026</b>, <i>28</i>, 9860-9865.",
       "cover": "/assets/img/publication/coverimg/109.jpeg",
-      "link": "https://pubs.acs.org/orlef7/article/28/31/9860/5235342/",
+      "link": "https://doi.org/10.1021/acs.orglett.6c02161",
       "image": "/assets/img/publication/109.png"
     },
     {
@@ -34,7 +35,7 @@
       "text": "Enantiodivergent RhIII-catalyzed synthesis of imidazo[1,5-a] indole. M. Bakkiyaraj, P. Anbarasan; <i>Chem. Commun.</i> <b>2026</b>, <i>62</i>, 13546-13549.",
       "cover": "/assets/img/publication/coverimg/108.png",
       "image": "/assets/img/publication/108.png",
-      "link": "https://pubs.rsc.org/cc/article/62/54/13546/1265806/"
+      "link": "https://doi.org/10.1039/d6cc01074a"
     },
     {
       "number": 107,
