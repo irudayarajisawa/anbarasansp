@@ -2,7 +2,8 @@
   "book_chapter": [
     {
       "number": 3,
-      "text": "M. Dhanalakshmi, P. Anbarasan, Transition Metal Catalyzed C-CN Cross Coupling in C1 Chemistry, Z. Liu, H. Buxing, K. Ding, X.-F. Wu, Eds.; Wiley VCH, 2021, (in press)."
+      "text": "M. Dhanalakshmi, P. Anbarasan, Transition Metal Catalyzed C-CN Cross Coupling in C1 Chemistry, Z. Liu, H. Buxing, K. Ding, X.-F. Wu, Eds.; Wiley VCH, <b>2021</b>.",
+      "link": "https://doi.org/10.1002/9783527831883.ch30"
     },
     {
       "number": 2,
