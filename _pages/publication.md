@@ -1,22 +1,31 @@
 ---
-layout: page
-title:
+layout: default
+title: Publications
 permalink: /publication
 ---
 
-<!-- =========================
-  PAGE TITLE
-========================= -->
-   <div class="section-title section-bg-img" style="background-image: url('{{ '/assets/img/profile/publications.jpeg' | relative_url }}');">
+<!-- ==========================================
+     PAGE HEADER
+========================================== -->
+
+<div class="container">
+  <div class="section-title section-bg-img"
+       style="background-image: url('/assets/img/profile/publications.jpeg');">
+
     <h2>Publications</h2>
 
     <div class="title-shape">
-        <svg viewBox="0 0 200 20">
-            <path d="M 0,10 C 40,0 60,20 100,10 C 140,0 160,20 200,10"
-                  fill="none" stroke="currentColor" stroke-width="2"></path>
-        </svg>
+      <svg viewBox="0 0 200 20">
+        <path d="M 0,10 C 40,0 60,20 100,10 C 140,0 160,20 200,10"
+              fill="none"
+              stroke="currentColor"
+              stroke-width="2"></path>
+      </svg>
     </div>
+
+  </div>
 </div>
+
 
 <!-- ==========================================
      PUBLICATION CONTAINER
@@ -201,47 +210,79 @@ permalink: /publication
        PHD AND POSTDOC
   ========================================== -->
 
-  <div id="section-phd" class="pub-section">
+  <!-- PhD & Postdoc -->
+<div id="section-phd" class="pub-section" style="display:none;">
 
-    <h3>PhD &amp; Postdoc</h3>
+  <h3>PhD & Postdoc</h3>
 
-    <ul class="pub-list">
+  <ul class="pub-list">
 
-      {% for item in site.data.publications.phd %}
+    {% for item in site.data.publications.phd %}
 
-        <li class="pub-legacy-item">
+      <li class="publication-item">
 
-          <div class="pub-text-line">
+        <!-- Journal Cover Placeholder -->
+        <div class="pub-cover">
 
-            <span class="pub-no">
-              {{ item.number }}.
-            </span>
+          {% if item.cover %}
+            <img
+              src="{{ item.cover | relative_url }}"
+              alt="Journal cover"
+              loading="lazy">
+          {% else %}
+            <div class="pub-cover-placeholder">
+              <span>Journal Cover</span>
+            </div>
+          {% endif %}
 
-            <span class="pub-text">
+        </div>
 
-              {{ item.text }}
+        <!-- Publication Number -->
+        <div class="pub-number">
+          {{ item.number }}
+        </div>
 
-              {% if item.link %}
+        <!-- Publication Details -->
+        <div class="pub-details">
 
-                <a href="{{ item.link | strip }}"
-                   target="_blank"
-                   rel="noopener noreferrer">
-                  [Click Here]
-                </a>
+          <div class="pub-text">
+            {{ item.text }}
 
-              {% endif %}
-
-            </span>
-
+            {% if item.link %}
+              <a class="pub-view-link"
+                 href="{{ item.link | strip }}"
+                 target="_blank"
+                 rel="noopener noreferrer">
+                [Click Here]
+              </a>
+            {% endif %}
           </div>
 
-        </li>
+        </div>
 
-      {% endfor %}
+        <!-- Graphical Abstract Placeholder -->
+        {% if item.image %}
+          <div class="pub-graphical-abstract">
+            <a href="{{ item.link | default: item.image }}"
+               target="_blank"
+               rel="noopener noreferrer">
 
-    </ul>
+              <img
+                src="{{ item.image | relative_url }}"
+                alt="Graphical abstract"
+                loading="lazy">
 
-  </div>
+            </a>
+          </div>
+        {% endif %}
+
+      </li>
+
+    {% endfor %}
+
+  </ul>
+
+</div>
 
 
   <!-- ==========================================
@@ -478,41 +519,6 @@ permalink: /publication
   </div>
 
 </div>
-
-
-<!-- ==========================================
-     PUBLICATION CITATION FORMATTING
-     Keeps the JSON structure unchanged.
-========================================== -->
-<style>
-  #section-iitm .pub-text {
-    font-size: 16px;
-    line-height: 1.7;
-    font-weight: 400;
-    color: #111;
-    overflow-wrap: anywhere;
-  }
-
-  #section-iitm .pub-citation-text strong,
-  #section-iitm .pub-citation-text b {
-    font-weight: 400;
-  }
-
-  #section-iitm .pub-inline-link {
-    display: inline;
-    margin-left: 6px;
-    color: #0077b6;
-    font-size: inherit;
-    font-weight: 400;
-    text-decoration: none;
-    white-space: nowrap;
-  }
-
-  #section-iitm .pub-inline-link:hover {
-    text-decoration: underline;
-  }
-</style>
-
 
 <!-- ==========================================
      JAVASCRIPT
