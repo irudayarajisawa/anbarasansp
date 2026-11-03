@@ -1582,166 +1582,208 @@ header,
 /*--------------------------------------------------------------
 # Faculty Section
 --------------------------------------------------------------*/
+/*--------------------------------------------------------------
+# Faculty Section
+--------------------------------------------------------------*/
+
+/* ================= MAIN TABS ================= */
 
 .faculty-tabs {
-  text-align: center;
-  margin-bottom: 25px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 14px;
+    flex-wrap: wrap;
+    margin-bottom: 30px;
+    text-align: center;
 }
 
 .faculty-tabs button {
-  background-color: #5e1f1f;
-  color: #fff;
-  border: none;
-  padding: 10px 16px;
-  margin: 5px;
-  border-radius: 5px;
-  cursor: pointer;
+    background-color: #5e1f1f;
+    color: #fff;
+    border: none;
+    padding: 10px 18px;
+    margin: 5px;
+    border-radius: 6px;
+    cursor: pointer;
+    transition: 0.3s ease;
+}
+
+.faculty-tabs button:hover {
+    background-color: #7a2a2a;
 }
 
 .faculty-tabs button.active {
-  background-color: #432323;
+    background-color: #7a2a2a;
 }
+
+
+/* ================= FACULTY LIST ================= */
 
 .faculty-list {
-  display: flex;
-  flex-wrap: wrap;
-  justify-content: center;
-  gap: 22px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: stretch;
+    gap: 24px;
+    width: 100%;
 }
+
+
+/* ================= FACULTY CARD ================= */
 
 .faculty-card {
-  width: 260px;
-  min-height: 360px;
-  background: #fff;
-  border-radius: 12px;
-  padding: 16px;
-  text-align: center;
-  box-shadow: 0 4px 12px rgba(0,0,0,0.12);
-  font-family: 'Poppins', sans-serif;
+    flex: 0 1 280px;
+    width: 280px;
+    max-width: 100%;
+    min-height: 360px;
+    box-sizing: border-box;
+
+    background: #fff;
+    padding: 16px;
+    border-radius: 14px;
+
+    text-align: center;
+
+    box-shadow: 0 6px 18px rgba(0, 0, 0, 0.08);
+
+    font-family: 'Poppins', sans-serif;
 }
+
+
+/* ================= PROFILE IMAGE ================= */
 
 .faculty-card img {
-  width: 150px;
-  height: 150px;
-  object-fit: cover;
-  border-radius: 10px;
-  margin-bottom: 10px;
+    width: 120px;
+    height: 120px;
+    object-fit: cover;
+    border-radius: 12px;
+    margin-bottom: 10px;
 }
 
-.faculty-card h3 {
-  font-size: 1.15rem;
-  margin: 6px 0;
+
+/* ================= NAME ================= */
+
+.faculty-card h3,
+.faculty-card .name {
+    font-size: 1.15rem;
+    font-weight: 500;
+    margin: 6px 0;
 }
+
+
+/* ================= DETAILS ================= */
 
 .faculty-card p {
-  font-size: 0.9rem;
-  margin: 4px 0;
+    font-size: 0.9rem;
+    margin: 5px 0;
+    line-height: 1.5;
 }
 
 .faculty-card a {
-  color: #1a0dab;
-  word-break: break-word;
-}
-
-.faculty-card .name {
-  font-size: 1.15rem;
-  font-weight: 600;
-  margin-bottom: 2px;
+    color: #1a0dab;
+    word-break: break-word;
 }
 
 .faculty-card .place {
-  font-size: 0.85rem;
-  color: #777;
-  margin-bottom: 10px;
+    font-size: 0.85rem;
+    color: #777;
+    margin-bottom: 10px;
 }
 
 .faculty-card .details {
-  text-align: left;
-  font-size: 0.85rem;
-  line-height: 1.45;
+    text-align: left;
+    font-size: 0.85rem;
+    line-height: 1.45;
 }
 
 .faculty-card .details p {
-  margin: 4px 0;
+    margin: 4px 0;
 }
 
 .faculty-card .details span {
-  font-weight: 600;
-  color: #333;
+    font-weight: 600;
+    color: #333;
 }
 
 .faculty-card .email {
-  margin-top: 12px;
-  font-size: 0.85rem;
-  text-align: center;
-}
-<!-- ================= STYLES ================= -->
-
-/* Tabs */
-.faculty-tabs {
-  display: flex;
-  justify-content: center;
-  gap: 14px;
-  flex-wrap: wrap;
-  margin-bottom: 30px;
+    margin-top: 12px;
+    font-size: 0.85rem;
+    text-align: center;
 }
 
-.tab-button {
-  background: #5e1f1f;
-  color: #fff;
-  border: none;
-  padding: 8px 18px;
-  border-radius: 6px;
-  cursor: pointer;
+
+/* ================= ALUMNI MAIN SECTION ================= */
+
+.alumni-section {
+    flex-direction: column;
+    align-items: stretch;
 }
 
-.tab-button.active {
-  background: #7a2a2a;
+
+/* ================= ALUMNI SUB TABS ================= */
+
+.sub-tabs {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 12px;
+    width: 100%;
+    margin-bottom: 25px;
 }
 
-/* Grid layout */
-.faculty-list {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 24px;
-}
 
-.faculty-card {
-  width: calc(25% - 18px);
-  background: #fff;
-  padding: 16px;
-  border-radius: 14px;
-  text-align: center;
-  box-shadow: 0 6px 18px rgba(0,0,0,0.08);
-}
+/* ================= ALUMNI CARDS ================= */
 
-.faculty-card img {
-  width: 120px;
-  height: 120px;
-  object-fit: cover;
-  border-radius: 12px;
-  margin-bottom: 10px;
-}
-
-/* Alumni groups share same grid */
 .alumni-group {
-  display: none;
-  flex-wrap: wrap;
-  gap: 24px;
-  width: 100%;
+    display: none;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: stretch;
+    gap: 24px;
+    width: 100%;
 }
 
 .alumni-group.active {
-  display: flex;
+    display: flex;
 }
 
-/* Responsive */
+
+/* ================= RESPONSIVE DESIGN ================= */
+
 @media (max-width: 992px) {
-  .faculty-card { width: calc(33.333% - 18px); }
+
+    .faculty-card {
+        flex: 0 1 280px;
+    }
+
 }
+
 @media (max-width: 576px) {
-  .faculty-card { width: calc(50% - 18px); }
-}
+
+    .faculty-tabs {
+        gap: 8px;
+    }
+
+    .faculty-tabs button {
+        padding: 8px 12px;
+        font-size: 13px;
+    }
+
+    .faculty-list,
+    .alumni-group {
+        justify-content: center;
+        gap: 18px;
+    }
+
+    .faculty-card {
+        flex: 0 1 100%;
+        width: 100%;
+        max-width: 320px;
+        min-height: auto;
+    }
+
+} 
 
 /* =========================================
    PUBLICATIONS PAGE
