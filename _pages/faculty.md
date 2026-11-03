@@ -5,8 +5,7 @@ permalink: /faculty
 ---
 
 <!-- ================= TITLE ================= -->
-<div class="section-title section-bg-img"
-     style="background-image: url('/assets/img/profile/group.jpeg');">
+<div class="section-title section-bg-img" style="background-image: url('{{ '/assets/img/profile/group.jpeg' | relative_url }}');">
     <h2>Members</h2>
     <div class="title-shape">
         <svg viewBox="0 0 200 20">
@@ -29,7 +28,7 @@ permalink: /faculty
 <div class="faculty-list" data-tab="phd">
 {% for p in site.data.faculty.phd_students %}
   <div class="faculty-card">
-    {% if p.image %}<img src="{{ p.image }}" alt="{{ p.name }}">{% endif %}
+    {% if p.image %}  <img src="{{ site.baseurl }}{{ p.image }}" alt="{{ p.name }}"> {% endif %}
     <h3>{{ p.name }}</h3>
     {% if p.phd %}<p>{{ p.phd }}</p>{% endif %}
     {% if p.area_of_interest %}<p>{{ p.area_of_interest }}</p>{% endif %}
@@ -42,7 +41,7 @@ permalink: /faculty
 <div class="faculty-list" data-tab="msc" style="display:none;">
 {% for p in site.data.faculty.master_students %}
   <div class="faculty-card">
-    {% if p.image %}<img src="{{ p.image }}" alt="{{ p.name }}">{% endif %}
+    {% if p.image %} <img src="{{ site.baseurl }}{{ p.image }}" alt="{{ p.name }}">{% endif %}
     <h3>{{ p.name }}</h3>
     {% if p.at_iitm %}<p>{{ p.at_iitm }}</p>{% endif %}
     {% if p.email and p.email != " " %}<p>✉️ <a href="mailto:{{ p.email }}">{{ p.email }}</a></p>{% endif %}
@@ -54,7 +53,7 @@ permalink: /faculty
 <div class="faculty-list" data-tab="parttime" style="display:none;">
 {% for p in site.data.faculty.part_time %}
   <div class="faculty-card">
-    {% if p.image %}<img src="{{ p.image }}" alt="{{ p.name }}">{% endif %}
+    <img src="{{ site.baseurl }}{{ p.image }}" alt="{{ p.name }}">{% endif %}
     <h3>{{ p.name }}</h3>
     {% if p.area_of_interest %}<p>{{ p.area_of_interest }}</p>{% endif %}
     {% if p.email and p.email != " " %}<p>✉️ <a href="mailto:{{ p.email }}">{{ p.email }}</a></p>{% endif %}
@@ -66,7 +65,7 @@ permalink: /faculty
 <div class="faculty-list" data-tab="research" style="display:none;">
 {% for p in site.data.faculty.research_associates.current %}
   <div class="faculty-card">
-    {% if p.image %}<img src="{{ p.image }}" alt="{{ p.name }}">{% endif %}
+    <img src="{{ site.baseurl }}{{ p.image }}" alt="{{ p.name }}">{% endif %}
     <h3>{{ p.name }}</h3>
     {% if p.at_iitm %}<p><strong>IITM:</strong> {{ p.at_iitm }}</p>{% endif %}
     {% if p.area_of_interest %}<p><strong>Research Area:</strong> {{ p.area_of_interest }}</p>{% endif %}
@@ -89,7 +88,7 @@ permalink: /faculty
   <div class="alumni-group" data-group="phd">
   {% for p in site.data.faculty.alumni.phd %}
     <div class="faculty-card">
-      {% if p.image %}<img src="{{ p.image }}" alt="{{ p.name }}">{% endif %}
+      <img src="{{ site.baseurl }}{{ p.image }}" alt="{{ p.name }}">{% endif %}
       <h3>{{ p.name }}</h3>
       {% if p.phd_year %}<p><strong>Ph.D:</strong> {{ p.phd_year }}</p>{% endif %}
       {% if p.thesis_title %}<p><em>{{ p.thesis_title }}</em></p>{% endif %}
@@ -103,7 +102,7 @@ permalink: /faculty
   <div class="alumni-group" data-group="msc" style="display:none;">
   {% for p in site.data.faculty.alumni.msc %}
     <div class="faculty-card">
-      {% if p.image %}<img src="{{ p.image }}" alt="{{ p.name }}">{% endif %}
+      <img src="{{ site.baseurl }}{{ p.image }}" alt="{{ p.name }}">{% endif %}
       <h3>{{ p.name }}</h3>
       {% if p.at_iitm %}<p>{{ p.at_iitm }}</p>{% endif %}
       {% if p.current_position and p.current_position != " " %}<p>{{ p.current_position }}</p>{% endif %}
@@ -116,7 +115,7 @@ permalink: /faculty
   <div class="alumni-group" data-group="research_associates" style="display:none;">
   {% for p in site.data.faculty.alumni.research_associates %}
     <div class="faculty-card">
-      {% if p.image %}<img src="{{ p.image }}" alt="{{ p.name }}">{% endif %}
+     <img src="{{ site.baseurl }}{{ p.image }}" alt="{{ p.name }}">{% endif %}
       <h3>{{ p.name }}</h3>
       {% if p.at_iitm %}<p><strong>IITM:</strong> {{ p.at_iitm }}</p>{% endif %}
       {% if p.area_of_interest %}<p><strong>Research Area:</strong> {{ p.area_of_interest }}</p>{% endif %}
