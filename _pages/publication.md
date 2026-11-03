@@ -9,9 +9,7 @@ permalink: /publication
 ========================================== -->
 
 <div class="container">
-  <div class="section-title section-bg-img"
-       style="background-image: url('/assets/img/profile/publications.jpeg');">
-
+<div class="section-title section-bg-img" style="background-image: url('{{ '/assets/img/profile/publications.jpeg' | relative_url }}');">
     <h2>Publications</h2>
 
     <div class="title-shape">
