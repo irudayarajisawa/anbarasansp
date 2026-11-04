@@ -713,6 +713,7 @@
       "number": 9,
       "text": "Stereoselective formal synthesis of (–)-centrolobine. K. R. Prasad, P. Anbarasan; <i>Tetrahedron</i> <b>2007</b>, <i>63</i>, 1089.",
       "link": "https://doi.org/10.1016/j.tet.2006.11.062",
+      "cover": "/assets/img/publication/coverimg/T.jpeg",
       "image": "/assets/img/publication/9.png"
     },
     {
@@ -726,12 +727,14 @@
       "number": 7,
       "text": "An expeditious enantiospecific synthesis of (+)-2-hydroxy-exo-brevicomin. K. R. Prasad, P. Anbarasan; <i>Synlett</i> <b>2006</b>, 2087.",
       "link": "https://www.thieme-connect.de/products/ejournals/abstract/10.1055/s-2006-948190",
-      "image": "/assets/img/publication/7.png"
+      "cover": "/assets/img/publication/coverimg/SL.jpeg",
+      "image": null
     },
     {
       "number": 6,
       "text": "Enantiodivergent synthesis of both antipodes of hydroxy-exo-brevicomin. K. R. Prasad, P. Anbarasan; <i>Tetrahedron</i> <b>2006</b>, <i>62</i>, 8303.",
       "link": "https://doi.org/10.1016/j.tet.2006.06.053",
+      "cover": "/assets/img/publication/coverimg/T.jpeg",
       "image": "/assets/img/publication/6.png"
     },
     {
