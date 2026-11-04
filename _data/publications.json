@@ -740,12 +740,14 @@
       "number": 4,
       "text": "Stereoselective synthesis of (+)-boronolide and (–)-5-epi-boronolide. K. R. Prasad, P. Anbarasan; <i>Tetrahedron: Asymmetry</i> <b>2006</b>, <i>17</i>, 1146.",
       "link": "https://doi.org/10.1016/j.tetasy.2006.03.028",
+      "cover": "/assets/img/publication/coverimg/TA.jpeg",
       "image": null
     },
     {
       "number": 3,
       "text": "Enantiospecific synthesis of (–)-2-hydroxy-exo-brevicomin. K. R. Prasad, P. Anbarasan; <i>Tetrahedron: Asymmetry</i> <b>2006</b>, <i>17</i>, 850.",
       "link": "https://doi.org/10.1016/j.tetasy.2006.02.023",
+      "cover": "/assets/img/publication/coverimg/TA.jpeg",
       "image": null
     },
     {
@@ -758,6 +760,7 @@
       "number": 1,
       "text": "Asymmetric synthesis of unsaturated α-benzyloxyaldehydes: An enantioselective synthesis of (+)-exo-brevicomin. K. R. Prasad, P. Anbarasan; <i>Tetrahedron: Asymmetry</i> <b>2005</b>, <i>16</i>, 3951.",
       "link": "https://doi.org/10.1016/j.tetasy.2005.10.035",
+      "cover": "/assets/img/publication/coverimg/TA.jpeg",
       "image": null
     }
   ],
