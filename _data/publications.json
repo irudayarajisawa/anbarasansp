@@ -686,12 +686,14 @@
       "number": 13,
       "text": "Stereoselective synthesis of (−)-6-acetoxyhexadecanolide: a mosquito oviposition attractant pheromone. K. R. Prasad, P. Anbarasan; <i>Tetrahedron: Asymmetry</i> <b>2007</b>, <i>18</i>, 2479.",
       "link": "https://doi.org/10.1016/j.tetasy.2007.10.006",
+      "cover": "/assets/img/publication/coverimg/TA.jpeg",
       "image": null
     },
     {
       "number": 12,
       "text": "Enantioselective synthesis of α-benzyloxy-ω-alkenals: Application to the synthesis of (+)-exo-brevicomin, (+)-iso-exo-brevicomin, and (−)-isolaurepan. K. R. Prasad, P. Anbarasan; <i>Tetrahedron: Asymmetry</i> <b>2007</b>, <i>18</i>, 1419.",
       "link": "https://doi.org/10.1016/j.tetasy.2007.05.014",
+      "cover": "/assets/img/publication/coverimg/TA.jpeg",
       "image": null
     },
     {
@@ -704,6 +706,7 @@
       "number": 10,
       "text": "Stereoselective synthesis of (–)-microcarpalide. K. R. Prasad, K. Penchalaiah, A. choudhary, P. Anbarasan; <i>Tetrahedron Lett.</i> <b>2007</b>, <i>48</i>, 309.",
       "link": "https://doi.org/10.1016/j.tetlet.2006.11.027",
+      "cover": "/assets/img/publication/coverimg/TL.jpeg",
       "image": null
     },
     {
@@ -716,6 +719,7 @@
       "number": 8,
       "text": "Enantiospecific synthesis of (–)-muricatacin from L-(+)-tartaric acid. K. R. Prasad, P. Anbarasan; <i>Tetrahedron: Asymmetry</i> <b>2006</b>, <i>17</i>, 2465.",
       "link": "https://doi.org/10.1016/j.tetasy.2006.09.017",
+      "cover": "/assets/img/publication/coverimg/TA.jpeg",
       "image": null
     },
     {
@@ -734,6 +738,7 @@
       "number": 5,
       "text": "AAsymmetric synthesis of both enantiomers of α-methyl-α-methoxyphenylacetic acid from L-(+)-tartaric acid: Formal enantioselective synthesis of insect pheromone (−)-frontalin. K. R. Prasad, A. Chandrakumar, P. Anbarasan; <i>Tetrahedron: Asymmetry</i> <b>2006</b>, <i>17</i>, 1979.",
       "link": "https://doi.org/10.1016/j.tetasy.2006.07.007",
+      "cover": "/assets/img/publication/coverimg/TA.jpeg",
       "image": null
     },
     {
@@ -754,14 +759,15 @@
       "number": 2,
       "text": "An enantiospecific synthesis of (+)-hydroxy-exo-brevicomin. K. R. Prasad, P. Anbarasan; <i>Tetrahedron Lett.</i> <b>2006</b>, <i>47</i>, 1433.",
       "link": "https://doi.org/10.1016/j.tetlet.2005.12.094",
-      "image": null
+      "cover": "/assets/img/publication/coverimg/TL.jpeg",
+      "image": "/assets/img/publication/2.png"
     },
     {
       "number": 1,
       "text": "Asymmetric synthesis of unsaturated α-benzyloxyaldehydes: An enantioselective synthesis of (+)-exo-brevicomin. K. R. Prasad, P. Anbarasan; <i>Tetrahedron: Asymmetry</i> <b>2005</b>, <i>16</i>, 3951.",
       "link": "https://doi.org/10.1016/j.tetasy.2005.10.035",
       "cover": "/assets/img/publication/coverimg/TA.jpeg",
-      "image": null
+      "image": "/assets/img/publication/1.png"
     }
   ],
   "review": [
