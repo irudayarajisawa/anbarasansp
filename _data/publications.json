@@ -13,13 +13,13 @@
     {
       "number": 1,
       "text": "Ramkumar, R.; Anbarasan, P. Copper-Catalyzed Click Reactions in Copper Catalysis in Organic Synthesis, Saranya, S., Anilkumar, G., Eds.; Wiley VCH, <b>2020</b>, p. 177. ISBN: 9783527347377.",
-      "link": "https://doi.org/10.1002/9783527826445.ch9" 
+      "link": "https://doi.org/10.1002/9783527826445.ch9"
     }
   ],
   "iitm": [
-  {
+    {
       "number": 110,
-      "text": "Catalytic Oxysulfenylation of β,γ-Unsaturated Ketoximes: An Enantioselective Synthesis of Isoxazolines. A. K. Sahu, P. Anbarasan; <i>Org. Lett.</i> <b>2026</b>, <i>28</i>, 13409–13413.",
+      "text": "Catalytic Oxysulfenylation of β,γ-Unsaturated Ketoximes: An Enantioselective Synthesis of Isoxazolines. \nA. K. Sahu, P. Anbarasan\n<i>Org. Lett.</i> <b>2026</b>, <i>28</i>, 13409–13413.",
       "link": "https://doi.org/10.1021/acs.orglett.6c03683",
       "cover": "/assets/img/publication/coverimg/110.jpeg",
       "image": "/assets/img/publication/TOC isoxazoline.png"
@@ -46,7 +46,7 @@
       "link": "https://www.thieme-connect.com/products/ejournals/abstract/10.1055/a-2738-7947"
     },
     {
-     "number": 106,
+      "number": 106,
       "text": "Enantiodivergent Synthesis of 3‐Vinylphthalides via Rh‐Catalyzed C─ H Annulation: Experimental and Computational Studies. M. Bakkiyaraj, P. Anbarasan; <i>Chem. Eur. J.</i> <b>2026</b>, <i>32</i>, e02827.",
       "cover": "/assets/img/publication/coverimg/106.jpg",
       "image": "/assets/img/publication/106.png",
@@ -152,7 +152,7 @@
     },
     {
       "number": 91,
-       "text": "Copper(I)-Catalyzed Tandem Aminobenzannulation of Dienyne with Sulfonyl azide — R. Ramkumar, S. Srikriya, P. Anbarasan; <i>J. Org. Chem.</i> <b>2024</b>, <i>89</i>, 3292.",
+      "text": "Copper(I)-Catalyzed Tandem Aminobenzannulation of Dienyne with Sulfonyl azide — R. Ramkumar, S. Srikriya, P. Anbarasan; <i>J. Org. Chem.</i> <b>2024</b>, <i>89</i>, 3292.",
       "cover": "/assets/img/publication/coverimg/91.jpeg",
       "image": "/assets/img/publication/91.png",
       "link": "https://doi.org/10.1021/acs.joc.3c02742"
@@ -178,7 +178,7 @@
       "cover": "/assets/img/publication/coverimg/88.jpeg",
       "image": "/assets/img/publication/dehydropiperidine.png"
     },
-{
+    {
       "number": 87,
       "text": "Rhodium-catalyzed [4+2]-annulation of o-acylanilines with N-sulfonyl-1,2,3-triazoles: Synthesis of 3-aminoquinolines — K. Rupa, D. Yadagiri, P. Anbarasan; <i>J. Org. Chem.</i> <b>2023</b>, <i>88</i>, 9077.",
       "link": "https://doi.org/10.1021/acs.joc.3c00748",
@@ -288,7 +288,7 @@
       "text": "Transition Metal Catalyzed C–CN Cross Coupling in C1 Chemistry. M. Dhanalakshmi, P. Anbarasan; in C1 Chemistry, Wiley-VCH, <b>2021</b>.",
       "cover": "/assets/img/publication/coverimg/72.jpeg",
       "link": "https://doi.org/10.1002/9783527831883.ch30"
-    },      
+    },
     {
       "number": 71,
       "text": "1,2,4,5-Tetrazines in Comprehensive Heterocyclic Chemistry IV. M. Chaitanya, P. Anbarasan; Elsevier, <b>2021</b>.",
@@ -475,7 +475,7 @@
       "cover": "/assets/img/publication/coverimg/45.jpeg",
       "image": "/assets/img/publication/TOC45.png"
     },
-{
+    {
       "number": 44,
       "text": "Rhodium Catalyzed Diastereoselective Synthesis of 2,2,3,3-Tetrasubstituted Indolines from N-Sulfonyl-1,2,3-Triazoles and ortho-Vinylanilines. D. Yadagiri, A. C. S. Reddy, P. Anbarasan; <i>Chem. Sci.</i> <b>2016</b>, <i>7</i>, 5934.",
       "link": "https://doi.org/10.1039/c6sc01075j",
@@ -603,7 +603,6 @@
     }
   ],
   "phd": [
-    
     {
       "number": 26,
       "text": "A well-defined iron catalyst for improved hydrogenation of carbon dioxide and bicarbonate. C. Ziebart, C. Federsal, P. Anbarasan, R. Jackstell, W. Baumann, A. Spannenberg, M. Beller; <i>J. Am. Chem. Soc.</i> <b>2012</b>, <i>134</i>, 20701.",
@@ -822,7 +821,7 @@
       "number": 1,
       "text": "Recent development and perspectives in the palladium-catalyzed cyanation of Aryl-X derivatives: synthesis of benzonitriles. P. Anbarasan, T. Schareina, M. Beller; <i>Chem. Soc. Rev.</i> <b>2011</b>, <i>40</i>, 5049.",
       "link": "https://doi.org/10.1039/c1cs15004a"
-    } 
+    }
   ],
   "patent": [
     {
@@ -841,78 +840,78 @@
     }
   ],
   "highlights": [
-  {
-    "number": 8,
-    "text": "Ligand-Controlled Chemo- and Enantiodivergent Rh(III)-Catalyzed Redox-Neutral Annulation of Aryl Hydroxamates with Cyclopropenes via C–H and C–C Activation (<i>ACS Catal.</i> <b>2025</b>, <i>15</i>, 15808) was highlighted in Synfacts: “Enantiodivergent Access to Isoindolinones and Isoquinolones under Rhodium Catalysis” (<i>Synfacts</i> <b>2025</b>, <i>21</i>, 1119).",
-    "link": "https://www.thieme-connect.de/products/ejournals/abstract/10.1055/a-2703-0622"
-  },
-  {
-    "number": 7,
-    "text": "Rhodium-Catalyzed Alkylation of Chelation-Assisted C-H bond of 1-Arylpyrazole with Cyclopropanols — K. Ramachandran, P. Anbarasan; <i>Synlett</i> <b>2023</b>, <i>34</i>, 868. (Invited article for ‘Chemical Synthesis and Catalysis in India‘). This work was highlighted in Synfacts (<i>Synfacts</i> <b>2023</b>, <i>19</i>, 0251).",
-    "link": "https://www.thieme-connect.de/products/ejournals/abstract/10.1055/s-0042-1753387"
-  },
-  {
-    "number": 6,
-    "text": "Rhodium-Catalyzed Sommelet–Hauser Type Rearrangement of α-Diazoimines: Synthesis of Functionalized Enamides — A. C. S. Reddy, K. Ramachandran, P. M. Reddy, P. Anbarasan; <i>Chem. Commun.</i> <b>2020</b>, <i>56</i>, 5649. This work was highlighted in Synfacts (<i>Synfacts</i> <b>2020</b>, <i>16</i>, 0819).",
-    "link": "https://www.thieme-connect.de/products/ejournals/abstract/10.1055/s-0040-1707036"
-  },
-  {
-    "number": 5,
-    "text": "Divergent Functionalization of N-Alkyl-2-alkenylanilines: Efficient Synthesis of Substituted Indoles and Quinolines — J. Ghorai, A. C. S. Reddy, P. Anbarasan; <i>Chem. Asian J.</i> <b>2018</b>, <i>13</i>, 2499. (Invited article: Homogeneous Catalysis from Young Investigators in Asia and highlighted in the “cover page”).",
-    "link": "https://doi.org/10.1002/asia.201800745",
-    "image": "/assets/img/publication/highlight5.png",
-    "cover_link": "https://doi.org/10.1002/asia.201800745"
-  },
-  {
-    "number": 4,
-    "text": "Rhodium Catalyzed Diastereoselective Synthesis of 2,2,3,3-Tetrasubstituted Indolines from N-Sulfonyl-1,2,3-Triazoles and ortho-Vinylanilines — D. Yadagiri, A. C. S. Reddy, P. Anbarasan; <i>Chem. Sci.</i> <b>2016</b>, <i>7</i>, 5934. This work was highlighted in Synfacts (<i>Synfacts</i> <b>2016</b>, 823).",
-    "link": "https://www.thieme-connect.de/products/ejournals/abstract/10.1055/s-0035-1562669"
-  },
-  {
-  "number": 3,
-  "text": "Integration of chemical catalysis with extractive fermentation to produce fungible fuels — P. Anbarasan, Z. C. Baer, S. Sreekumar, E. Gross, J. B. Binder, H. W. Blanch, D. S. Clark, F. D. Toste; <i>Nature</i> <b>2012</b>, <i>491</i>, 235.",
-  "links": [
     {
-      "label": "Nature Article",
-      "url": "https://www.nature.com/..."
+      "number": 8,
+      "text": "Ligand-Controlled Chemo- and Enantiodivergent Rh(III)-Catalyzed Redox-Neutral Annulation of Aryl Hydroxamates with Cyclopropenes via C–H and C–C Activation (<i>ACS Catal.</i> <b>2025</b>, <i>15</i>, 15808) was highlighted in Synfacts: “Enantiodivergent Access to Isoindolinones and Isoquinolones under Rhodium Catalysis” (<i>Synfacts</i> <b>2025</b>, <i>21</i>, 1119).",
+      "link": "https://www.thieme-connect.de/products/ejournals/abstract/10.1055/a-2703-0622"
     },
     {
-      "label": "Renewable Fuels: Catalytic Upgrade (Nature News)",
-      "url": "https://www.nature.com/news/..."
+      "number": 7,
+      "text": "Rhodium-Catalyzed Alkylation of Chelation-Assisted C-H bond of 1-Arylpyrazole with Cyclopropanols — K. Ramachandran, P. Anbarasan; <i>Synlett</i> <b>2023</b>, <i>34</i>, 868. (Invited article for ‘Chemical Synthesis and Catalysis in India‘). This work was highlighted in Synfacts (<i>Synfacts</i> <b>2023</b>, <i>19</i>, 0251).",
+      "link": "https://www.thieme-connect.de/products/ejournals/abstract/10.1055/s-0042-1753387"
     },
     {
-      "label": "Sweet Diesel – Science Daily",
-      "url": "https://www.sciencedaily.com/releases/2012/11/121107132910.htm"
+      "number": 6,
+      "text": "Rhodium-Catalyzed Sommelet–Hauser Type Rearrangement of α-Diazoimines: Synthesis of Functionalized Enamides — A. C. S. Reddy, K. Ramachandran, P. M. Reddy, P. Anbarasan; <i>Chem. Commun.</i> <b>2020</b>, <i>56</i>, 5649. This work was highlighted in Synfacts (<i>Synfacts</i> <b>2020</b>, <i>16</i>, 0819).",
+      "link": "https://www.thieme-connect.de/products/ejournals/abstract/10.1055/s-0040-1707036"
     },
     {
-      "label": "RSC Chemistry World",
-      "url": "https://www.rsc.org/..."
+      "number": 5,
+      "text": "Divergent Functionalization of N-Alkyl-2-alkenylanilines: Efficient Synthesis of Substituted Indoles and Quinolines — J. Ghorai, A. C. S. Reddy, P. Anbarasan; <i>Chem. Asian J.</i> <b>2018</b>, <i>13</i>, 2499. (Invited article: Homogeneous Catalysis from Young Investigators in Asia and highlighted in the “cover page”).",
+      "link": "https://doi.org/10.1002/asia.201800745",
+      "image": "/assets/img/publication/highlight5.png",
+      "cover_link": "https://doi.org/10.1002/asia.201800745"
     },
     {
-      "label": "The Times of India",
-      "url": "https://timesofindia.indiatimes.com/..."
+      "number": 4,
+      "text": "Rhodium Catalyzed Diastereoselective Synthesis of 2,2,3,3-Tetrasubstituted Indolines from N-Sulfonyl-1,2,3-Triazoles and ortho-Vinylanilines — D. Yadagiri, A. C. S. Reddy, P. Anbarasan; <i>Chem. Sci.</i> <b>2016</b>, <i>7</i>, 5934. This work was highlighted in Synfacts (<i>Synfacts</i> <b>2016</b>, 823).",
+      "link": "https://www.thieme-connect.de/products/ejournals/abstract/10.1055/s-0035-1562669"
     },
     {
-      "label": "Biodiesel Magazine",
-      "url": "https://www.biodieselmagazine.com/..."
+      "number": 3,
+      "text": "Integration of chemical catalysis with extractive fermentation to produce fungible fuels — P. Anbarasan, Z. C. Baer, S. Sreekumar, E. Gross, J. B. Binder, H. W. Blanch, D. S. Clark, F. D. Toste; <i>Nature</i> <b>2012</b>, <i>491</i>, 235.",
+      "links": [
+        {
+          "label": "Nature Article",
+          "url": "https://www.nature.com/..."
+        },
+        {
+          "label": "Renewable Fuels: Catalytic Upgrade (Nature News)",
+          "url": "https://www.nature.com/news/..."
+        },
+        {
+          "label": "Sweet Diesel – Science Daily",
+          "url": "https://www.sciencedaily.com/releases/2012/11/121107132910.htm"
+        },
+        {
+          "label": "RSC Chemistry World",
+          "url": "https://www.rsc.org/..."
+        },
+        {
+          "label": "The Times of India",
+          "url": "https://timesofindia.indiatimes.com/..."
+        },
+        {
+          "label": "Biodiesel Magazine",
+          "url": "https://www.biodieselmagazine.com/..."
+        },
+        {
+          "label": "LBNL & US DOE",
+          "url": "https://energy.gov/..."
+        }
+      ]
     },
     {
-      "label": "LBNL & US DOE",
-      "url": "https://energy.gov/..."
+      "number": 2,
+      "text": "A novel and convenient synthesis of benzonitriles: electrophilic cyanation of aryl and heteroaryl bromides — P. Anbarasan, H. Neumann, M. Beller; <i>Chem. Eur. J.</i> <b>2011</b>, <i>17</i>, 4217. (Selected as VIP and highlighted in the “cover page”).",
+      "link": "https://doi.org/10.1002/chem.201190071",
+      "image": "/assets/img/publication/highlight2.jpg",
+      "cover_link": "https://doi.org/10.1002/chem.201190071"
+    },
+    {
+      "number": 1,
+      "text": "Efficient synthesis of aryl fluorides — P. Anbarasan, H. Neumann, M. Beller; <i>Angew. Chem. Int. Ed.</i> <b>2010</b>, <i>49</i>, 2219. This paper was highlighted as “Hot Paper” in Angewandte Chemie and one of the most accessed articles in 8/2009–7/2010.",
+      "link": "https://onlinelibrary.wiley.com/..."
     }
   ]
-},
-  {
-    "number": 2,
-    "text": "A novel and convenient synthesis of benzonitriles: electrophilic cyanation of aryl and heteroaryl bromides — P. Anbarasan, H. Neumann, M. Beller; <i>Chem. Eur. J.</i> <b>2011</b>, <i>17</i>, 4217. (Selected as VIP and highlighted in the “cover page”).",
-    "link": "https://doi.org/10.1002/chem.201190071",
-    "image": "/assets/img/publication/highlight2.jpg",
-    "cover_link": "https://doi.org/10.1002/chem.201190071"
-  },
-  {
-    "number": 1,
-    "text": "Efficient synthesis of aryl fluorides — P. Anbarasan, H. Neumann, M. Beller; <i>Angew. Chem. Int. Ed.</i> <b>2010</b>, <i>49</i>, 2219. This paper was highlighted as “Hot Paper” in Angewandte Chemie and one of the most accessed articles in 8/2009–7/2010.",
-    "link": "https://onlinelibrary.wiley.com/..."
-  }
-]
 }
