@@ -674,33 +674,36 @@
       "number": 15,
       "text": "A convenient synthesis of benzonitriles via electrophilic cyanation with N-cyanobenzimidazole. P. Anbarasan, H. Neumann, M. Beller; <i>Chem. Eur. J.</i> <b>2010</b>, <i>16</i>, 4725.",
       "link": "hhttps://doi.org/10.1002/chem.201000086",
-      "image": null
+      "cover": "/assets/img/publication/coverimg/15.jpeg",
+      "image": "/assets/img/publication/15.png"
     },
     {
       "number": 14,
       "text": "Efficient synthesis of aryl fluorides. P. Anbarasan, H. Neumann, M. Beller; <i>Angew. Chem. Int. Ed.,</i> <b>2010</b>, <i>49</i>, 2219.",
       "link": "https://doi.org/10.1002/anie.200905855",
-      "image": null
+      "cover": "/assets/img/publication/coverimg/14.jpeg",
+      "image": "/assets/img/publication/14.png"
     },
     {
       "number": 13,
       "text": "Stereoselective synthesis of (−)-6-acetoxyhexadecanolide: a mosquito oviposition attractant pheromone. K. R. Prasad, P. Anbarasan; <i>Tetrahedron: Asymmetry</i> <b>2007</b>, <i>18</i>, 2479.",
       "link": "https://doi.org/10.1016/j.tetasy.2007.10.006",
       "cover": "/assets/img/publication/coverimg/TA.jpeg",
-      "image": null
+      "image": "/assets/img/publication/13.png"
     },
     {
       "number": 12,
       "text": "Enantioselective synthesis of α-benzyloxy-ω-alkenals: Application to the synthesis of (+)-exo-brevicomin, (+)-iso-exo-brevicomin, and (−)-isolaurepan. K. R. Prasad, P. Anbarasan; <i>Tetrahedron: Asymmetry</i> <b>2007</b>, <i>18</i>, 1419.",
       "link": "https://doi.org/10.1016/j.tetasy.2007.05.014",
       "cover": "/assets/img/publication/coverimg/TA.jpeg",
-      "image": null
+      "image": "/assets/img/publication/12.png"
     },
     {
       "number": 11,
       "text": "Enantiodivergent synthesis of both enantiomers of gypsy moth pheromone disparlure. K. R. Prasad, P. Anbarasan; <i>J. Org. Chem.</i> <b>2007</b>, <i>72</i>, 3155.",
       "link": "https://doi.org/10.1021/jo070060o",
-      "image": null
+      "cover": "/assets/img/publication/coverimg/11.jpeg",
+      "image": "/assets/img/publication/11.png"
     },
     {
       "number": 10,
