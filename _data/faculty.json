@@ -177,18 +177,20 @@
   ],
   "research_associates": {
     "current": [
-    {
-      "name": "Ariprasanth R.",
-      "at_iitm": "Research Associate (Nov 2026-present)",
-      "email": "ariprasanth.chemist@gmail.com",
-      "image": "/assets/img/members/"
-    }
+    
     {
       "name": "S. Elavarasan",
       "at_iitm": "NPDF (Dec 2025-present)",
       "email": "searasan441@gmail.com",
       "image": "/assets/img/members/"
     }
+    {
+      "name": "R. Ariprasanth",
+      "at_iitm": "Research Associate (Nov 2026-present)",
+      "email": "ariprasanth.chemist@gmail.com",
+      "image": "/assets/img/members/"
+    }
+    
     ]
   },
   "alumni": {
